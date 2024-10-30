@@ -1,0 +1,122 @@
+[
+    {
+        "metric": "Net profit",
+        "value": "1.9",
+        "unit": "S$ million",
+        "key_word": "accumulated profits",
+        "standard_metric": "Ownership and Management",
+        "similarities": 0.9376104474067688
+    },
+    {
+        "metric": "Total greenhouse gas ( GHG ) emissions",
+        "value": "346",
+        "unit": "tonnes CO2e",
+        "key_word": "Total Direct (Scope 1) CO2e Emissions",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.8568124175071716
+    },
+    {
+        "metric": "GHG emissions intensity (Scope 2)",
+        "value": "0.018",
+        "unit": "tonnes CO2e / revenue S$ 000",
+        "key_word": "Total Direct (Scope 1) CO2e Emissions",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.9311643838882446
+    },
+    {
+        "metric": "Employee turnover rate",
+        "value": "13.7",
+        "unit": "(%)2",
+        "key_word": "Diversion Rate",
+        "standard_metric": "Product Carbon Footprint",
+        "similarities": 0.8806462287902832
+    },
+    {
+        "metric": "Electricity consumption",
+        "value": "830,232",
+        "unit": "kWh",
+        "key_word": "Electricity used",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.9485980272293091
+    },
+    {
+        "metric": "Total indirect GHG emissions (Scope 2)",
+        "value": "346",
+        "unit": "tonnes CO2e",
+        "key_word": "Total Direct (Scope 1) CO2e Emissions",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.9546480774879456
+    },
+    {
+        "metric": "New hires rate",
+        "value": "27.1%",
+        "unit": null,
+        "key_word": "Diversion Rate",
+        "standard_metric": "Product Carbon Footprint",
+        "similarities": 0.9116945266723633
+    },
+    {
+        "metric": "Total training hours",
+        "value": "480",
+        "unit": null,
+        "key_word": "operational shifts",
+        "standard_metric": "Labor Management",
+        "similarities": 0.9347068071365356
+    },
+    {
+        "metric": "Average training hours per employee",
+        "value": "3.3",
+        "unit": "hours",
+        "key_word": "annual total compensation ratio",
+        "standard_metric": "Remuneration",
+        "similarities": 0.894328773021698
+    },
+    {
+        "metric": "Gender Diversity ",
+        "value": "80%",
+        "unit": "%",
+        "key_word": "cultural sensitivity",
+        "standard_metric": "Community Relations",
+        "similarities": 0.9241034984588623
+    },
+    {
+        "metric": " above 50 years old",
+        "value": "17%",
+        "unit": "%",
+        "key_word": "share price",
+        "standard_metric": "Ownership and Management",
+        "similarities": 0.9073222875595093
+    },
+    {
+        "metric": "Below 30",
+        "value": "29%",
+        "unit": "%",
+        "key_word": "share price",
+        "standard_metric": "Ownership and Management",
+        "similarities": 0.8912501335144043
+    },
+    {
+        "metric": "Customer Satisfaction",
+        "value": "Maintain zero non-compliance incident",
+        "unit": null,
+        "key_word": "customer safety",
+        "standard_metric": "Product Safety & Quality",
+        "similarities": 0.9584938883781433
+    },
+    {
+        "metric": "Economic Performance",
+        "value": "Creating sustainable value",
+        "unit": null,
+        "key_word": "product quality",
+        "standard_metric": "Business Ethics",
+        "similarities": 0.9202831387519836
+    },
+    {
+        "metric": "Emissions Management",
+        "value": "Maintain or reduce Scope 2 GHG",
+        "unit": null,
+        "key_word": "Waste Management",
+        "standard_metric": "Product Carbon Footprint",
+        "similarities": 0.9750772714614868
+    }
+]

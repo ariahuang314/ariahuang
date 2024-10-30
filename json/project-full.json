@@ -1,0 +1,808 @@
+[
+  {
+    "value": "1 ",
+    "id": 1,
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2024-10-30T12:29:28.924502Z",
+    "updated_at": "2024-10-30T12:29:28.924502Z",
+    "lead_time": 2.359
+  },
+  {
+    "value": "Net profit (S$ million) ",
+    "id": 44,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "Net profit",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "text": "S$ million",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2024-10-30T11:36:08.419250Z",
+    "updated_at": "2024-10-30T11:36:08.419250Z",
+    "lead_time": 120.997
+  },
+  {
+    "value": "1.9 ",
+    "id": 45,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "1.9",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2024-10-30T12:29:12.240891Z",
+    "updated_at": "2024-10-30T12:29:12.240891Z",
+    "lead_time": 15.957
+  },
+  {
+    "value": "Total greenhouse gas ( GHG ) emissions ",
+    "id": 48,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 38,
+        "text": "Total greenhouse gas ( GHG ) emissions",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2024-10-30T11:37:05.009668Z",
+    "updated_at": "2024-10-30T11:37:25.541002Z",
+    "lead_time": 13.391000000000002
+  },
+  {
+    "value": "(tonnes CO2e) ",
+    "id": 50,
+    "metrics": [
+      {
+        "start": 1,
+        "end": 12,
+        "text": "tonnes CO2e",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2024-10-30T11:37:48.853610Z",
+    "updated_at": "2024-10-30T11:37:48.853610Z",
+    "lead_time": 11.725
+  },
+  {
+    "value": "346 ",
+    "id": 51,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "346",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2024-10-30T12:28:54.560714Z",
+    "updated_at": "2024-10-30T12:28:54.560714Z",
+    "lead_time": 12.835
+  },
+  {
+    "value": "GHG emissions intensity (Scope 2) ",
+    "id": 53,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 33,
+        "text": "GHG emissions intensity (Scope 2)",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2024-10-30T11:38:41.901775Z",
+    "updated_at": "2024-10-30T11:38:41.901775Z",
+    "lead_time": 9.439
+  },
+  {
+    "value": "(tonnes CO2e \/ revenue S$ 000) ",
+    "id": 55,
+    "metrics": [
+      {
+        "start": 1,
+        "end": 29,
+        "text": "tonnes CO2e \/ revenue S$ 000",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2024-10-30T11:39:04.881013Z",
+    "updated_at": "2024-10-30T11:39:04.881013Z",
+    "lead_time": 14.019
+  },
+  {
+    "value": "0.018 ",
+    "id": 56,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "0.018",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2024-10-30T11:39:24.577857Z",
+    "updated_at": "2024-10-30T11:39:24.577857Z",
+    "lead_time": 9.617
+  },
+  {
+    "value": "Employee turnover rate (%)2 ",
+    "id": 63,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Employee turnover rate",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "(%)2",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-10-30T11:39:52.463284Z",
+    "updated_at": "2024-10-30T11:39:52.463284Z",
+    "lead_time": 14.27
+  },
+  {
+    "value": "13.7 ",
+    "id": 64,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "13.7",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-10-30T11:40:41.394245Z",
+    "updated_at": "2024-10-30T11:40:41.394245Z",
+    "lead_time": 45.823
+  },
+  {
+    "value": "Electricity consumption ",
+    "id": 652,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 23,
+        "text": "Electricity consumption",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-10-30T11:47:28.716544Z",
+    "updated_at": "2024-10-30T11:47:28.716544Z",
+    "lead_time": 6.202
+  },
+  {
+    "value": "kWh ",
+    "id": 653,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "kWh",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-10-30T11:47:38.877041Z",
+    "updated_at": "2024-10-30T11:47:38.877041Z",
+    "lead_time": 7.691
+  },
+  {
+    "value": "830,232 ",
+    "id": 654,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "830,232",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2024-10-30T11:47:44.852198Z",
+    "updated_at": "2024-10-30T11:47:44.852198Z",
+    "lead_time": 4.776
+  },
+  {
+    "value": "Electricity consumption intensity ",
+    "id": 656,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 33,
+        "text": "Electricity consumption intensity",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2024-10-30T11:47:59.811698Z",
+    "updated_at": "2024-10-30T11:47:59.811698Z",
+    "lead_time": 6.32
+  },
+  {
+    "value": "Total indirect GHG emissions (Scope 2)8 ",
+    "id": 661,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 38,
+        "text": "Total indirect GHG emissions (Scope 2)",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2024-10-30T11:49:03.309366Z",
+    "updated_at": "2024-10-30T11:49:03.309366Z",
+    "lead_time": 6.272
+  },
+  {
+    "value": "tonnes CO2e ",
+    "id": 662,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "tonnes CO2e",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2024-10-30T11:49:10.053370Z",
+    "updated_at": "2024-10-30T11:49:10.054370Z",
+    "lead_time": 5.637
+  },
+  {
+    "value": "346 ",
+    "id": 663,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "346",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2024-10-30T11:49:16.195654Z",
+    "updated_at": "2024-10-30T11:49:16.195654Z",
+    "lead_time": 4.753
+  },
+  {
+    "value": "FY2023 ",
+    "id": 774,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "FY2023",
+        "labels": [
+          "year"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2024-10-30T11:50:50.464308Z",
+    "updated_at": "2024-10-30T11:50:50.464308Z",
+    "lead_time": 9.829
+  },
+  {
+    "value": "New hires rate ",
+    "id": 778,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "New hires rate",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2024-10-30T11:51:14.109360Z",
+    "updated_at": "2024-10-30T11:51:14.109360Z",
+    "lead_time": 4.288
+  },
+  {
+    "value": "New hires rate ",
+    "id": 783,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "New hires rate",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2024-10-30T11:52:09.039488Z",
+    "updated_at": "2024-10-30T11:52:09.039488Z",
+    "lead_time": 6.419
+  },
+  {
+    "value": "27.1% ",
+    "id": 785,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "27.1%",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2024-10-30T11:52:42.699257Z",
+    "updated_at": "2024-10-30T11:52:42.699257Z",
+    "lead_time": 19.328
+  },
+  {
+    "value": "FY2023 ",
+    "id": 823,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "FY2023",
+        "labels": [
+          "year"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2024-10-30T11:53:48.737849Z",
+    "updated_at": "2024-10-30T11:53:48.737849Z",
+    "lead_time": 6.888
+  },
+  {
+    "value": "Turnover rate ",
+    "id": 827,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "Turnover rate",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2024-10-30T11:54:04.090799Z",
+    "updated_at": "2024-10-30T11:54:04.090799Z",
+    "lead_time": 8.552
+  },
+  {
+    "value": "FY2023 ",
+    "id": 885,
+    "metrics": [
+      {
+        "start": 2,
+        "end": 6,
+        "text": "2023",
+        "labels": [
+          "year"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2024-10-30T11:54:47.642109Z",
+    "updated_at": "2024-10-30T11:54:47.642109Z",
+    "lead_time": 5.906
+  },
+  {
+    "value": "Total training hours ",
+    "id": 888,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Total training hours",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2024-10-30T11:54:58.798603Z",
+    "updated_at": "2024-10-30T11:54:58.798603Z",
+    "lead_time": 4.781
+  },
+  {
+    "value": "480 ",
+    "id": 889,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "480",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2024-10-30T11:55:10.166038Z",
+    "updated_at": "2024-10-30T11:55:10.166038Z",
+    "lead_time": 3.981
+  },
+  {
+    "value": "Average training hours per employee ",
+    "id": 891,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 35,
+        "text": "Average training hours per employee",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": "hours",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2024-10-30T14:27:24.168590Z",
+    "updated_at": "2024-10-30T14:27:24.168590Z",
+    "lead_time": 37.163
+  },
+  {
+    "value": "3.3 ",
+    "id": 892,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "3.3",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2024-10-30T14:27:38.521658Z",
+    "updated_at": "2024-10-30T14:27:38.521658Z",
+    "lead_time": 12.704
+  },
+  {
+    "value": "Gender Diversity (%) ",
+    "id": 1000,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 17,
+        "text": "Gender Diversity ",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2024-10-30T14:29:33.556328Z",
+    "updated_at": "2024-10-30T14:29:33.556328Z",
+    "lead_time": 9.386
+  },
+  {
+    "value": "On gender diversity, the percentage of female to total number of full-time employees is 80% (FY2022: ",
+    "id": 1001,
+    "metrics": [
+      {
+        "start": 88,
+        "end": 91,
+        "text": "80%",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2024-10-30T14:30:35.380276Z",
+    "updated_at": "2024-10-30T14:30:35.380276Z",
+    "lead_time": 32.964
+  },
+  {
+    "value": "31 December 2023, 17% of our workforce is above 50 years old (31 December 2022: 25%).  ",
+    "id": 1008,
+    "metrics": [
+      {
+        "start": 41,
+        "end": 60,
+        "text": " above 50 years old",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "17%",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2024-10-30T14:30:28.080800Z",
+    "updated_at": "2024-10-30T14:30:28.080800Z",
+    "lead_time": 15.994
+  },
+  {
+    "value": "Below 30 ",
+    "id": 1022,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Below 30",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2024-10-30T14:32:52.007874Z",
+    "updated_at": "2024-10-30T14:32:52.007874Z",
+    "lead_time": 25.375999999999998
+  },
+  {
+    "value": "29% ",
+    "id": 1026,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "29%",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2024-10-30T14:32:59.239774Z",
+    "updated_at": "2024-10-30T14:33:02.970879Z",
+    "lead_time": 8.055
+  },
+  {
+    "value": "Customer Satisfaction ",
+    "id": 1152,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 21,
+        "text": "Customer Satisfaction",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2024-10-30T14:35:01.791472Z",
+    "updated_at": "2024-10-30T14:35:01.791472Z",
+    "lead_time": 5.888
+  },
+  {
+    "value": "Maintain zero non-compliance incident of ",
+    "id": 1154,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 37,
+        "text": "Maintain zero non-compliance incident",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2024-10-30T14:35:23.237473Z",
+    "updated_at": "2024-10-30T14:35:23.238472Z",
+    "lead_time": 14.754
+  },
+  {
+    "value": "Economic Performance ",
+    "id": 1159,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Economic Performance",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2024-10-30T14:35:40.742731Z",
+    "updated_at": "2024-10-30T14:35:40.742731Z",
+    "lead_time": 7.966
+  },
+  {
+    "value": "Creating sustainable value for our ",
+    "id": 1161,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 26,
+        "text": "Creating sustainable value",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2024-10-30T14:35:48.433104Z",
+    "updated_at": "2024-10-30T14:35:48.433104Z",
+    "lead_time": 4.026
+  },
+  {
+    "value": "Emissions Management ",
+    "id": 1177,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Emissions Management",
+        "labels": [
+          "metric"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2024-10-30T14:36:16.818724Z",
+    "updated_at": "2024-10-30T14:36:16.818724Z",
+    "lead_time": 4.253
+  },
+  {
+    "value": "Maintain or reduce Scope 2 GHG ",
+    "id": 1180,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 30,
+        "text": "Maintain or reduce Scope 2 GHG",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2024-10-30T14:36:27.805737Z",
+    "updated_at": "2024-10-30T14:36:39.688606Z",
+    "lead_time": 17.083
+  }
+]

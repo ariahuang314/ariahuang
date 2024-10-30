@@ -1,0 +1,98 @@
+[
+    {
+        "metric": "Total greenhouse gas ( GHG ) emissions",
+        "value": "346",
+        "unit": "tonnes CO2e",
+        "key_word": "Total Direct (Scope 1) CO2e Emissions",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.31977824090313944
+    },
+    {
+        "metric": "GHG emissions intensity (Scope 2)",
+        "value": "0.018",
+        "unit": "tonnes CO2e / revenue S$ 000",
+        "key_word": "Energy intensity",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.418770548256051
+    },
+    {
+        "metric": "Employee turnover rate",
+        "value": "13.7",
+        "unit": "(%)2",
+        "key_word": "workforce turnover",
+        "standard_metric": "Labor Management",
+        "similarities": 0.44917925311754137
+    },
+    {
+        "metric": "Electricity consumption",
+        "value": "830,232",
+        "unit": "kWh",
+        "key_word": "Electricity used",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.3930630891371704
+    },
+    {
+        "metric": "Total indirect GHG emissions (Scope 2)",
+        "value": "346",
+        "unit": "tonnes CO2e",
+        "key_word": "Total Direct (Scope 1) CO2e Emissions",
+        "standard_metric": "Carbon Emissions",
+        "similarities": 0.5057946476249612
+    },
+    {
+        "metric": "New hires rate",
+        "value": "27.1%",
+        "unit": null,
+        "key_word": "Diversion Rate",
+        "standard_metric": "Product Carbon Footprint",
+        "similarities": 0.3551031861720548
+    },
+    {
+        "metric": "Total training hours",
+        "value": "480",
+        "unit": null,
+        "key_word": "working hours",
+        "standard_metric": "Labor Management",
+        "similarities": 0.4428920475966639
+    },
+    {
+        "metric": "Average training hours per employee",
+        "value": "3.3",
+        "unit": "hours",
+        "key_word": "working hours",
+        "standard_metric": "Labor Management",
+        "similarities": 0.31624557225267413
+    },
+    {
+        "metric": "Gender Diversity ",
+        "value": "80%",
+        "unit": "%",
+        "key_word": "- gender diversity",
+        "standard_metric": "Diversity, Equity, and Inclusion (DEI)",
+        "similarities": 1.0
+    },
+    {
+        "metric": " above 50 years old",
+        "value": "17%",
+        "unit": "%",
+        "key_word": "vp-and-above roles held by women",
+        "standard_metric": "Board",
+        "similarities": 0.20955374262247997
+    },
+    {
+        "metric": "Customer Satisfaction",
+        "value": "Maintain zero non-compliance incident",
+        "unit": null,
+        "key_word": "customer safety",
+        "standard_metric": "Product Safety & Quality",
+        "similarities": 0.4942559214893481
+    },
+    {
+        "metric": "Emissions Management",
+        "value": "Maintain or reduce Scope 2 GHG",
+        "unit": null,
+        "key_word": "emissions control",
+        "standard_metric": "Chemical Safety",
+        "similarities": 0.4694325796359617
+    }
+]
