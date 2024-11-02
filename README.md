@@ -11,7 +11,7 @@
 我觉得模型可能需要：  
 少量的标签报告内容（体力活）    
 
-#### 代码内容
+## 代码内容
 写在前面，所有的input output文件名有些只包含了前半部分  
 eg: grouped_data.json 代表目前所有以grouped_data开头和.json结尾的文件 如: grouped_data_full.json  
 后半部分不同有时只是数据量不同  
@@ -31,15 +31,16 @@ eg: grouped_data.json 代表目前所有以grouped_data开头和.json结尾的�
   - output: json/grouped_data.json  
 
 - scr/ESG_metric_LLM2.ipynb   
-第一个部分：将标准化json按照BIO标签转换为txt  
-BIO标签是bert学习的格式
+  第一个部分：将标准化json按照BIO标签转换为txt  
+  BIO标签是bert学习的格式
   - format:Net B-INDICATOR profit I-INDICATOR 1.9 B-VALUE S$ B-UNIT million I-UNIT
   - input: json/grouped_data.json  
   - output: output/bio_data.json  
 
-之后部分：调用模型DeBERTa（基于bert的提升模型）  
-目前包含模型调优，模型训练，保存模型，调用调优模型  
-**但是不知道为什么输出是空的,你们可以在此基础上调优或者替换模型，我确实调不出来了**  
+- scr/ESG_metric_LLM2.ipynb  
+  之后部分：调用模型DeBERTa（基于bert的提升模型）  
+  目前包含模型调优，模型训练，保存模型，调用调优模型  
+  **但是不知道为什么输出是空的,你们可以在此基础上调优或者替换模型，我确实调不出来了**  
   - input:  
     json_filepath = '../json/grouped_data_full1.json'  
     bio_filepath = '../output/bio_data.txt'  
@@ -55,6 +56,6 @@ BIO标签是bert学习的格式
   - output: json/filtered_data_bert.json  基于bert词嵌入  
   - output: json/filtered_data.json  基于TF-IDF向量化   
 
-#### 关于csv和xlsx
+## 关于csv和xlsx
 - dictionary.xlsx 是之前提供的字典，列分别为：一级二级三级标题，关键词（可能是三级标题近义词），GRI  
 - output/unique_metric.csv  根据dictionary.xlsx提出的唯一三级标题  
