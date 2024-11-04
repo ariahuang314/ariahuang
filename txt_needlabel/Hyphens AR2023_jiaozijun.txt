@@ -1,0 +1,489 @@
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 27 SUSTAINABILITY REPORT 28 About This Report 29 Our Governance 34 Our Sustainability Strategy 35 Stakeholders 36 Materiality 38 Our People 44 Our Environment 47 TCFD Report 54 Our Customers 56 Our Supply Chain 57 Our Communities 61 GRI Content Index 28 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 ABOUT THIS REPORT In preparing the report, we have applied GRI s principles of accuracy, balance, clarity, comparability, completeness, sustainability context, timeliness, and verifiability to ensure report quality.
+The data in this report is sourced directly from our primary official records to ensure both accuracy and consistency.
+For ease of comparison across different years, we have incorporated historical ESG performance data.
+All financial information is presented in Singapore dollars, except where indicated otherwise.
+Standards, Frameworks and Guidelines We are pleased to present the fifth annual Sustainability Report of Hyphens Pharma International   GRI Standards Limited ( Hyphens , and together with its subsidiaries,   SGX-ST Catalist Rules (711A and 711B)   the  Group ).
+It provides an overview of Hyphens  Sustainability Reporting performance related to material environmental,   TCFD Recommendations social, and governance ( ESG ) issues from January 1 to December 31, 2023 ( FY2023 ), aligning with our   UN SDGs financial reporting year.
+Greenhouse Gas ( GHG ) Protocol REPORTING STANDARDS This report has been prepared with reference to the RESTATEMENTS Global Reporting Initiative ( GRI ) Standards.
+We use the GRI Standards for preparing our sustainability This report does not contain any restatements of report due to their international recognition and previously reported information or data.
+acceptance by stakeholders.
+This year, we have started including disclosures recommended by the Task Force ASSURANCE on Climate-related Disclosures ( TCFD ).
+The report aligns our activities with the United Nations ( UN ) An independent auditor has reviewed and audited our Sustainable Development Goals ( SDGs ) and follows financial statements.
+We maintain an internal system the SGX-ST Catalist Rules (711A and 711B), detailing to validate the accuracy and reliability of our ESG our ESG strategies, targets and achievements.
+data.
+The possibility of obtaining external verification for our ESG data for future reports remains under SGX PRIMARY COMPONENTS consideration.
+The report comprises the six primary components, AVAILABILITY as required by the SGX-ST sustainability reporting rules, covering Material ESG factors, Climate-related The report is part of our Annual Report, available in disclosures, policies, practices and performance, PDF on our website (www.
+hyphensgroup.com) and the targets, Sustainability reporting framework and Board SGX website (www.
+sgx.com).
+statement.
+CONTACT REPORTING PROCESS For comments or questions about this report, please We have followed GRI standards and guidance to contact us at ir@hyphens.com.
+sg.
+identify, assess, prioritise, and validate material ESG topics.
+The report reflects our stakeholders  HEAD OFFICE expectations, our understanding of the sustainability context, ESG risks and opportunities, and sustainability Hyphens Pharma International Limited trends.
+It also updates our alignment with TCFD Company Registration No.
+201735688C disclosures.
+16 Tai Seng Street, Level 4 Singapore 534138 www.
+hyphensgroup.com ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 29 OUR GOVERNANCE Hyphens Pharma International Limited (the  Company  or  Hyphens ) and its subsidiaries (the  Group ) are committed to maintaining a high standard of corporate governance within the Group.
+The Company believes that good corporate governance is essential for preserving the interests of all stakeholders and strengthening investors  confidence in the Group, thereby enhancing long-term shareholders  value.
+CORPORATE GOVERNANCE The Corporate Governance section of this Annual BOARD Report provides a detailed account of our corporate STATEMENT governance structure and measures, with reference to the principles and provisions of the Code of Corporate At Hyphens, the Board of Directors is Governance 2018.
+committed to upholding the highest standards of corporate governance, ethics, and Please refer to the Corporate Governance section of sustainability.
+Recognising that sustainability is this report for detailed information.
+key to both our business strategy and sustained success, the Board, working closely with the SUSTAINABILITY GOVERNANCE management, identifies the ESG impacts, risks and opportunities that are material to our The Board has established a sustainability governance business and stakeholders.
+These material structure for effective oversight and management of issues are considered in developing the Group s material ESG issues, impacts, risks and opportunities.
+strategic direction in line with our commitment to responsible business practices.
+The Board has the ultimate responsibility for the Group s sustainability matters, sustainability The management is responsible for strategy and risk management.
+The management implementing ESG strategies, monitoring is responsible for implementing the sustainability performance, achieving goals and targets, and strategy, monitoring performance against targets and providing regular updates to the Board, as well providing regular updates to the Board.
+as preparing the sustainability report.
+The Board regularly reviews and oversees the Group s The Board is assisted by the Sustainability Committee sustainability performance.
+It also reviews and ( SC  or the  Committee ), which comprises senior approves the Group s sustainability reporting.
+management executives from major functions and is chaired by the Chief Executive Officer.
+The Committee reports to the Board, which periodically reviews ESG impact, practices and performance, and engagement with stakeholders to understand their expectations and concerns.
+The Board is also assisted by the Audit Committee in reviewing the effectiveness and adequacy of internal controls relating to sustainability data and compliance with the reporting requirements issued by the Singapore Exchange ( SGX ).
+30 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR GOVERNANCE SUSTAINABILITY COMMITTEE The Committee is tasked with overseeing and directing the Group s sustainability strategy, policies, The Sustainability Committee is responsible for and targets, ensuring these align with the Board s assisting the Board in identifying and prioritising strategic direction.
+This involves regular engagement material ESG factors and climate-related risks with stakeholders to integrate their perspectives and opportunities, managing and monitoring the into the sustainability strategy and business implementation of material ESG factors, setting and decisions.
+The Committee is also responsible for achieving ESG targets over the short, medium, and maintaining accurate and reliable data controls, long term, and preparing the annual sustainability regularly reviewing ESG performance, and updating report.
+the Board on sustainability achievements using key performance indicators.
+The Committee also Led by Hyphens  Head of HR and Admin, the oversees the preparation of sustainability reports as SC comprises Chief Operating Officer, Chief per SGX sustainability reporting guidelines and seeks Financial Officer, Marketing Director, Corporate the Board s approval.
+Communications, Supply Chain Manager, and the Head of the Product Development Department.
+The SC reports to the Chief Executive Officer who is also Chairman of the Board.
+SUSTAINABILITY GOVERNANCE ORGANISATION CHART Audit Committee Board of Directors Sustainability Committee Chair: Chief Executive Officer Sustainability Committee Co-Chair: Head of HR & Admin Supply Corporate Product COO CFO Marketing Chain Communications Development DIRECTORS  TRAINING The Board keeps itself updated on sustainability trends and developments through training, expert briefings, webinars and self-studies.
+Board Directors have also attended the sustainability training, as mandated by the SGX sustainability reporting rules.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 31 OUR GOVERNANCE BOARD DIVERSITY POLICY The Group s regulatory policies and procedures are periodically reviewed to ensure that they are Hyphens  Board Diversity Policy endorses the principle aligned with all applicable legislative and regulatory that its Board should be an appropriate balance and requirements.
+We also provide consolidated training mix of skills, knowledge, and experience, thereby programmes for all employees, alongside pre- and avoiding groupthink and fostering constructive debate post-training quizzes, to familiarise them with the so that the Group can benefit from their collective Group s policies.
+expertise.
+For transparency, we publicly report significant An effective Board consists of individuals with a instances of non-compliance.
+An incident is considered range of complementary professional qualifications, significant if it involves a fine exceeding S$20,000 or skills, regional and global business experiences, results in the stoppage of business operations.
+industry knowledge, and varying backgrounds in terms of gender, geography, nationality, tenure, In the reporting period, there were no incidents of seniority, and other unique characteristics.
+We take significant non-compliance involving significant fines these attributes into account when determining the or non-monetary sanctions.
+optimal composition of our Board, aiming for balanced representation whenever possible.
+CODE OF CONDUCT Acknowledging the significance of gender diversity, our The Group s Code of Conduct, commonly referred to as goal is to maintain at least one female director on the the  Code , is readily available for review on our website Board.
+Presently, of the six directors on the Board, one at www.
+hyphensgroup.com.
+The Code outlines the is female.
+All six directors are above the age of 50 years.
+expected conduct for all employees, emphasising the necessity for high standards of personal and corporate To maintain gender diversity on our Board, we integrity.
+This expectation extends to all interactions, have implemented several key measures.
+External whether with customers, suppliers, competitors, fellow search consultants responsible for identifying Board employees, or the wider community.
+New employees candidates are mandated to incorporate female undergo training as part of onboarding that covers candidates in their search criteria.
+Simultaneously, our the Group s Code of Conduct, corporate values, ethical Nomination Committee ( NC ) is instructed to consider principles and policies.
+female candidates when selecting new Directors, ensuring a consistent focus on gender representation in our Board s composition.
+Our Code of Conduct covers the SUSTAINABILITY POLICY following issues: At Hyphens, we are committed to playing a role in improving global health while minimising our   Compliance with the law environmental and social impact.
+We have adopted   Conflict of interest a comprehensive sustainability policy which outlines our commitment to sustainable practices in the   Prohibition on bribery and corruption pharmaceutical industry and guides our employees,   Gifts, favours and concessionary offers partners, and stakeholders towards a sustainable   Workplace harassment future.
+Please refer to our sustainability framework   Workplace health and safety in the Sustainability Strategy section of this report to learn more about our policy commitments.
+Company property and assets   Confidential information REGULATORY COMPLIANCE   Proprietary information & intellectual property At Hyphens, we are committed to complying with   Insider trading applicable laws and regulations where we operate.
+We believe regulatory compliance is the essential   Enforcement & reporting violations of the foundation for sustainable growth of our business and Code of Conduct delivering value to our shareholders and stakeholders.
+Our approach involves taking preventive measures to mitigate legal risks and continuously monitoring our performance.
+32 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR GOVERNANCE WHISTLEBLOWING POLICY ANTI-FRAUD POLICY In line with our commitment to transparency, Hyphens is committed to maintaining integrity in accountability, and integrity, we have implemented a its operations.
+We have established a Fraud Policy robust Whistleblowing Policy.
+This policy is a critical to deter fraudulent activities involving employees, component of our governance framework, offering shareholders, consultants, vendors, contractors, both employees and external parties a secure avenue external agencies, and any entities in business to report concerns regarding financial reporting with us.
+Suspected fraud must be reported to irregularities or other types of malpractice.
+These the Audit Committee Chairman immediately.
+The whistleblowing channels are designed to protect the Audit Committee can appoint Internal Auditors confidentiality of the whistleblower and guarantee that or independent investigators, such as forensic there will be no retaliation for raising concerns.
+Our accountants, for probes.
+Employees involved in fraud Whistleblowing Policy is accessible through the BIPO will undergo disciplinary measures, with potential mobile application, and the integrated human resource criminal and civil actions.
+management system ( HRMS ).
+There were no confirmed incidents of fraud in the ANTI-CORRUPTION POLICY reporting period.
+ANTI-COMPETITION Our anti-corruption Hyphens is committed to fair competition and adheres policy has been strictly to all applicable anti-competition laws and communicated to regulations where we operate.
+We prohibit any form of collusion, price-fixing, market allocation, or any other 100% activities that could restrict or distort competition.
+of all employees.
+There were no legal actions pending or completed during the reporting period regarding anti-competitive behavior and violations of anti-trust and monopoly The Group adopts a strict zero-tolerance policy against legislation.
+corruption, bribery, fraud and money-laundering, recognising that these practices can undermine DATA PROTECTION AND PRIVACY stakeholder trust, damage our reputation, and lead to significant legal and financial risks.
+To protect our stakeholders  interests and ensure the smooth operation of our Group, we have implemented an anti- corruption policy.
+Our anti-corruption policy applies to all employees, directors, suppliers and business partners.
+Any unethical behavior or misconduct relating to corruption and fraud by employees may result in formal disciplinary action including dismissals.
+We periodically review our practices and performance to identify areas for continuous improvement.
+Our anti-corruption policy has been communicated to 100% of all employees (440 employees) and 100% of the Board of Directors (six directors).
+All directors have also attended anti-corruption training.
+Hyphens is committed to safeguarding personal data and privacy.
+Our Data Protection Policy, compliant with There were no incidents of bribery, fraud and money- the Personal Data Protection Act 2012 ( PDPA ), governs laundering in the reporting period.
+the handling of personal information of employees, shareholders, partners, customers, and suppliers.
+It details the legitimate processing of personal data and MATERIAL TOPIC: ANTI-CORRUPTION is accessible at www.
+hyphensgroup.com.
+A designated Our Ongoing Target Performance in 2023 Data Protection Officer ( DPO ) oversees the policy s To have no incidents of implementation.
+bribery, fraud and money- No incidents.
+laundering.
+Further details on our data protection efforts are in the Our Customers section of this report.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 33 OUR GOVERNANCE HUMAN RIGHTS POLICY Hyphens is committed to upholding internationally recognised human rights principles as outlined by the United Nations  Universal Declaration of Human Rights and the International Labour Organization s ( ILO ) core labour standards in our operations and supply chains.
+We prohibit child labor, forced labor, and modern slavery.
+We are committed to maintaining fair and respectful workplaces, free from discrimination and harassment.
+We respect our employees  rights There were to join unions and engage in collective bargaining no incidents in accordance with national laws.
+Currently, our employees are not covered by a collective bargaining of discrimination in the agreement.
+However, we strive to pay competitive wages and benefits to our employees.
+Our HR reporting period.
+policies ensure equal opportunities for all employees, irrespective of their race, gender, religion, ethnicity, nationality, cultural background, sexual orientation, or any other characteristic.
+There were no incidents of discrimination in the reporting period.
+34 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR SUSTAINABILITY STRATEGY At Hyphens, we recognise the vital role we play in improving global health while minimising our environmental and social impact.
+As a responsible member of the pharmaceutical industry, we are committed to adopting sustainable practices in our operations.
+Our sustainability strategy is to support sustainable business growth to create value for our shareholders and stakeholders by effectively managing ESG impacts, risks and opportunities across time horizons covering short term, medium term and long term.
+Our strategic sustainability framework is informed by a comprehensive materiality assessment to identify the most significant ESG issues.
+An overview of our sustainability framework is presented in the infographic below.
+SUSTAINABILITY FRAMEWORK Innovation Environmental Social and Accountability and and Access Responsibility Ethical Conduct Reporting   Develop and   Reduce packaging   Uphold the highest   Conduct regular provide innovative waste in our standards of ethics sustainability pharmaceutical operations.
+and transparency in all assessments, measure solutions that   Minimise our our business dealings, performance, and set contribute to improved environmental avoiding unethical achievable goals.
+global health and well- footprint by reducing practices such as   Communicate being.
+waste, conserving bribery and corruption.
+our sustainability   Promote equitable natural resources,   Attract and retain progress to our access to healthcare, and implementing diverse talent to deliver stakeholders through ensuring our products sustainable practices our business goals.
+annual sustainability are available to those throughout our   Support the well-being reports using globally in need, regardless of operations.
+of our employees, recognised standards.
+their economic status.
+Comply with all relevant ensuring a safe   Safeguard consumers  environmental laws and and inclusive work health by delivering regulations and actively environment.
+products that meet seek ways to exceed   Foster positive the highest quality and compliance.
+relationships with our safety standards.
+Continuously strive local communities   Protecting customers  to improve our and contribute to personal data from environmental their growth and unauthorised or performance development through accidental leaks, and reduce the philanthropic activities, modification, or environmental impact volunteerism, and disclosure.
+of our products.
+partnerships.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 35 STAKEHOLDERS We acknowledge the significance of establishing a solid foundation of trust and respect with all our stakeholders.
+We have identified key stakeholders as those who hold an interest in our Group and can influence or be affected by our business activities and operations.
+Our primary stakeholders encompass our customers, employees, suppliers, investors, regulators, and the broader community.
+We are committed to frequent, continuous, and constructive dialogue with our stakeholders.
+Our primary aim in engaging with our stakeholders is to understand and address their legitimate concerns and expectations.
+Gaining insights into their viewpoints is crucial for informing our materiality assessment and for validating and prioritising sustainability topics in our reporting.
+In 2023, we invited internal stakeholders to participate in a survey to seek their opinion on sustainability topics for reporting.
+The management team also gathers views of external stakeholders as part of their ongoing, informal interactions throughout the year.
+A summary of our stakeholder engagement is provided in the table below.
+Stakeholders Engagement Activities Key Concerns   Regular interactions   Cost-competitiveness   Enquiry and feedback channels   Excellent customer service Customers   Ad-hoc customer survey   Digital adaptation and experience   Product responsibility   Annual employee performance   Professional development appraisal   Employee engagement Employees   Regular team/town hall meetings   Workplace health and safety   Regular staff communication sessions   Staff rights and welfare   Annual management meeting   Business continuity and strategy   Regular team meeting and   Data governance and risk and Management communication sessions management Team   Ad-hoc surveys   Employee engagement and talent alignment   Regular results briefings and   Growth strategy and economic participation in investment events performance Investors   Annual and interim reports   Business ethics and transparency   Ad-hoc circulars to shareholders/   Corporate governance and announcements on group website sustainability Business   Frequent discussions and meetings   Partnership for opportunities and Partners   Regular corporate presentations growth   Periodic supplier evaluations   Compliance with terms and conditions   Periodic on-site inspections of purchasing policies and procedures Suppliers   Regular discussions/meetings   Ethical standards as well as social and environmental responsibility   Periodic discussions with government   Regulatory compliance Government and agencies and departments   Timely reporting and resolution of Regulators issues Local   CSR programmes   Responsible corporate citizenship Communities 36 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 MATERIALITY We believe regular materiality assessment is essential for identifying significant ESG impacts, risks and opportunities to guide sustainable business practices, and ensuring long-term value creation.
+We review our material ESG topics every year and conduct an in-depth materiality assessment every three years.
+Our most recent comprehensive materiality BOARD APPROVAL assessment was in 2021 where the management participated to understand Hyphens  impact on the Assisted by the management and the Sustainability economy, the environment and society.
+Subsequently, Committee, the Board reviewed and approved the we have reviewed our material topics for reporting material ESG topics for reporting.
+annually.
+In 2023, we evaluated the material topics reported in our 2022 Sustainability Report and made SUSTAINABLE DEVELOPMENT GOALS some adjustments to the list of topics for reporting in our 2023 Sustainability Report.
+The United Nations Sustainable Development Goals are a universal call to action, comprising 17 Following the latest review, we have removed interconnected Goals, aimed at eradicating poverty, Socioeconomic Compliance and Environmental protecting the planet, and ensuring prosperity and Compliance from the list of material topics to align with peace for all by 2030.
+By aligning with the SDGs, the GRI Standards 2021.
+Instead, we have reported businesses can contribute to global efforts towards on regulatory compliance as a general disclosure sustainability, while also enhancing their own resilience, as required by the GRI Standards.
+Our updated list innovation, and stakeholder trust, ultimately driving of material topics is presented in the table below.
+long-term growth and success.
+Considering the growing stakeholder expectations from businesses to reduce packaging impact on the At Hyphens, we are committed to supporting environment, we have included Packaging Waste as sustainable development goals by embedding a material topic.
+We have relabeled the previously sustainability into our business strategy and reported topic Employment as Talent Management operations.
+We have aligned our material topics with to reflect our focus on building our human capital to the relevant SDGs where we have the opportunity to support business growth.
+make a positive contribution.
+Our materiality assessment follows GRI s four-step guidance to identify, assess, prioritise and validate the topics that represent the most significant negative as well as positive impacts of our operations.
+In the 2023 review, we engaged all internal stakeholders including the Executive Team, Sustainability Committee, and company employees in our Materiality Assessment by inviting them to rate the significance of our material topics through an online survey.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 37 MATERIALITY MATERIAL TOPICS An overview of our material topics and the related SDGs are presented in the table below.
+MATERIAL ESG TOPICS Material Materiality Our Management Relevant SDGs Topics Description Approach ENVIRONMENT Packaging Waste A range of packaging We are committed to materials are used for reducing packaging waste our pharmaceutical and in our operations.
+consumer healthcare products.
+SOCIAL Talent It is critical for us to attract We invest in the Management and retain diverse talent to development of our deliver our business goals.
+employees to attract and retain diverse talent to deliver our business goals.
+GOVERNANCE Anti-corruption It is critical to manage We are committed to corruption and fraud risks adhering to the highest to protect our reputation.
+business ethics and conduct standards.
+Customer Health Pharmaceutical and It is critical to safeguard and Safety consumer healthcare consumers  health and products require safety by delivering compliance with health products that meet the and safety regulations and highest quality and safety standards.
+standards.
+Customer It is critical to comply with We are committed to Privacy personal data protection protecting customers  regulations to protect personal data from our reputation and build unauthorised or stakeholder trust.
+accidental leaks, modification, or disclosure.
+38 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR PEOPLE At Hyphens, our people are crucial for our long-term success and growth.
+Our goal is to be a company that our employees are proud to work for.
+OUR EMPLOYEES At the close of FY2023, Hyphens had 440 employees on its payroll.
+Full-time employees made up 96% of this total workforce.
+Among our employees, 94% were permanent employees.
+In addition, there were 11 temporary employees and 16 fixed-term contract employees.
+The Group engaged 27 freelance workers 96% 94% for roles such as sales promoters, merchandisers, delivery drivers, and office cleaners, who were not our employees.
+Singapore accounted for 52% of our total Full-time Permanent number of employees.
+employees employees Number of Employees Number of New Employees by Country 440 368 349 25 Singapore Vietnam Philippines 99 Malaysia 32 Indonesia 11 7 FY2021 FY2022 FY2023 ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 39 OUR PEOPLE DIVERSITY Employee By Age Group At Hyphens, we are committed to building a diverse and inclusive environment where all employees, regardless of their race, gender, age, sexual orientation, disability, religion, or ethnic background, are respected, 14% valued, and given equal opportunity to realise their full potential.
+Our policies promote diversity, equality, and inclusion in the workplace and support a dynamic, innovative, and respectful environment.
+Under 30 years 19% 30-50 years 67% In FY2023, 67% of our employees fall within the age range of 30-50 years, with 19% under 30 years of age Over 50 years and 14% aged over 50.
+Additionally, women constituted 67% of our workforce, held 65% of middle management and 45% of senior management positions.
+This figure surpassed the 2022 statistic reported in the World Bank s Gender Data Portal, reflecting women s representation in senior and middle management at 40.6%.
+1 Number of Employees By Gender Employment Category by Gender 45% 65% 70% 33% 67% 55% 35% 30% Senior Middle Junior Level Management Management Male Female 1 WorldBank, Singapore.
+World Bank Gender Data Portal.
+https://genderdata.
+worldbank.org 40 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR PEOPLE PARENTAL LEAVE We are committed to promoting a supportive, family friendly workplace culture.
+Our employees are eligible for parental leave.
+We believe that offering parental leave is vital as it supports employees  work-life balance and contributes to their overall well-being and job satisfaction.
+This is evidenced by a retention rate of 98% for those who returned from parental leave and remained with the company for more than 1 year.
+Our parental leave-related disclosures are presented in the table below.
+FY2022 FY2023 Parental Leave Male Female Total Male Female Total Total no.
+of employees that were 16 39 55 17 49 66 entitled to parental leave, by gender Total no.
+of employees that took 16 39 55 17 49 66 parental leave, by gender Total no.
+of employees due to return to work after taking 16 39 55 17 49 66 parental leave, by gender Total no.
+of employees that did return to work after parental leave 16 39 55 17 49 66 ended, by gender Total number of employees that returned to work after parental leave ended that were still 16 38 54 16 38 54 employed 12 months after their return to work, by gender Return to work rate 100% 100% 100% 100% 100% 100% Retention rate NA NA NA 100% 97% 98% EMPLOYEE BENEFITS We are committed to ensuring the welfare of our employees.
+We offer our full-time employees a range 1,625 of benefits including life insurance, disability and invalidity coverage, healthcare, retirement plans, and parental leave, all in compliance with local laws and Total hours of training statutory regulations.
+EMPLOYEE DEVELOPMENT 3.7 We invest in developing our people by providing regular Average hours of training opportunities.
+In FY2023, we provided a total of 1,625 hours of training.
+Average hours of training per training per employee employee amounted to 3.7 hours.
+The hours of training for male and female employees were 2.4 and 4.3.
+PERFORMANCE MANAGEMENT We have implemented performance management Male Female measures to support our employees  personal and 114 professional development.
+We conduct annual 2.4 4.3 performance appraisals for all employees to assess employees their performance in a fair and objective manner.
+In hours hours attended training FY2023, all 100% of the employees participated in the performance appraisal process.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 41 OUR PEOPLE NEW HIRES Hiring Rate Our goal is to attract diverse talent to support our business growth.
+In FY2023, we hired 174 new 40% employees.
+The total hiring rate in FY2023 was 40%.
+Women accounted for 67% of the new hires.
+The number and percentage of new hires by age group were as follows: 76 were under 30 years old (44%), 32% 90 were aged between 30-50 years (51%) and 8 were over 50 years old (5%).
+TURNOVER 16% Our goal is to minimise employee turnover by implementing retention strategies, including FY2021 FY2022 FY2023 competitive compensation, career development opportunities, positive workplace culture, and New Hires By Gender employee recognition programs.
+We track employee turnover to evaluate our performance.
+174 Male In FY2023, the overall employee turnover rate was 25%.
+The turnover percentage by gender was as Female 117 follows: male (35%) and female (65%).
+By age group, the turnover for the same period was as follows: Under 119 30 years (34%), 30- 50 years (55%) and Over 50 years 81 (11%).
+The total number of employees leaving the organisation in FY2023 was 110, comprising 39 male employees and 71 female employees.
+Our Group s 56 attrition rate, standing at 25%, exceeds the average of 16% for ASEAN countries in 2023, indicating a need for 33 57 focused retention strategies and a closer examination 38 of factors contributing to higher turnover within our 23 organisation.
+FY2021 FY2022 FY2023 Number of New Hires by Age Group Total Turnover Rate Number of Turnover by Age Group Male 60 Female 25% 25% 8 38 21% 37 76 90 26 22 13 7 11 6 Under 30 years Under 30-50 Over 30-50 years Over 50 years FY2021 FY2022 FY2023 30 years years 50 years 42 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR PEOPLE EMPLOYEE ENGAGEMENT We engage our employees in a variety of ways throughout the year.
+Some of the engagement initiatives are described below.
+Festive celebrations and team bonding activities To nurture a lively and cohesive workplace environment, employee engagement at Hyphens comprises a diverse range of festive celebrations and team bonding activities across our regional offices.
+From observing national and cultural festivities like Mid-Autumn, Independence Day and Christmas celebrations, to a unique DIY Eggshell Coaster Upcycling workshop and recreational activities like archery and overseas trips, our subsidiaries and team members actively participate in various activities to foster camaraderie while promoting a healthy work-life balance.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 43 OUR PEOPLE Hyphens Day A standout tradition is the annual Hyphens Day in October, celebrated company-wide throughout our regional offices.
+This day marks the growth of the organisation and provides employees with an opportunity to come together for recreational activities.
+Each office crafts their own celebration, putting their own spin on the event.
+This year, we saw superhero costume contests and friendly sports matches, to DIY challenges, escape rooms, and team meals.
+In Hyphens Vietnam, the day was enhanced with an Employee Appreciation segment to celebrate the birthdays of team members in neighbouring months.
+This day marks the growth of the organisation and provides employees with an opportunity to come together for recreational activities.
+Hyphens Song Beyond company celebrations and team activities, our approach to employee engagement includes the incorporation of a company song.
+Sung at company events and celebrations, this fosters a sense of inclusion and belonging among all employees as it effectively reinforces our shared identity through music, a medium that transcends language barriers.
+Health and Wellbeing Prioritising the health and wellbeing of our employees, Hyphens Vietnam organised complimentary health check-ups for all employees stationed in both Ho Chi Minh and Hanoi offices during June and July.
+Beyond basic monitoring of height and weight, these check- ups included comprehensive assessments of blood pressure, glucose and cholesterol profiles.
+Organised an in-office Similarly, Hyphens Singapore organised an in-office complimentary health screening for all employees Complimentary in October.
+The health screening encompassed measurements of blood pressure, height and weight, Health Screening along with assessments of blood glucose, BMI and cholesterol profiles.
+for all employees 44 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR ENVIRONMENT Hyphens is committed to environmental stewardship, recognising its importance to our business sustainability and the wider community.
+Our environmental approach is anchored in the precautionary principle, ensuring that we proactively address environmental risks and potential negative impacts.
+Our environmental policy focuses on reducing Packaging also plays a significant role in dosage control, packaging waste through the use of eco-friendly patient compliance, and information dissemination.
+materials and minimising packaging size, conserving Packaging offers critical information about usage, natural resources, and implementing sustainable ingredients, and expiration dates, aiding in patient practices across all operations.
+We adhere to all compliance and safe consumption.
+relevant environmental laws and regulations.
+We use a variety of packaging materials for our Our ongoing goal is to continuously enhance our pharmaceutical and consumer healthcare products to environmental performance, reduce the impact of our ensure their quality, safety, efficacy and compliance.
+products, and maintain transparency in our initiatives.
+Commonly used packaging materials for our products We engage our employees and the community in our include glass, plastic (PET, PVC, Polyethylene), metal environmental efforts, regularly review our practices, (Aluminum), paper and composites.
+and adapt to emerging environmental challenges, ensuring our operations contribute positively to PLASTIC-LITE REFILL PACK environmental sustainability.
+Over the years, we have actively advanced towards PACKAGING WASTE more sustainable packaging practices.
+This has included transitioning to recyclable bottles, eliminating In the pharmaceutical and consumer healthcare superfluous plastic wrapping from individual bottles, sectors, packaging serves as a protective barrier, and introducing an environmentally conscious,  plastic- shielding products from environmental elements like lite  refill pack for our flagship product, Ocean Health  moisture, light, and temperature changes, which are Omega-3 fish oil.
+Our goal is to develop eco-friendly crucial for maintaining the quality, safety and efficacy packaging solutions for the entire Ocean Health  of pharmaceuticals.
+Packaging also facilitates tamper- product range by 2030, aligning with our commitment evident features, providing clear indications of any to environmental responsibility and sustainable tampering, which is critical for maintaining product development.
+integrity and user safety.
+MATERIAL TOPIC: PACKAGING WASTE Target (FY2023) Performance in FY2023 Target (FY2024) Medium to Long Term Target We implemented a system To achieve 5% Establish a to collect packaging waste increase in sales units Extend the refill pack packaging packaging waste data which has enabled us to of Ocean Health  format to 100% of Ocean data collection disclose packaging waste data products in refill Health  supplements by 2030.
+system in this report.
+packs ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 45 OUR ENVIRONMENT MANDATORY PACKAGING REPORTING Singapore has initiated a Mandatory Packaging At Hyphens, we have implemented necessary measures Reporting (MPR) scheme, under the Resource to collect packaging data from FY2023 onwards.
+As Sustainability Act, aimed at addressing packaging part of the measures, we are also developing a 3R plan waste and promoting sustainable practices.
+Introduced which will include our plans to reduce, reuse or recycle by the National Environment Agency (NEA), the packaging.
+MPR scheme mandates that producers of packaged products, including brand owners, manufacturers, In FY2023, we generated 65,715 kg of packaging waste.
+and importers, as well as retailers like supermarkets, Paper constituted 42,722 kg (65.0%) of total packaging submit detailed reports annually.
+These reports must waste followed by 12,998 kg of plastic (19.8%), 9,707 kg include the amount of packaging introduced into the of metal (14.8%), 193 kg of glass (0.3%) and 95 kg (0.1%) Singapore market and outline their plans to reduce, of composite.
+reuse, or recycle packaging materials.
+Packaging Waste (kg): FY2023 12,998 Paper Metal Composite 65,715 kg 42,722 Glass Total packaging waste Plastic 193 95 9,707 46 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR ENVIRONMENT ENERGY Our energy consumption is comparatively low, primarily utilised for essential operations such as lighting, powering assembly line equipment, and transport for product distribution.
+Despite this relatively small footprint, we track and monitor our energy usage, consistently striving for greater energy efficiency in all aspects of our operations.
+In FY2023, our total electricity purchase amounted 836,261 kWh to 836,261 kWh.
+Singapore operations accounted for 81% of the total electricity consumption.
+Energy Total electricity purchase consumption from electricity (Indirect Energy) amounted to 3,010 Gigajoules (GJ).
+Electricity Consumption By Country (kWh) - FY2023 Indirect Energy Consumption (GJ) - FY2023 Singapore Singapore Vietnam Vietnam Philippines Philippines Malaysia Malaysia Indonesia Indonesia 78,993 284 676,147 2,434 29,196 105 12,253 44 39,672 143 SUSTAINABILITY AWARENESS MONTH Meatless Monday (focusing on environmental issues), Teamwork Tuesday (highlighting social aspects), In November 2023, we organised a month-long Waste-Free Wednesday (emphasising environmental sustainability awareness campaign.
+Our primary concerns), Transparency Thursday (concentrating on objective was to educate employees about the governance), and Fulfilling Friday (addressing both multifaceted nature of sustainability, which includes social and environmental issues).
+Through various not only environmental concerns but also social and channels such as informative emails and a hands-on governance dimensions.
+Our goal was also to encourage sustainability workshop on upcycling used eggshells employees to integrate sustainability into their daily into coasters, we conducted sustainability engagement routines.
+We curated a theme for each day of the week: and outreach across the entire company.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 47 TCFD REPORT As a Group primarily focused on the marketing, The Board is also assisted by the Audit Committee in wholesale and distribution of specialty and branded reviewing the efficacy of internal controls to ensure pharmaceutical products, we recognise that our the reliability and accuracy of sustainability data and operational carbon footprint is comparatively modest.
+compliance with the reporting requirements issued by Nevertheless, we are committed to contributing to the Singapore Exchange ( SGX ).
+the national and global endeavours of climate change mitigation.
+With this spirit, we have adopted a climate Management Responsibility policy, which encompasses commitments to reducing greenhouse gas emissions and embracing responsible The management team is charged with the packaging practices.
+implementation, management, and monitoring of the climate-related strategy, risk management, and the In alignment with our climate commitment, we establishment of metrics and targets.
+The management are committed to progressively implementing the is also responsible for the preparation of sustainability Recommendations of the Task Force on Climate-related reports that include climate reporting based on the Financial Disclosures ( TCFD ) to assess, manage and TCFD framework.
+report climate-related risks and opportunities for Hyphens.
+This report adheres to the TCFD s structured The Sustainability Committee, chaired by the Group CEO, framework, which is categorised into four core areas: oversees and tracks the management of ESG impacts, governance, strategy, risk management, and metrics including climate-related risks and opportunities.
+The and targets.
+The details of each category are elucidated Committee s responsibilities include evaluating and in the sections that follow.
+managing climate-related physical risks and transition risks and their financial impact on business in the short, medium and long term.
+The SC reports to the Board and provides regular updates, at least once a year, about the sustainability performance.
+GOVERNANCE STRATEGY At Hyphens, the Board oversees climate-related issues, while the management is responsible for implementing climate strategies and monitoring performance.
+The specific roles of the Board and the management are detailed below.
+Our greenhouse gas emissions mainly arise from electricity consumption in our offices, warehouses and assembly lines, and fuel used in our transport vehicles.
+Board Responsibility Overall, our scope 1 and scope 2 emissions footprint is relatively small and not considered a material ESG The Board is ultimately responsible for ensuring the factor.
+effective management of ESG risks, including climate- related risks and opportunities within the Group, as an Our strategic options to reduce our carbon footprint integral part of its overall risk management strategy.
+include improving energy efficiency, using renewable The Board has established a sustainability governance electricity where possible and switching to electric structure for effective oversight and management of vehicles for logistics operations.
+In addition, we are material ESG issues, impacts, risks and opportunities, committed to minimising the environmental impact also covering climate-related issues.
+of our product packaging.
+Our strategy prioritises addressing potential climate-related risks and The Board is assisted by the Sustainability Committee, opportunities in the short term, while also monitoring which comprises senior management executives from medium- and long-term risks and opportunities to major functions.
+The Sustainability Committee assists develop appropriate strategic responses.
+The short- the Board in identifying and prioritising material ESG term issues we are addressing include mandatory factors and climate-related risks and opportunities, climate-related reporting referring to the TCFD managing and monitoring the implementation of Recommendations, packaging waste and regulatory material ESG factors, setting and achieving ESG compliance.
+targets over the short, medium, and long term, and preparing the annual sustainability report.
+The Board receives periodic updates from the management on sustainability issues, and reviews and approves the Group s TCFD Report.
+48 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 TCFD REPORT For planning purposes, we consider 0-5 years to be Climate Change and Healthcare short-term, 6-10 years as mid-term and more than 10 years to be a long-term horizon.
+Our strategic approach At Hyphens, we are keenly aware of climate change as over these time horizons to address climate-related a major 21st-century challenge with significant health risks and opportunities identified through scenario impacts.
+As part of our commitment towards improving analysis is described below.
+the quality of life for patients and community, we are dedicated to aiding in climate change mitigation, Short Term ensuring our business is sustainable and resilient, while caring for the health of patients and communities who We expect an increase in regulatory demands and may be affected by illnesses and diseases caused by a heightened expectation from stakeholders for extreme climatic shifts.
+comprehensive reporting of GHG emissions, as well as detailed disclosure regarding climate-related risks Climate change can have a profound impact on and opportunities and their potential financial impact healthcare and wellbeing of societies.
+Rising global on our business in the short, medium, and long term.
+temperatures may cause a surge in the incidence of Our short-term strategic plan involves measuring and mosquito-borne diseases, including dengue, malaria, reporting a comprehensive inventory of our GHG chikungunya and Zika, necessitating the development emissions.
+Additionally, we are implementing a plan to and distribution of more effective vaccines and track, monitor and reduce the impact of packaging on medicines.
+Climate change is expected to cause the environment.
+This inventory will include scope 1, heavy rains, storms and cyclones and flooding, and scope 2, and scope 3 emissions across all our business subsequent runoff contamination.
+segments, and will be aligned with the standards set by the GHG Protocol.
+At present, our sustainability The Intergovernmental Panel on Climate Change report already includes scope 1 and scope 2 emissions.
+( IPCC ) in its Assessment Report 6 ( AR6 ) states that In addition, we plan to establish emission reduction cascading and compounding risks affecting health due goals along with a defined timeline for achieving these to extreme weather events have been observed in all reductions.
+The environmental section of this report inhabited regions, and risks are expected to increase also provides information about our progress toward with further warming.
+The report says that the burdens reducing packaging waste.
+of several climate-sensitive food-borne, water-borne, and vector-borne diseases are projected to increase Medium Term under climate change, assuming no additional adaptation.
+We will explore potential roadmaps for the decarbonisation of our operations.
+Scope 2 emissions, Moreover, we recognise the mental health impacts arising from purchased electricity, account for about potentially stemming from exposure to extreme 30% of our combined scope 1 and scope 2 emissions.
+weather events, displacement, migration, famine, We would explore options for switching to renewable malnutrition, degradation or destruction of health and electricity to reduce our scope 2 emissions.
+Scope social care systems, and climate-related economic and 1 emissions, about 70% of the total, originate from social losses and anxiety and distress associated with the use of diesel in our service vehicles and from worry about climate change.
+refrigerant gases used for cooling.
+We will examine the feasibility of transitioning to electric or hybrid vehicles To ensure a proactive and scalable response to meet to minimise the scope 1 emissions.
+the burgeoning market needs for medical supplies, it will be critical for Hyphens to strategically align and We will also continue to enhance our understanding of synergise with its brand partners.
+anticipated new diseases born out of climate change to source supplies from our brand partners to meet Furthermore, we acknowledge the vulnerabilities demands for medication.
+within the pharmaceutical industry s global supply chains due to climate change.
+Volatile weather Long Term conditions can interfere with the flow of products and create supply bottlenecks, impacting everything from Our long-term strategy would be to achieve net-zero raw material sourcing to end-product distribution.
+emissions for our direct operations and establish This includes delays in raw material supply, unplanned Hyphens as a low-emissions, climate-resilient Group.
+production downtime, transportation delays, and cold chain storage breakdowns.
+Difficulty in diversifying our supply chain may result in the unavailability of stocks and affect our revenue.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 49 TCFD REPORT Scenario Analysis As part of our commitment to understanding and mitigating the potential impact of climate change on our business over the short, medium, and long term, we have conducted a qualitative analysis based on two climate scenarios as recommended by TCFD, one of them aligned with a below 2 C warming future.
+For this analysis, we have referred to the Shared Socioeconomic Pathways ( SSP ) based climate scenarios used in the IPCC s AR6 focusing on SSP1-2.6 and SSP3-7.0 scenarios.
+SSP1-2.6, a low warming scenario, follows a very stringent pathway requiring severe carbon dioxide ( CO  ) emissions cuts to keep warming below 2 C compared 2 with pre-industrial levels reaching net-zero in the second half of the century.
+SSP3-7.0, a medium to high warming scenario, doubling CO emissions and temperatures from the current level by 2100, average temperature rising 2 by 3.6 C. SSPs depict shifts in factors such as population, economic growth, education, urbanisation, and technological advancement that could influence future greenhouse gas emissions, offering narratives of potential pathways to various levels of warming.
+We have also considered the corresponding Representative Concentration Pathways ( RCP ) scenarios used in the IPCC s fifth Assessment Report ( AR5 ) which focus solely on atmospheric greenhouse gas concentrations.
+Together, SSPs and RCPs offer a more comprehensive understanding of plausible futures.
+SSP1-2.6 corresponds to RCP 2.6 while SSP3-7.0 corresponds to somewhere between RCP 6.0 and RCP 8.5.
+We find SSP1-2.6/RCP 2.6 useful for assessing climate-related transition risks and SSP3-7.0/RCP 6.0 more appropriate for assessing climate-related physical risks.
+SSP Scenario Narratives The SSPs provide a narrative of how the world could reach certain levels of warming, and outline how shifts in population, economy, education, urbanisation, and technology could impact greenhouse gas emissions and influence global warming levels.
+The two SSP narratives we have examined are summarised below.
+SSP SSP Narratives Sustainability: In this scenario, global CO emissions are significantly reduced, though slower, 2 SSP1-2.6 achieving net-zero post-2050 by following socio-economic shifts towards sustainability, stabilising temperatures at about 1.8 C higher by century s end.
+Regional Rivalry: In this scenario, emissions and temperatures consistently rise, with CO 2 SSP3-7.0 emissions doubling by 2100.
+Nations focus more on competitiveness, emphasising national security and self-sufficiency in food.
+Average temperatures increase by 3.6 C by century s end.
+The above mentioned SSP climate scenarios used in the IPCC s AR6 lead to the following warming futures: Best Estimate (oC) SSP Nearest Near Mid Long SSPs Description RCPs RCP Description Term term Term (2021- (2041- (2081- 2040) 2060) 2100) Sustainability RCP 2.6 Global warming 1.5 1.7 1.8 SSP1-2.6 slowing down Regional RCP 6.0 Global warming 1.5 2.1 3.6 SSP3-7.0 rivalry increasing Source: IPCC AR6 (Climate Change 2021, The Physical Science Basis) 50 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 TCFD REPORT Impact of Changing Climate on Human Health Climate change is  increasingly hindering efforts  to meet the nutritional and calorific needs of humanity.
+In The IPCC s AR6 report provides useful insights into the addition to the risk of reduced agricultural yields due to potential impacts of climate change on human health climate change, the report highlights that increased CO 2 that are relevant to the healthcare sector, and valuable levels have been found to diminish key nutrients such to us as a pharmaceutical and consumer healthcare as protein, iron, and zinc in numerous plants, with the company positioned within the industry.
+extent of this reduction varying across different species.
+Continued increases in CO levels are projected to cause 2 The IPCC s AR6 report (Working Group II: Impacts, reductions  in a wide range of minerals and nutrients  adaptation and vulnerability) states that climate of 5-10%, depending on the crop.
+The report states that change has increased wildlife diseases.
+Temperature South and Southeast Asia are projected to be among rise and more brutal extreme weather events have the regions at highest risk for reduced dietary iron played a role in the emergence of new diseases in intake among women of childbearing age and children new areas, according to experimental studies.
+The under five years due to elevated CO concentrations.
+2 report adds that there is evidence that climate change has helped vector-borne diseases that infect humans The climate is also a driving factor in the spread of a to expand in countries close to the Arctic.
+range of diseases, the report says.
+For example, the range of mosquitoes is expanding as temperatures In Asia, climate change is increasing risks to human rise, allowing mosquito-borne diseases such as dengue health by increasing exposure and vulnerability fever and malaria, to spread to new areas.
+The report to extreme weather events such as heatwaves, projects that climate change will increase the risk of flooding and drought, and air pollutants, increasing dengue fever in all continents.
+It also indicates that vector and water-borne diseases, undernutrition, rising temperatures combined with an increase in mental disorders and allergic diseases.
+Water- heavy rainfall and flooding is already increasing the borne diseases, such as diarrhoea, leptospirosis incidence of diarrheal diseases such as cholera.
+and typhoid fever, can increase in incidence following heavy rainfall, tropical cyclones and Hyphens acknowledges the necessity of decisive flooding events.
+mitigation and adaptation measures, especially those enacted by policy makers, in reducing GHG emissions One of the more obvious impacts of climate change to minimise the adverse effects of climate change.
+on human health is extreme heat   which is linked to severe dehydration, organ failure, cardiovascular disease and even death, the report says.
+Although, the CLIMATE-RELATED RISKS AND impacts of heat stress are not spread equally across OPPORTUNITIES the world.
+Weather conditions have been linked to negative impacts on mental health.
+The report says that increasing temperatures are linked to higher hospital admissions for mood and behavioural Our initial, qualitative scenario analysis is based on disorders,  experiences of anxiety, depression, and the above-mentioned pathways.
+An overview of the acute stress  and suicide rates.
+analysis relevant to our business is presented below.
+CLIMATE-RELATED RISKS Financial Time Risk Type Potential Financial Impacts Impact Horizon Category Physical Risk Acute   A higher risk of severe weather events such as floods and Revenue Long Term cyclones can disrupt our supply chains and the supply chain Increased severity and manufacturing operations of our brand partners.
+These of extreme can affect our stock levels, and delay deliveries resulting in weather events loss of revenue and customer dissatisfaction.
+such as cyclones   Our distribution logistics operations in Singapore may be and floods affected by disruptions caused by extreme weather events that interrupt our deliveries to customers.
+Extreme weather events such as floods and cyclones can impact our suppliers and brand partners  manufacturing sites and disrupt or delay the supply of products to us.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 51 TCFD REPORT Financial Time Risk Type Potential Financial Impacts Impact Horizon Category Chronic   Pharmaceuticals and medications often need strict Revenue Long Term temperature control for quality preservation.
+As Rising sea levels, temperatures rise and heatwaves intensify, it s essential for rising average us, as a distributor, to assess and mitigate risks to ensure temperatures safe, efficient delivery while maintaining product integrity.
+Stricter measures for controlling temperature could also raise the costs associated with managing temperatures during the storage and transportation of medicines.
+A warming climate can affect brand partners and suppliers located in coastal flood risk zones, affecting product deliveries.
+Transition Risk Policy and Legal   Mandatory climate reporting regulations, higher energy Expenditure Short to efficiency requirements, and carbon tax could increase the Medium cost of operations.
+Term   Stricter regulations to reduce packaging waste can increase compliance requirements for us, escalating legal risk and compliance costs.
+Regulatory non-compliance can increase the cost of operations.
+Market   Consumers may increasingly expect eco-friendly packaging in Assets: Long Term our products.
+Not meeting these expectations may affect our Intangibles reputation and affect our brand equity.
+Reputation   An increasing number of stakeholders, including investors, Assets: Short to may expect detailed disclosures about climate-related risks.
+Intangibles Medium Inadequate disclosure about our climate risks and strategy Term and lower ESG ratings can affect our reputation.
+CLIMATE-RELATED OPPORTUNITIES Resource   Enhancing energy efficiency in our operations can reduce Expenditure Short to Efficiency costs.
+The saving could be substantial in a high energy price Medium environment.
+Term Energy Sources   Adopting renewable energy such as solar power could Expenditure Short to enhance our energy resilience and reduce our energy cost Medium and carbon footprint.
+Term Products and   Increased demand for healthcare products for treatment Revenue Medium to Services of diseases induced by warming temperatures and other Long Term extreme weather conditions such as heat stress, mosquito- borne diseases and water-borne diseases.
+52 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 TCFD REPORT RISK MANAGEMENT Identifying and Managing Climate-related ESG Risks At Hyphens, the Board is responsible for managing risks, including ESG and climate-related risks.
+The We use materiality assessment, conducted with the Board is assisted by the Audit Committee, which helps assistance of external consultants, to identify, evaluate, oversee the Group s risk management framework and and prioritise our ESG impacts and risks.
+In addition, we policies.
+The Board acknowledges the critical need have initiated a progressive climate scenario analysis, for a robust system of risk management and internal guided by the TCFD recommendations.
+The scenario controls, essential for protecting the interests of analysis is crucial for enhancing our understanding shareholders and the assets of the Group.
+of climate-related risks and their potential financial repercussions on our business operations, including The Group has established an enterprise risk those of our brand partners and suppliers.
+We management ( ERM ) framework, guided by the recognise that climate risks could potentially impact Principles and Guidelines of ISO 31000:2009 and the various aspects of our business, such as revenue COSO ERM Integrated Framework.
+This has involved streams, operational processes, supply chain the creation of a Risk Management Policy and a risk dynamics, stakeholder engagement, and investor organisation structure with clearly defined roles and communication.
+Beyond physical risks, we anticipate responsibilities.
+Additionally, a Risk Management facing challenges such as stricter emission reporting Process has been implemented to enable the Group regulations, mandatory climate risk reporting, and to continuously assess, manage, report, and monitor increased energy costs stemming from carbon taxes.
+risks.
+An annual review of the ERM framework is In light of these considerations, it is imperative for our conducted by an external risk advisory firm.
+business strategy, both in the medium and long term, to focus on reducing our carbon footprint, preparing for Looking ahead, our aim is to enhance the ERM the impacts on our brand partners and supply chains, by incorporating ESG and climate-related risks, and seizing emerging opportunities in the transition to thereby strengthening our overall approach to risk a low-carbon economy.
+management.
+Read more about our Risk Management in the Corporate Governance section on page number 65.
+Metrics and Targets We currently report our scope 1 and scope 2 GHG emissions associated with our operations.
+Measuring and reporting our Scope 3 emissions remains under consideration for future reports.
+In 2023, our Scope 2 emissions, attributed to purchased grid electricity, was calculated to be 398 tCO2e.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 53 TCFD REPORT Our GHG Emissions Type of Emissions FY2023 Scope 1 Emissions (tCO2e)   Mobile combustion 10.7   Fugitive emissions 900.6 Scope 2 Emissions (tCO2e) 398.0 Total Emissions (tCO2e) 1,309.3 GHG Emissions Intensity (tCO2e)/S$ million revenue) 7.7 SCOPE 2 EMISSIONS BY COUNTRY - FY2023 (tCO2e) (%) Singapore Singapore Vietnam Vietnam Philippines Philippines Malaysia Malaysia Indonesia Indonesia 64 16% 282 71% 18 4% 8 2% 26 7% Next Steps We plan to We are committed to deepening our knowledge bolster and understanding of climate-related risks and opportunities and their potential financial impacts climate literacy on our business.
+We plan to conduct further scenario analysis to assess potential physical and transition at both the Board and risks, as well as opportunities, for our business.
+Concurrently, we plan to bolster climate literacy at both management levels the Board and management levels through climate- through climate-related related training.
+training.
+54 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR CUSTOMERS We take pride in consistently delivering quality health products and services to our customers.
+Maintaining customer satisfaction and retaining loyal customers is critical for achieving steady business growth.
+CUSTOMER HEALTH AND SAFETY MATERIAL TOPIC: CUSTOMER HEALTH AND SAFETY Our Ongoing Target Performance in 2023 Hyphens Pharma is committed to maintaining the quality and safety of our health products and To have no incidents of services, ensuring compliance with all relevant laws non-compliance concerning No incidents of and regulations in the markets where we operate.
+health and safety impacts of non-compliance.
+We strictly adhere to the Health Sciences Authority s our products and services.
+( HSA ) standards for Good Manufacturing Practice ( GMP ) and Good Distribution Practice ( GDP ), CUSTOMER PRIVACY holding licenses for the handling and manufacturing of health products.
+This includes wholesale, distribution, At Hyphens, we are committed to protecting the privacy and both primary and secondary assembly of these of our customers and employees.
+We have implemented products.
+policies and measures to ensure we handle personal data responsibly and securely, in line with the PDPA of Recognising the importance of proper handling, Singapore.
+storage, and distribution of our products, we place a strong emphasis on quality control within our internal Our Data Protection Committee ( DPC ), supported by operations and throughout our supply chain.
+We have the Data Protection Officer ( DPO ), oversees our data appointed a Quality Control Inspector to oversee the protection policies and is responsible for dealing with quality of incoming bulk materials, packaging, and any issues of non-compliance or data breaches.
+The printed materials, segregating any non-conforming DPC members receive annual training to ensure they items.
+All materials are rigorously tested against are equipped with the skills and knowledge to perform specific product specifications before approval for use.
+their duties effectively.
+Our vendor qualification program assesses potential We have introduced a Data Protection Handbook to vendors for compliance with international standards, educate our employees on the correct ways to handle including GDP, GMP, and other good practices personal data.
+Staff who work with customer data ( GxP ) relevant to the pharmaceutical industry.
+In are regularly trained and reminded about our data our warehouse and production areas, we utilise an protection policies.
+enterprise resource system ( ERP ) for real-time inventory management, ensuring efficient and precise As part of our digital transformation efforts, our Digital handling of health products.
+Transformation & IT ( DxIT ) team works to enhance the security of our servers and IT systems.
+They To guarantee that our products meet all safety and manage the personal data collection on our websites, quality standards, we engage independent, accredited making sure that only designated Website Owners and third-party labs for product testing.
+Regular audits by their representatives can access this data.
+both internal teams and health authorities like HSA help maintain our high standards.
+There were no substantiated complaints of customer privacy breaches in FY2023.
+Our ongoing target is to Our ongoing target continues to be to sustain a record always maintain zero incidents of customer privacy of zero incidents of non-compliance with regulations breaches.
+and industry-wide voluntary codes.
+There were no audit findings related to product quality and safety in FY2023.
+Also, there were no incidents of non- MATERIAL TOPIC: CUSTOMER PRIVACY compliance concerning the health and safety impacts Our Ongoing Target Performance in 2023 of products and services in the reported period.
+To have no incidents of No incidents.
+non-compliance with PDPA.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 55 OUR CUSTOMERS RESPONSIBLE MARKETING COMMUNICATIONS At Hyphens, we are committed to responsible marketing abiding by international standards within the pharmaceutical and consumer healthcare industry.
+In our marketing communications, we ensure all information is clear, truthful, and backed by scientific evidence.
+We strictly adhere to local and international advertising regulations, upholding the highest ethical standards in our interactions with healthcare There were professionals and patients.
+We ensure that our product no incidents of labels comply with the applicable labeling regulations.
+non-compliance There were no incidents of non-compliance concerning marketing communications identified in the reporting concerning marketing period.
+communications 56 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR SUPPLY CHAIN We are committed to embedding sustainability into our supply chain by engaging our partners in socially and environmentally responsible business practices.
+When exploring new business relationships, we share DISTRIBUTION AND FLEET MANAGEMENT Hyphens Pharma s philosophy and environmental goals upfront, ensuring our partners align with We recognise the importance of reducing the social and our core values of integrity, accountability, and environmental impacts of our distribution activities.
+sustainability.
+Collaborative efforts with our partners This includes ensuring the safety of our personnel focus on identifying and implementing improvements and local communities and managing our fuel and throughout our supply chain.
+energy consumption effectively.
+We continually seek to integrate digital innovations to enhance efficiency.
+SUSTAINABLE SOURCING For example, we have implemented a new fleet management system to optimise delivery routes, We are committed to embedding social and ensuring efficient product distribution while reducing environmental principles in our sourcing decisions.
+We energy use.
+In the coming year, we plan to pilot a adhere to procurement practices that minimise the digitalisation initiative to transition from paper to environmental impact of our products and services.
+e-invoices, further increasing efficiency, reducing costs, We expect our suppliers to uphold the same ethical and lowering our environmental impact.
+standards as we do.
+Our rigorous vendor selection process involves verifying each supplier s accreditations, SUPPLY CHAIN regulatory compliance, service quality, and reputation.
+We conduct regular due diligence checks on suppliers At Hyphens, we collaborate with contract manufacturers to ensure they meet industry standards, including to produce our proprietary brands and oversee the GMP, required ISO standards, and Hazard Analysis sourcing of raw materials.
+Additionally, we receive and Critical Control Points ( HACCP ) certifications.
+We finished goods from our pharmaceutical principals, periodically evaluate approved vendors to ensure they which primarily originate from Europe and the United meet our criteria for cost-effectiveness and operational States.
+We establish long term development and efficiency.
+distribution relationships with these principals, with the main portion of costs disclosed under the cost of goods sold under our Profit and Loss statement.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 57 OUR COMMUNITIES We are proud to do our part as a responsible corporate citizen by investing our time, resources, and expertise to make a positive impact on the communities in which we live, work, and play.
+In our commitment to advancing health equity BEST PARTNER FOR PEOPLE AND PLANET AWARD through digital health solutions, our subsidiary, DocMed Technology, has established a partnership In 2023, we received the  Best Partner for People and with SATA CommHealth.
+This partnership aligns with Planet  award from Chiesi Group during Partnership the efforts of Singapore s Ministry of Manpower, as Day, an event held on 16 November at Chiesi s SATA CommHealth is one of the four Anchor Operators headquarters.
+This award highlights our commitment under its Primary Care Plan, set to revolutionise to a purpose that transcends business, touching lives.
+primary healthcare for migrant workers.
+This Chiesi, a leading pharmaceutical company, based in collaboration will see DocMed s WellAway e-pharmacy Italy, is one of our brand partners.
+providing essential e-pharmacy medication delivery services post-teleconsultation by SATA CommHealth Through our annual medical missions to underserved to the migrant worker patients.
+Recognising the areas in Vietnam, we have overcome challenging diverse linguistic backgrounds of these patients, we access to deliver medical supplies and services to are incorporating multilingual pictograms alongside local communities.
+Concurrently, we conduct training standard medication labels to ensure clarity in for local medical professionals to provide quality prescription understanding for both patients and healthcare, manage premature births, and care for their employers.
+infants.
+Over the past 20 years and counting, we ve partnered with Chiesi to treat Respiratory Distress Syndrome ( RDS ) in premature infants across Vietnam, making a significant difference in the lives of countless families.
+We received  Best Partner for People and Planet  award from Chiesi Group during Partnership Day 58 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR COMMUNITIES JANUARY   PRESENT Hyphens Malaysia As a commitment to environmental conservation, Hyphens MY established a recycling corner in their pantry since 2018 and encouraged the office to contribute recyclables such as paper, cardboard items and plastics for recycling.
+This year, a total of 15-20kg of recyclables has been collected.
+MARCH DocMed Group 40 employees and their families from the DocMed Group volunteered in Hao Ren Hao Shi (Good   People, Good Deeds) s March provisions drive to sort, pack and distribute necessities and food provisions island wide.
+This initiative impacted over 1000 families, encompassing needy families with children under the MOE Financial Assistance Scheme, low-income families covered by the Public Assistance Scheme, vulnerable elderly living alone or facing immobility, terminally ill patients and disabled persons.
+In addition to hands-on involvement, we also donated S$3,000 and contributed medical supplies to Dover Park Hospice, a beneficiary under this initiative.
+MARCH   PRESENT Hyphens Philippines Starting this March, the Hyphens Philippines team has been organising plastic-free team lunches every Wednesday at the office.
+Each team member brings in a homecooked dish or two in eco-friendly or reusable containers.
+Furthermore, reusable cutlery and dishes are used.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 59 MAY Hyphens Singapore Partnering with Waterways Society, the employees of Hyphens Singapore and their families, undertook a cleanup of Marina Reservoir.
+Kayaking through the reservoir, we successfully retrieved 41kg of trash over 3 hours, surpassing our results from last year s East Coast Park clean up by 1.5 times.
+JULY Hyphens Vietnam Embarking on a medical mission to Qu ng Tr  Province (central Vietnam) in partnership with Youth Union, we administered complimentary health checkups, prescribed medication and distributed necessities to a total of 550 adults and children in the local community.
+In addition, we provided clinical training to 22 doctors and 34 nurses at Qu ng Tr  General Hospital to enhance their capabilities in providing specialised care for premature infants.
+60 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 OUR COMMUNITIES JULY, AUGUST, OCTOBER Ocean Health Aligning with its Sustainability Commitment, Ocean Health supported a series of seabed cleanup dives by Our Singapore Reefs, retrieving a total of 697 pieces of marine debris from the seabed off Singapore s Southern Islands, totalling approximately 135kg.
+Dive deeper into Ocean Health s Sustainability Commitment at: https://oceanhealth.com/blog/our-sustainability-commitment.
+html OCTOBER Hyphens Indonesia To express our gratitude towards our employees, we distributed meal packages to 20 janitors, building assistants and security officers in our Jakarta office building.
+NOVEMBER Hyphens Singapore We introduced themed days of the week aligning with a specific ESG focus: Meatless Monday, Teamwork Tuesday, Waste-Free Wednesday, Transparency Thursday, and Fulfilling Friday through company-wide emailers encouraging colleagues to incorporate sustainable practices into their daily routines.
+ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 61 GRI CONTENT INDEX Statement of Use Hyphens Pharma International Limited has reported with reference to the GRI Standards for the period 1 January 2023 to 31 December 2023.
+GRI 1 Used GRI 1: Foundation 2021 Applicable GRI Not applicable as a GRI sector standard is not available for our industry Sector Standard(s) GRI Standard Disclosure Location GRI 2: GENERAL DISCLOSURES 2021 Organisational Details and Reporting Practices GRI 2-1 Organisational details Cover page, 1, 24, 25, 28 Entities included in the organisation s sustainability GRI 2-2 24, 28 reporting GRI 2-3 Reporting period, frequency and contact point 28, Published on {date} GRI 2-4 Restatements of information 28 GRI 2-5 External assurance 28 Activities and Workers GRI 2-6 Activities, value chain and other business relationships 2-5, 56 GRI 2-7 Employees 38 GRI 2-8 Workers who are not employees 38 Governance GRI 2-9 Governance structure and composition 29-30, 65-78 GRI 2-10 Nomination and selection of the highest governance body 68-69 GRI 2-11 Chair of the highest governance body 68 Role of the highest governance body in overseeing the GRI 2-12 29-30, 47, 76-77 management of impacts GRI 2-13 Delegation of responsibility for managing impacts 29-30, 47 Role of the highest governance body in sustainability GRI 2-14 29-30, 36 reporting GRI 2-15 Conflicts of interest 31 GRI 2-16 Communication of critical concerns 32 GRI 2-17 Collective knowledge of the highest governance body 20-21, 30 Evaluation of the performance of the highest governance GRI 2-18 70-71 body GRI 2-19 Remuneration policies 71-73 GRI 2-20 Process to determine remuneration 71-73 We do not disclose this due to confidentiality GRI 2-21 Annual total compensation ratio constraints relating to compensation.
+62 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 GRI CONTENT INDEX GRI Standard Disclosure Location Strategies, Policies and Practices GRI 2-22 Statement on sustainable development strategy 29 GRI 2-23 Policy commitments 31, 33 GRI 2-24 Embedding policy commitments 31, 33, 34 GRI 2-25 Processes to remediate negative impacts 33, 34, 36 GRI 2-26 Mechanisms for seeking advice and raising concerns 32 GRI 2-27 Compliance with laws and regulations 31 GRI 2-28 Membership associations None Stakeholder Engagement GRI 2-29 Approach to stakeholder engagement 35, 76-77 GRI 2-30 Collective bargaining agreements None Material Topics GRI 3-1 Process to determine material topics GRI 3-2 List of material topics ENVIRONMENT Packaging Impact (Non-GRI Topic) GRI 3: Material 3-3 Management of material topics 34, 37, 44 Topics 2021 Reducing Initiatives to reduce environmental impact of packaging 44-45 packaging impact SOCIAL Employment GRI 3: Material 3-3 Management of material topics 34, 37, 38 Topics 2021 401-1 New Employee hires and employee turnover 41 GRI 401: 401-2 Benefits provided to full-time employees that are not 40 Employment 2016 provided to temporary or part-time employees 401-3 Parental leave 40 Training and Education GRI 3: Material 3-3 Management of material topics 34, 37 Topics 2021 GRI 404: Training 404-3 Percentage of employees receiving regular and Education 40 performance and career development reviews 2016 ANNUAL REPORT 2023 HYPHENS PHARMA INTERNATIONAL LIMITED 63 GRI CONTENT INDEX GRI Standard Disclosure Location Diversity GRI 3: Material 3-3 Management of material topics 31, 34, 37 Topics 2021 GRI 405: Diversity and Equal 405-1 Diversity of governance bodies and employees 39, 67 Opportunity 2016 Customer Health and Safety GRI 3: Material 3-3 Management of material topics 34, 37, 54 Topics 2021 GRI 416: 416-2 Incidents of non-compliance concerning the health Customer Health 54 and safety impacts of products and services and Safety 2016 GOVERNANCE Anti-corruption GRI 3: Material 3-3 Management of material topics 31, 32, 34, 37 Topics 2021 GRI 205: Anti- 205-3 Confirmed incidents of corruption and actions taken 32 corruption 2016 Marketing and Labelling GRI 3: Material 3-3 Management of material topics 34, 37, 55 Topics 2021 GRI 417: 417-2 Incidents of non-compliance concerning product and Marketing and 55 service information and labelling Labelling Customer Privacy GRI 3: Material 3-3 Management of material topics 32, 34, 37, 54 Topics 2021 GRI 418: 418-1 Substantiated complaints concerning breaches of Customer Privacy 32, 54 customer privacy and losses of customer data 2016 OTHER NON-GRI MATERIAL TOPICS Regulatory Compliance GRI 3: Material 3-3 Management of material topics 31, 34, 37 Topics 2021 Incidents of Incidents of significant non-compliance with applicable 31 non-compliance regulations 64 HYPHENS PHARMA INTERNATIONAL LIMITED ANNUAL REPORT 2023 GRI CONTENT INDEX TCFD DISCLOSURES This report is aligned with the Task Force on Climate-Related Financial Disclosures (TCFD) recommendations.
+The following table indicates the location our TCDF disclosures.
+Number Disclosures Location GOVERNANCE Describe the board s oversight of climate-related risks and 47 TCDF 1(a) opportunities.
+Describe management s role in assessing and managing 47 TCFD 1(b) climate-related risks and opportunities.
+STRATEGY Describe the climate-related risks and opportunities the 47-51 TCFD 2(a) organisation has identified over the short, medium, and long term.
+Describe the impact of climate-related risks and 47-51 TCFD 2(b) opportunities on the organisation s businesses, strategy, and financial planning.
+Describe the resilience of the organisation s strategy, taking 47-51 TCFD 2(c) into consideration different climate-related scenarios, including a 2 C or lower scenario.
+RISK MANAGEMENT Describe the organisation s processes for identifying and 52 TCFD 3(a) assessing climate-related risks.
+Describe the organisation s processes for managing 52 TCFD 3(b) climate-related risks.
+Describe how processes for identifying, assessing, and 52 TCFD 3(c) managing climate-related risks are integrated into the organisation s overall risk management.
+METRICS AND TARGETS Disclose the metrics used by the organisation to assess 52-53 TCFD 4(a) climate-related risks and opportunities in line with its strategy and risk management process.
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 52-53 TCFD 4(b) greenhouse gas (GHG) emissions and the related risks.
+Describe the targets used by the organisation to manage 44, 48 TCFD 4(c) climate-related risks and opportunities and performance against targets.
