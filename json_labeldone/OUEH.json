@@ -1,0 +1,72 @@
+[
+    {
+        "metric": "external assurance",
+        "value": "not",
+        "unit": null
+    },
+    {
+        "metric": "12-month electricity",
+        "value": "7.8",
+        "unit": "MWh"
+    },
+    {
+        "metric": "intensity",
+        "value": "30.5",
+        "unit": "kWh/m"
+    },
+    {
+        "metric": " Scope 2 GHG emissions",
+        "value": "244,059.4",
+        "unit": "kgCO"
+    },
+    {
+        "metric": "Absolute Scope 2 GHG",
+        "value": "3,238.1",
+        "unit": "kgCO"
+    },
+    {
+        "metric": "12-month Scope 2",
+        "value": "12.7",
+        "unit": "kgCO /m "
+    },
+    {
+        "metric": "Surface Area",
+        "value": "255.0",
+        "unit": "sqm"
+    },
+    {
+        "metric": "water withdrawal",
+        "value": "11,866.2",
+        "unit": "cubic metres ( m )"
+    },
+    {
+        "metric": "water intensity",
+        "value": "2.2",
+        "unit": "m per square metre ( m /m )"
+    },
+    {
+        "metric": "employees entitled to Parental Leave",
+        "value": "3 ",
+        "unit": null
+    },
+    {
+        "metric": "employees that returned to work in the reporting period after parental",
+        "value": "3",
+        "unit": null
+    },
+    {
+        "metric": "Male",
+        "value": "12.5",
+        "unit": "%"
+    },
+    {
+        "metric": "Man-hours worked",
+        "value": "361,454",
+        "unit": null
+    },
+    {
+        "metric": "incidents",
+        "value": " Zero",
+        "unit": null
+    }
+]
