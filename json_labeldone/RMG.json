@@ -1,0 +1,272 @@
+[
+    {
+        "metric": "Female Directors",
+        "value": "17",
+        "unit": "% "
+    },
+    {
+        "metric": "Independent Directors",
+        "value": "58",
+        "unit": "% "
+    },
+    {
+        "metric": "Scope 1 emissions",
+        "value": "1,644.9",
+        "unit": "tCO2e"
+    },
+    {
+        "metric": "Scope 2 emissions",
+        "value": "17,489.2",
+        "unit": "tCO2e"
+    },
+    {
+        "metric": "Electricity Consumed",
+        "value": "0.04 ",
+        "unit": "MWh/revenue S$ 000"
+    },
+    {
+        "metric": "Water Consumed",
+        "value": "0.23 ",
+        "unit": "Cu M/revenue S$ 000"
+    },
+    {
+        "metric": "Waste Generated",
+        "value": "796.1",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Female staff",
+        "value": "75",
+        "unit": "% "
+    },
+    {
+        "metric": "Staff aged above 50 years",
+        "value": "14.7",
+        "unit": "% "
+    },
+    {
+        "metric": "incidence for patient safety",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Fatality",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Recordable injuries",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Recorded work- related ill health",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Employee turnover",
+        "value": "26",
+        "unit": "% "
+    },
+    {
+        "metric": "New hires (female)",
+        "value": "78",
+        "unit": "% "
+    },
+    {
+        "metric": "Female employees",
+        "value": "75",
+        "unit": "% "
+    },
+    {
+        "metric": "Training hours",
+        "value": "52,933",
+        "unit": null
+    },
+    {
+        "metric": "Staff performance review rat",
+        "value": "100",
+        "unit": "% "
+    },
+    {
+        "metric": "Company donated",
+        "value": "1,068,113",
+        "unit": "$"
+    },
+    {
+        "metric": "Staff volunteered",
+        "value": "796 ",
+        "unit": "hours "
+    },
+    {
+        "metric": "Women in Board",
+        "value": "16.7",
+        "unit": "% "
+    },
+    {
+        "metric": "Data-security",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Scope 1",
+        "value": "1,644.9",
+        "unit": "tCO2e"
+    },
+    {
+        "metric": "Scope 2",
+        "value": "17,489.2",
+        "unit": "tCO2e"
+    },
+    {
+        "metric": "free health screening",
+        "value": "free health screening",
+        "unit": null
+    },
+    {
+        "metric": "free influenza Occupational vaccination",
+        "value": "free influenza Occupational vaccination",
+        "unit": null
+    },
+    {
+        "metric": "Fatalities ",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Permanent Employees",
+        "value": "2,892 ",
+        "unit": null
+    },
+    {
+        "metric": "Employee Turnover",
+        "value": "44.7",
+        "unit": "% "
+    },
+    {
+        "metric": "Female employees",
+        "value": "75.1",
+        "unit": "% "
+    },
+    {
+        "metric": "Male employees ",
+        "value": "24.9",
+        "unit": "% "
+    },
+    {
+        "metric": "New hires (Female)",
+        "value": "77.9",
+        "unit": "% "
+    },
+    {
+        "metric": "Employee Turnover (Female) ",
+        "value": "79.5",
+        "unit": "% "
+    },
+    {
+        "metric": "Women on the Board",
+        "value": "16.7",
+        "unit": "% "
+    },
+    {
+        "metric": "Current employees under 30 years old",
+        "value": "19.1",
+        "unit": "% "
+    },
+    {
+        "metric": "Current employees between 30-50 years old",
+        "value": "66.2",
+        "unit": "% "
+    },
+    {
+        "metric": "Current employees over 50 years old",
+        "value": "14.7",
+        "unit": "% "
+    },
+    {
+        "metric": "New hires under 30 years old",
+        "value": "37.4",
+        "unit": "% "
+    },
+    {
+        "metric": "New hires between 30-50 years old",
+        "value": "56.2",
+        "unit": "% "
+    },
+    {
+        "metric": "New hires over 50 years old",
+        "value": "6.4",
+        "unit": "% "
+    },
+    {
+        "metric": "Employee Turnover under 30 years old",
+        "value": "27.5",
+        "unit": "% "
+    },
+    {
+        "metric": "Employee Turnover between 30-50 years old",
+        "value": "60.7",
+        "unit": "%"
+    },
+    {
+        "metric": "Employee Turnover over 50 years old",
+        "value": "11.8",
+        "unit": "% "
+    },
+    {
+        "metric": "Total water consumed",
+        "value": "161,192.4",
+        "unit": "Cu M"
+    },
+    {
+        "metric": "Water consumption intensity",
+        "value": "0.23 ",
+        "unit": "Cu M/revenue S$ 000"
+    },
+    {
+        "metric": "Total electricity consumed",
+        "value": "28,689.6",
+        "unit": "MWh"
+    },
+    {
+        "metric": "Energy consumption intensity",
+        "value": "0.04 ",
+        "unit": "MWh/revenue S$ 000"
+    },
+    {
+        "metric": "General waste",
+        "value": "796.1 ",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Paper consumed",
+        "value": "43.6 ",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Paper recycling",
+        "value": "129.6 ",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Plastic recycling",
+        "value": "0.6 ",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Metal recycling",
+        "value": "1.2 ",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Biohazard waste",
+        "value": "1,748.5",
+        "unit": "metric ton"
+    },
+    {
+        "metric": "Enterprise Risk Assessment exercise ",
+        "value": "Enterprise Risk Assessment exercise",
+        "unit": null
+    }
+]

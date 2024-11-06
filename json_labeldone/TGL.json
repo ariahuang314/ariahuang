@@ -1,0 +1,142 @@
+[
+    {
+        "metric": "Total Employees",
+        "value": "268 ",
+        "unit": null
+    },
+    {
+        "metric": "Full time (Male)",
+        "value": "58 ",
+        "unit": null
+    },
+    {
+        "metric": "Full time (Female)",
+        "value": "174 ",
+        "unit": null
+    },
+    {
+        "metric": "Total Greenhouse Gas (GHG) emission",
+        "value": "1,860",
+        "unit": "tonnes CO equivalent"
+    },
+    {
+        "metric": "Total Employees",
+        "value": "268 ",
+        "unit": null
+    },
+    {
+        "metric": "Male ",
+        "value": "66 ",
+        "unit": null
+    },
+    {
+        "metric": "Female ",
+        "value": "202 ",
+        "unit": null
+    },
+    {
+        "metric": "Total New Hire Rate",
+        "value": "22 ",
+        "unit": "%"
+    },
+    {
+        "metric": "Total Turnover Rate",
+        "value": "19 ",
+        "unit": "%"
+    },
+    {
+        "metric": "Average Training Hours Per Employee",
+        "value": "55.6 ",
+        "unit": "Hours "
+    },
+    {
+        "metric": "Total confirmed incidents of corruption and action taken",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total non-compliance with laws and regulations",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total substantiated complaints concerning breaches of customer privacy",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "GHG Emission Intensity",
+        "value": "0.019 ",
+        "unit": "tonnes CO/Revenue SGD 000"
+    },
+    {
+        "metric": "Employees Information by Age Group",
+        "value": "Employees Information by Age Group",
+        "unit": null
+    },
+    {
+        "metric": "New Hires By Age Group",
+        "value": "New Hires By Age Group",
+        "unit": null
+    },
+    {
+        "metric": "Employee Turnover",
+        "value": " Employee Turnover",
+        "unit": null
+    },
+    {
+        "metric": "Total new hire rate",
+        "value": "22",
+        "unit": "% "
+    },
+    {
+        "metric": "Total turnover rate",
+        "value": "19",
+        "unit": "% "
+    },
+    {
+        "metric": "Average training hours per employee",
+        "value": "55.6 ",
+        "unit": "hours "
+    },
+    {
+        "metric": "Incidents of non-compliance concerning the health and safety impacts of products and services",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total number and nature of confirmed incidents of corruption",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total number of confirmed incidents in which employees were dismissed or disciplined for corruption",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total number of confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Public legal cases regarding corruption brought against the organisation or its employees during the reporting period and the outcomes of such cases",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total number of significant instances of non-compliance with laws and regulations Number of fines incurred",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Total monetary value of fines paid for the reporting period Current reporting period",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Substantiated complaints concerning breaches of customer privacy and losses of customer data",
+        "value": "0 ",
+        "unit": null
+    }
+]
