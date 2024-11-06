@@ -1,0 +1,132 @@
+[
+    {
+        "metric": "Total training expenses",
+        "value": "371,000 ",
+        "unit": "RM"
+    },
+    {
+        "metric": "Total volunteering hours",
+        "value": "10,524",
+        "unit": "hours"
+    },
+    {
+        "metric": "Commercialisation",
+        "value": "636,000",
+        "unit": "RM"
+    },
+    {
+        "metric": "generated from solar panels",
+        "value": "5.68 ",
+        "unit": "GWh"
+    },
+    {
+        "metric": "Reduce carbon emission intensity",
+        "value": "0.0187",
+        "unit": "tonnes/1,000 pcs"
+    },
+    {
+        "metric": "Reduce electricity consumption",
+        "value": "8.19",
+        "unit": "kWh/1,000 "
+    },
+    {
+        "metric": "Natural gas consumption intensity",
+        "value": "0.279",
+        "unit": "MMBtu/1,000 pcs glove"
+    },
+    {
+        "metric": "Reduce municipal water",
+        "value": "0.186",
+        "unit": "m3/1,000 pcs glove "
+    },
+    {
+        "metric": "Reduce scheduled waste intensity",
+        "value": "0.148",
+        "unit": "kg/1,000 pcs glove "
+    },
+    {
+        "metric": "Divert disposal of scheduled waste",
+        "value": "70",
+        "unit": "%"
+    },
+    {
+        "metric": "Reduce solid waste",
+        "value": "9,139",
+        "unit": "tonnes"
+    },
+    {
+        "metric": "virgin plastic resin",
+        "value": "19.2",
+        "unit": "% "
+    },
+    {
+        "metric": "Reduce paper usage",
+        "value": "37,800",
+        "unit": "kg"
+    },
+    {
+        "metric": "BSCI: 100% ",
+        "value": "100%",
+        "unit": null
+    },
+    {
+        "metric": "BSCI: 100%",
+        "value": "100%",
+        "unit": null
+    },
+    {
+        "metric": "job opportunities",
+        "value": "7,500",
+        "unit": null
+    },
+    {
+        "metric": "job opportunities",
+        "value": "30,000",
+        "unit": null
+    },
+    {
+        "metric": "job opportunities",
+        "value": " 8,198",
+        "unit": null
+    },
+    {
+        "metric": "female leadership ",
+        "value": "50",
+        "unit": "%"
+    },
+    {
+        "metric": "female leadership",
+        "value": "46",
+        "unit": "%"
+    },
+    {
+        "metric": "female leadership",
+        "value": "52",
+        "unit": "%"
+    },
+    {
+        "metric": "Reduce occupational accident rate",
+        "value": "3.0",
+        "unit": " per 1,000 workers"
+    },
+    {
+        "metric": "total Planted cumulative",
+        "value": "2,150",
+        "unit": "mangrove trees"
+    },
+    {
+        "metric": " traceability ",
+        "value": "70",
+        "unit": "%"
+    },
+    {
+        "metric": "green electricity",
+        "value": "5.68 ",
+        "unit": "GWh"
+    },
+    {
+        "metric": "nitrile waste",
+        "value": "35,089",
+        "unit": " kg"
+    }
+]
