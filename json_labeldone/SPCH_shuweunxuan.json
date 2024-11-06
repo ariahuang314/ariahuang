@@ -1,0 +1,142 @@
+[
+    {
+        "metric": "Economic Performance",
+        "value": "GRI 201-1",
+        "unit": null
+    },
+    {
+        "metric": "Resource Efficiency",
+        "value": "GRI 302-1",
+        "unit": null
+    },
+    {
+        "metric": "Resource Efficiency",
+        "value": "GRI 305-2",
+        "unit": null
+    },
+    {
+        "metric": "Resource Efficiency",
+        "value": "GRI 303-3",
+        "unit": null
+    },
+    {
+        "metric": "Compliance",
+        "value": "GRI 2-27",
+        "unit": null
+    },
+    {
+        "metric": "Data Privacy",
+        "value": "GRI 418-1",
+        "unit": null
+    },
+    {
+        "metric": "Patient Experience",
+        "value": "Patient Experience",
+        "unit": null
+    },
+    {
+        "metric": "Patient Health and Safety",
+        "value": "GRI 416-2",
+        "unit": null
+    },
+    {
+        "metric": "Employee Relations",
+        "value": "GRI 401-1",
+        "unit": null
+    },
+    {
+        "metric": "Employee Relations",
+        "value": " 405-1",
+        "unit": null
+    },
+    {
+        "metric": "Training and Development",
+        "value": "GRI 404-1",
+        "unit": null
+    },
+    {
+        "metric": "Occupational Health & Safety",
+        "value": "GRI 403-9",
+        "unit": null
+    },
+    {
+        "metric": "Total energy consumed",
+        "value": "535,338",
+        "unit": "MJ"
+    },
+    {
+        "metric": "greenhouse gas (“GHG”) emissions",
+        "value": "0.45",
+        "unit": "Ml"
+    },
+    {
+        "metric": "CLIMATE-RELATED FINANCIAL DISCLOSURES",
+        "value": "CLIMATE-RELATED FINANCIAL DISCLOSURES",
+        "unit": null
+    },
+    {
+        "metric": "POTENTIAL FINANCIAL IMPACTS",
+        "value": "POTENTIAL FINANCIAL IMPACTS",
+        "unit": null
+    },
+    {
+        "metric": "anti-corruption",
+        "value": "anti-corruption",
+        "unit": null
+    },
+    {
+        "metric": "disposal of wastes",
+        "value": "disposal of wastes",
+        "unit": null
+    },
+    {
+        "metric": "dispose biohazardous waste safely",
+        "value": "dispose biohazardous waste safely",
+        "unit": null
+    },
+    {
+        "metric": "non-compliances",
+        "value": "0",
+        "unit": null
+    },
+    {
+        "metric": "Data Protection",
+        "value": "A Data Protection Officer has been appointed",
+        "unit": null
+    },
+    {
+        "metric": "PATIENT EXPERIENCE",
+        "value": "PATIENT EXPERIENCE",
+        "unit": null
+    },
+    {
+        "metric": "patient experience",
+        "value": "patient experience",
+        "unit": null
+    },
+    {
+        "metric": "overall headcount",
+        "value": "45.7",
+        "unit": "%"
+    },
+    {
+        "metric": "ratio of females to males in our new hires",
+        "value": "7:1",
+        "unit": null
+    },
+    {
+        "metric": "turnover rate",
+        "value": "37.1",
+        "unit": "%"
+    },
+    {
+        "metric": "charity fundraising",
+        "value": "public talks on health and pain management",
+        "unit": null
+    },
+    {
+        "metric": "raise funds for",
+        "value": "raise funds for",
+        "unit": null
+    }
+]

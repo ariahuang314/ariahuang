@@ -1,0 +1,152 @@
+[
+    {
+        "metric": "Local sales increased",
+        "value": "1.4 million",
+        "unit": "$"
+    },
+    {
+        "metric": "Employee benefits expense",
+        "value": "38.4 million",
+        "unit": "S$"
+    },
+    {
+        "metric": "Negative customer feedback rate",
+        "value": "<1",
+        "unit": "%"
+    },
+    {
+        "metric": "Water consumption intensity",
+        "value": "0.03",
+        "unit": "Cu M/revenue S$ 000"
+    },
+    {
+        "metric": " Total Greenhouse Gas ( GHG ) emissions",
+        "value": "265",
+        "unit": "tonnes"
+    },
+    {
+        "metric": "GHG emissions intensity",
+        "value": "0.004",
+        "unit": null
+    },
+    {
+        "metric": "GRI",
+        "value": "GRI",
+        "unit": null
+    },
+    {
+        "metric": "TCFD",
+        "value": "TCFD",
+        "unit": null
+    },
+    {
+        "metric": "2030 Agenda for Sustainable Development",
+        "value": "2030 Agenda for Sustainable Development",
+        "unit": null
+    },
+    {
+        "metric": "Community campaigns",
+        "value": "Community campaigns",
+        "unit": null
+    },
+    {
+        "metric": "Quality patient care",
+        "value": "Quality patient care",
+        "unit": null
+    },
+    {
+        "metric": "Clean and safe environment",
+        "value": "Clean and safe environment",
+        "unit": null
+    },
+    {
+        "metric": "Employees Employee assessments",
+        "value": "Employees Employee assessments",
+        "unit": null
+    },
+    {
+        "metric": "Career development",
+        "value": "Career development",
+        "unit": null
+    },
+    {
+        "metric": "Employee meetings training opportunities",
+        "value": "Employee meetings training opportunities",
+        "unit": null
+    },
+    {
+        "metric": "Workplace health and safety",
+        "value": "Workplace health and safety",
+        "unit": null
+    },
+    {
+        "metric": "Quality patient care",
+        "value": "Quality patient care",
+        "unit": null
+    },
+    {
+        "metric": "Prompt response for enquiries and feedback",
+        "value": "Prompt response for enquiries and feedback",
+        "unit": null
+    },
+    {
+        "metric": "Corporate governance",
+        "value": "Corporate governance",
+        "unit": null
+    },
+    {
+        "metric": "Prompt payments Phone calls",
+        "value": "Prompt payments Phone calls",
+        "unit": null
+    },
+    {
+        "metric": "water consumption",
+        "value": "2,055",
+        "unit": "Cu M"
+    },
+    {
+        "metric": "Water Consumption Intensity",
+        "value": "0.03",
+        "unit": "Cu M/revenue S$ 000"
+    },
+    {
+        "metric": "Electricity consumption",
+        "value": "2,250",
+        "unit": "gigajoules"
+    },
+    {
+        "metric": "Electricity consumption intensity",
+        "value": "0.033",
+        "unit": "gigajoules/revenue S$ 000"
+    },
+    {
+        "metric": "GHG emissions",
+        "value": "265",
+        "unit": "tonnes CO e"
+    },
+    {
+        "metric": "GHG emissions intensity",
+        "value": "0.004",
+        "unit": "tonnes CO e/revenue S$ 000"
+    },
+    {
+        "metric": "Employee commuting",
+        "value": "0.257",
+        "unit": "tonnes CO e"
+    },
+    {
+        "metric": "New hire",
+        "value": "46",
+        "unit": "%"
+    },
+    {
+        "metric": "Turnover",
+        "value": "24",
+        "unit": "%"
+    },
+    {
+        "metric": "key executives",
+        "value": "4",
+        "unit": null
+    }
+]
