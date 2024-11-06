@@ -1,0 +1,37 @@
+[
+    {
+        "metric": "with high risk of diseases related to their occupation",
+        "value": "0",
+        "unit": null
+    },
+    {
+        "metric": "Percentage of employees at the manufacturing division of Haw Par Healthcare Singapore covered by a collective bargaining agreement",
+        "value": "67",
+        "unit": "%"
+    },
+    {
+        "metric": "Water consumption",
+        "value": "2.76",
+        "unit": "megalitre"
+    },
+    {
+        "metric": "Water discharge ",
+        "value": "5.24",
+        "unit": "megalitre"
+    },
+    {
+        "metric": "Water withdrawal from third-party water source",
+        "value": "8.0",
+        "unit": "megalitre"
+    },
+    {
+        "metric": "GHG emissions",
+        "value": "1,306.2",
+        "unit": "tCO2e"
+    },
+    {
+        "metric": "Purchased Grid Electricity",
+        "value": "3,197.5",
+        "unit": "MWh"
+    }
+]

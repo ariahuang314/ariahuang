@@ -1,0 +1,92 @@
+[
+    {
+        "metric": "training",
+        "value": "35.2",
+        "unit": "hours"
+    },
+    {
+        "metric": "gender diversity ratio(women)",
+        "value": "52",
+        "unit": "%"
+    },
+    {
+        "metric": "revenue",
+        "value": "481.3 ",
+        "unit": "million of dollars"
+    },
+    {
+        "metric": "diesel (predominantly utilised by commercial vehicles) ",
+        "value": "0.6",
+        "unit": "%"
+    },
+    {
+        "metric": "Total weight of waste generated",
+        "value": "55.0",
+        "unit": "metric tons"
+    },
+    {
+        "metric": "Waste Generated",
+        "value": "246.4 ",
+        "unit": "MT"
+    },
+    {
+        "metric": "Total Water Consumption",
+        "value": "109,740",
+        "unit": "m3"
+    },
+    {
+        "metric": "Water Consumed",
+        "value": "0.228 ",
+        "unit": "m3"
+    },
+    {
+        "metric": "the total number of employees",
+        "value": "2,576",
+        "unit": null
+    },
+    {
+        "metric": "work-related injury",
+        "value": "1.7",
+        "unit": null
+    },
+    {
+        "metric": " the proportion of female employees",
+        "value": "52",
+        "unit": "%"
+    },
+    {
+        "metric": "Board of Directors Male",
+        "value": "86",
+        "unit": "%"
+    },
+    {
+        "metric": " Work-related injuries for all employees and workers",
+        "value": " 0",
+        "unit": null
+    },
+    {
+        "metric": "Number of high-consequence ",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "work-related injuries Number of recordable",
+        "value": "2",
+        "unit": null
+    },
+    {
+        "metric": "Number of fatalities",
+        "value": "0 ",
+        "unit": null
+    },
+    {
+        "metric": "Number of cases of recordable",
+        "value": "0",
+        "unit": null
+    },
+    {
+        "metric": "Proportion of Senior Management Hired from the Local Community",
+        "value": "100",
+        "unit": "%"
+    }
+]
