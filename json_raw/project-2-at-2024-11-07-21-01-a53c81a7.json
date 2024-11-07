@@ -1,0 +1,196 @@
+[
+  {
+    "value": "In 2023, there were no workers with high risk of diseases related to their occupation.",
+    "id": 1692,
+    "metrics": [
+      {
+        "start": 31,
+        "end": 85,
+        "text": "with high risk of diseases related to their occupation",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "no",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2024-11-06T11:37:53.895741Z",
+    "updated_at": "2024-11-06T11:37:53.895741Z",
+    "lead_time": 11.289
+  },
+  {
+    "value": "Percentage of employees at the manufacturing division of Haw Par Healthcare Singapore covered by a collective bargaining agreement: 2023 2022 2021 67% 65% 77% Supply Chain To guide and   Committed to an ethical and accountable procurement process that maintains encourage integrity and fairness.",
+    "id": 1707,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 130,
+        "text": "Percentage of employees at the manufacturing division of Haw Par Healthcare Singapore covered by a collective bargaining agreement",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 147,
+        "end": 150,
+        "text": "67%",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2024-11-06T11:38:36.362193Z",
+    "updated_at": "2024-11-06T11:38:36.362193Z",
+    "lead_time": 17.119
+  },
+  {
+    "value": "GHG profiling and Scope 3 GHG screening Haw Par Healthcare - Singapore 2023 2022 2021 Incidents of non-compliance with environmental laws and regulations Nil Nil Nil Energy consumption within the Organisation (MWh) 3,969.98 3,232.56 3,197.5 Purchased Grid Electricity GHG Emissions** Scope 2 GHG emissions (tCO2e) 1,654.7 1,347.3 1,306.2 Water withdrawal from third-party water source (megalitre) 16.29 10.75 8.0 Water discharge (megalitre) 11.24 7.42 5.24 Water consumption (megalitre) 5.05 3.33 2.76 Note: Our manufacturing plants are powered by electricity, which we purchased from the grid.",
+    "id": 1726,
+    "metrics": [
+      {
+        "start": 457,
+        "end": 474,
+        "text": "Water consumption",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 497,
+        "end": 501,
+        "text": "2.76",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 476,
+        "end": 485,
+        "text": "megalitre",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 413,
+        "end": 429,
+        "text": "Water discharge ",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 452,
+        "end": 456,
+        "text": "5.24",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 430,
+        "end": 439,
+        "text": "megalitre",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 338,
+        "end": 384,
+        "text": "Water withdrawal from third-party water source",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 409,
+        "end": 412,
+        "text": "8.0",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 386,
+        "end": 395,
+        "text": "megalitre",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 292,
+        "end": 305,
+        "text": "GHG emissions",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 330,
+        "end": 337,
+        "text": "1,306.2",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 312,
+        "text": "tCO2e",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 241,
+        "end": 267,
+        "text": "Purchased Grid Electricity",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 233,
+        "end": 240,
+        "text": "3,197.5",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 210,
+        "end": 213,
+        "text": "MWh",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2024-11-06T11:31:01.927054Z",
+    "updated_at": "2024-11-06T11:31:01.927054Z",
+    "lead_time": 115.733
+  },
+  {
+    "value": "19",
+    "id": 1877,
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2024-11-06T11:41:21.886926Z",
+    "updated_at": "2024-11-06T11:41:21.886926Z",
+    "lead_time": 6.262
+  }
+]

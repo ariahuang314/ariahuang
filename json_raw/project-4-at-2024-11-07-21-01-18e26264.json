@@ -1,0 +1,569 @@
+[
+  {
+    "text": "employee received 35.2 hours of training in 2023, and This rating measures a company s management of ESG all of our employees participated in performance and risks and opportunities.",
+    "id": 1915,
+    "label": [
+      {
+        "start": 32,
+        "end": 40,
+        "text": "training",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "35.2",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "hours",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2024-11-06T05:07:23.570393Z",
+    "updated_at": "2024-11-06T05:07:23.570393Z",
+    "lead_time": 292.282
+  },
+  {
+    "text": "gender diversity ratio, with 52% of women representing our workforce in 2023.",
+    "id": 1918,
+    "label": [
+      {
+        "start": 0,
+        "end": 22,
+        "text": "gender diversity ratio",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "text": "52% of women",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2024-11-06T05:08:14.536949Z",
+    "updated_at": "2024-11-06T05:08:14.536949Z",
+    "lead_time": 43.085
+  },
+  {
+    "text": "experienced a downturn, with a reported revenue of S$481.3 million due to a combination of reduced end- There have been no reported cases of significant customer demand and excess inventory which pushed misconduct related to AEM's business practices and out capital expenditure in the semiconductor industry.",
+    "id": 2034,
+    "label": [
+      {
+        "start": 40,
+        "end": 47,
+        "text": "revenue",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "text": "S$481.3 ",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "million",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2024-11-06T05:16:18.594761Z",
+    "updated_at": "2024-11-06T05:16:18.594761Z",
+    "lead_time": 22.983
+  },
+  {
+    "text": "In FY2023, diesel (predominantly utilised by commercial vehicles) amounted to 0.6% of our overall energy consumption.",
+    "id": 2067,
+    "label": [
+      {
+        "start": 11,
+        "end": 66,
+        "text": "diesel (predominantly utilised by commercial vehicles) ",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "0.6% ",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2024-11-06T05:19:15.938618Z",
+    "updated_at": "2024-11-06T05:19:15.938618Z",
+    "lead_time": 12.696
+  },
+  {
+    "text": "Total weight of waste generated (in metric tons) FY2021 FY2022 FY2023 49.5 78.6 55.0 (25%) (27%) (22%) Total Weight of (1 62 31 %.",
+    "id": 2094,
+    "label": [
+      {
+        "start": 0,
+        "end": 31,
+        "text": "Total weight of waste generated",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "text": "55.0",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "text": "metric tons",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2024-11-06T05:21:32.628525Z",
+    "updated_at": "2024-11-06T12:14:55.309038Z",
+    "lead_time": 94.68700000000001
+  },
+  {
+    "text": "4 ) Waste Generated 193.6 286.2 246.4 (MT) Waste Generated per FY2021 FY2022 FY2023 Monetory Unit of 0.00034 0.00033 0.00051 Sales (MT\/S$'000) Hazardous waste Recycled waste General waste Material Topic FY2023 Performance Perpetual Targets A 14% decrease in the total To further reduce the use of paper amount of waste production documentation and consumption activities in FY2023 as compared Waste to FY2022 Refine measurement and reporting methods Management to manage other significant waste-related impacts from our manufacturing processes (e.g., chemical waste, used coolant, etc.",
+    "id": 2100,
+    "label": [
+      {
+        "start": 4,
+        "end": 19,
+        "text": "Waste Generated",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "text": "246.4 ",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "MT",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2024-11-06T05:23:21.210539Z",
+    "updated_at": "2024-11-06T05:23:21.210539Z",
+    "lead_time": 48.265
+  },
+  {
+    "text": "FY2021 FY2022 FY2023 Total Water Consumption from 49,967 74,076 109,740 All Areas (m3) Water Consumed per Monetary Unit of 0.088 0.085 0.228 Sales (m3\/S$ 000) Material Topic FY2023 Performance Perpetual Targets Overall water consumption increase To continue promoting water conservation in FY2023 due to moving our awareness among our employees production to a newer, larger facility Water in Penang, Malaysia To take measures to reduce water consumption, Management e.g., by using reclaimed water, motion sensor taps, and spring faucets wwwwww..",
+    "id": 2109,
+    "label": [
+      {
+        "start": 21,
+        "end": 44,
+        "text": "Total Water Consumption",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "text": "109,740",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 85,
+        "text": "m3",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 101,
+        "text": "Water Consumed",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 141,
+        "text": "0.228 ",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 85,
+        "text": "m3",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-11-06T05:24:25.140465Z",
+    "updated_at": "2024-11-06T12:15:25.508050Z",
+    "lead_time": 73.533
+  },
+  {
+    "text": "ssgg AEM Holdings Ltd. Solidifying Relationships with Our Stakeholders Managing Our Human Capital As of 31 December 2023, the total number of employees at AEM was 2,576, representing a decrease of 307 The achievements of AEM are deeply rooted in the employees compared to the prior year.",
+    "id": 2116,
+    "label": [
+      {
+        "start": 122,
+        "end": 151,
+        "text": "the total number of employees",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 163,
+        "end": 168,
+        "text": "2,576",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-11-06T05:24:52.681208Z",
+    "updated_at": "2024-11-06T05:24:52.681208Z",
+    "lead_time": 20.961
+  },
+  {
+    "text": "The WSH Nonetheless, in FY2023, there were two recordable Group convenes monthly to discuss OH&S matters such work-related injury (resulting in a rate of 1.7 recordable as employee participation and communication.",
+    "id": 2135,
+    "label": [
+      {
+        "start": 110,
+        "end": 129,
+        "text": "work-related injury",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 154,
+        "end": 157,
+        "text": "1.7",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-11-06T05:26:29.082105Z",
+    "updated_at": "2024-11-06T05:27:21.345555Z",
+    "lead_time": 37.854
+  },
+  {
+    "text": "injuries per million hours worked), which were minor and not significantly harmful.",
+    "id": 2136,
+    "label": [
+      {
+        "start": 9,
+        "end": 33,
+        "text": "per million hours worked",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-11-06T05:27:10.153391Z",
+    "updated_at": "2024-11-06T05:27:35.964933Z",
+    "lead_time": 20.458
+  },
+  {
+    "text": "Total Training Hours by gender Male Female 14,293 (52%) 13,176 (48%) In 2023, we have completed more than 20 Quality Improvement Projects (QIP) across our major sites.",
+    "id": 2166,
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2024-11-06T05:35:37.061285Z",
+    "updated_at": "2024-11-06T12:16:11.487090Z",
+    "lead_time": 122.362
+  },
+  {
+    "text": "sg Sustainability Report 2023 27 SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS Employees Receiving Regular Performance and Career Development Reviews by gender Male Female 1,204 1,419 1,233 1,293 1,464 1,343 FY2021 FY2022 FY2023 We advocate for frequent discussions on performance and career development between employees and their managers.",
+    "id": 2173,
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2024-11-06T05:36:59.308745Z",
+    "updated_at": "2024-11-06T12:16:26.161925Z",
+    "lead_time": 50.391999999999996
+  },
+  {
+    "text": "For FY2023, the proportion of female employees has been sustained at 52% of the workforce, maintaining the same level as in FY2022.",
+    "id": 2190,
+    "label": [
+      {
+        "start": 11,
+        "end": 46,
+        "text": " the proportion of female employees",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "52",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2024-11-06T05:37:55.556757Z",
+    "updated_at": "2024-11-06T12:16:57.412788Z",
+    "lead_time": 32.622
+  },
+  {
+    "text": "ssgg Sustainability Report 2023 2299 SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS Diversity and Equal Opportunities FY2021 FY2022 FY2023 Diversity within AEM's 1 (14%) 1 (14%) 1 (14%) Board of Directors Male 6 (86%) 6 (86%) 6 (86%) Female Diversity of AEM's 8 (13%) 14 (19%) 14 (19%) Management Male 55 (87%) 60 (81%) 60 (81%) Female Diversity of AEM's Professional 222 (32%) 349 (36%) 272 (32%) Male 473 (68%) 629 (64%) 591 (68%) Female Diversity of AEM's Operations & Support 669 (38%) 731 (40%) 578 (35%) 1,070 (62%) 1,100 (60%) 1,061 (65%) Male Female 30 Sustainability Report 2023 www.",
+    "id": 2197,
+    "label": [
+      {
+        "start": 187,
+        "end": 210,
+        "text": "Board of Directors Male",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 230,
+        "end": 232,
+        "text": "86",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2024-11-06T05:52:03.719766Z",
+    "updated_at": "2024-11-06T12:17:48.646996Z",
+    "lead_time": 885.409
+  },
+  {
+    "text": "sg AEM Holdings Ltd. Diversity and Equal Opportunities FY2021 FY2022 FY2023 Diversity within AEM's Board of Directors 7 (100%) 7 (100%) 7 (100%) Under 30 30-50 Over 50 1 (1%) 1 (1%) Diversity of AEM's Management 23 (37%) 32 (44%) 36 (49%) Under 30 40 (63%) 41 (55%) 37 (50%) 30-50 Over 50 Diversity of AEM's Professional 145 (21%) 181 (26%) 178 (18%) 255 (26%) 163 (19%) 241 (28%) Under 30 369 (53%) 545 (56%) 459 (53%) 30-50 Over 50 Diversity of AEM's 47 (3%) 65 (3%) 82 (5%) Operations & Support 456 (26%) 545 (30%) 560 (34%) Under 30 1,236 (71%) 1,221 (67%) 997 (61%) 30-50 Over 50 www.",
+    "id": 2199,
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2024-11-06T06:11:05.635425Z",
+    "updated_at": "2024-11-06T12:18:35.267626Z",
+    "lead_time": 495.7610000000001
+  },
+  {
+    "text": "Management Hired from the Local Community By Region FY2021 FY2022 FY2023 Singapore 6 (100%) 5 (83%) 5 (100%) Malaysia (Penang) 1 (100%) 1 (100%) 1 (100%) China 1 (100%) 1 (100%) 0 (0%) Vietnam 2 (100%) 1 (50%) 0 (0%) Indonesia (Batam) 1 (100%) 0 (0%) 0 (0%) North and Central America 2 (100%) 2 (100%) 2 (100%) (the US and Costa Rica) Finland 1 (100%) 1 (100%) 1 (100%) France 1 (100%) 1 (100%) 1 (100%) Republic of Korea N.A. 2 (100%) 2 (100%) *N.A. as the subsidiaries in these countries have not been acquired or incorporated Material Topic FY2023 Performance Perpetual Targets Zero significant instances of non- Continue to adhere to minimum wage laws in compliance with all applicable countries we operate in labour laws Market Presence Maintain significant majority of senior management and Contribution hired from local communities 3322 Sustainability Report 2023 wwwwww..",
+    "id": 2209,
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2024-11-06T06:15:18.169239Z",
+    "updated_at": "2024-11-06T12:18:47.175073Z",
+    "lead_time": 281.4
+  },
+  {
+    "text": "sg Sustainability Report 2023 37 APPENDIX - PEOPLE INDICATORS Social Performance : Employees Total Number of Employees (GRI 2-7) FY2021 FY2022 FY2023 Total Number of Employees 3000 By Employee Category 2,883 2500 2,576 Operations & Support 1,739 (70%) 1,831 (64%) 1,639 (64%) 2,497 Professional 695 (28%) 978 (34%) 863 (33%) 2000 Management 63 (2%) 74 (2%) 74 (3%) 1500 By Gender 1000 Male 1,204 (48%) 1,419 (49%) 1,233 (48%) Female 1,293 (52%) 1,464 (51%) 1,343 (52%) 500 By Age Group 0 Under 30 1,417 (57%) 1,477 (51%) 1,241 (48%) FY2021 FY2022 FY2023 30-50 850 (34%) 1,130 (39%) 1,056 (41%) Over 50 230 (9%) 276 (10%) 279 (11%) Employee New Hires Total 2,497 2,883 2,576 600 592 (21%) 500 Social Performance : Employment 434 400 (GRI 401-1) FY2021 FY2022 FY2023 398 (17%) (16%) Employee New Hires 300 By Gender 200 Male 263 (66%) 367 (62%) 235 (54%) 100 Female 135 (34%) 225 (38%) 199 (46%) By Age Group 0 FY2021 FY2022 FY2023 Under 30 190 (48%) 361 (61%) 265 (61%) 30-50 177 (44%) 188 (32%) 141 (33%) Employee Turnover Over 50 31 (8%) 43 (7%) 28 (6%) Total 398 (16%) 592 (21%) 434 (17%) 800 Employee Turnover 700 721 By Gender (28%) 600 Male 194 (57%) 307 (62%) 376 (52%) 500 Female 146 (43%) 185 (38%) 345 (48%) 492 400 (17%) By Age Group 300 340 Under 30 181 (53%) 230 (47%) 465 (64%) (14%) 200 30-50 130 (38%) 212 (43%) 193 (27%) Over 50 29 (9%) 50 (10%) 63 (9%) 100 Total 340 (14%) 492 (17%) 721 (28%) 0 FY2021 FY2022 FY2023 38 Sustainability Report 2023 www.",
+    "id": 2277,
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2024-11-06T06:25:53.108256Z",
+    "updated_at": "2024-11-06T12:19:00.301463Z",
+    "lead_time": 1082.614
+  },
+  {
+    "text": "sg AEM Holdings Ltd. Social Performance : Occupational Health and Safety (GRI 403-9, 403-10) FY2021 FY2022 FY2023 Work-related injuries for all employees and workers Number of fatalities 0 0 0 Number of high-consequence 0 0 0 work-related injuries Number of recordable 0 4 2 work-related injuries Work-related ill health for all emloyees and workers Number of fatalities 0 0 0 Number of cases of recordable 0 0 0 work-related ill health Social Performance : Diversity and Equal Opportunities (GRI 405-1) FY2021 FY2022 FY2023 Diversity within AEM's Board of Directors By Gender Male 6 (86%) 6 (86%) 6 (86%) Female 1 (14%) 1 (14%) 1 (14%) By Age Group Under 30 0 (0%) 0 (0%) 0 (0%) 30-50 0 (0%) 0 (0%) 0 (0%) Over 50 7 (100%) 7 (100%) 7 (100%) Diversity within AEM's Management By Gender Male 55 (87%) 60 (81%) 60 (81%) Female 8 (13%) 14 (19%) 14 (19%) By Age Group Under 30 0 (0%) 1 (1%) 1 (1%) 30-50 23 (37%) 32 (44%) 36 (49%) Over 50 40 (63%) 41 (55%) 37 (50%) www.",
+    "id": 2279,
+    "label": [
+      {
+        "start": 113,
+        "end": 165,
+        "text": " Work-related injuries for all employees and workers",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 188,
+        "end": 190,
+        "text": " 0",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 193,
+        "end": 220,
+        "text": "Number of high-consequence ",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 224,
+        "end": 226,
+        "text": "0 ",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 226,
+        "end": 268,
+        "text": "work-related injuries Number of recordable",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 273,
+        "end": 274,
+        "text": "2",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 350,
+        "end": 370,
+        "text": "Number of fatalities",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 375,
+        "end": 377,
+        "text": "0 ",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 377,
+        "end": 406,
+        "text": "Number of cases of recordable",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 411,
+        "end": 412,
+        "text": "0",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2024-11-06T06:29:19.269973Z",
+    "updated_at": "2024-11-06T11:56:26.515684Z",
+    "lead_time": 265.028
+  },
+  {
+    "text": "sg Sustainability Report 2023 39 APPENDIX - PEOPLE INDICATORS Social Performance : Diversity and Equal Opportunities (GRI 405-1) FY2021 FY2022 FY2023 Diversity within AEM's Professional By Gender Male 473 (68%) 629 (64%) 591 (68%) Female 222 (32%) 349 (36%) 272 (32%) By Age Group Under 30 181 (26%) 255 (26%) 241 (28%) 30-50 369 (53%) 545 (56%) 459 (53%) Over 50 145 (21%) 178 (18%) 163 (19%) Diversity within AEM's Operations & Support By Gender Male 669 (38%) 731 (40%) 578 (35%) Female 1,070 (62%) 1,100 (60%) 1,061 (65%) By Age Group Under 30 1,236 (71%) 1,221 (67%) 997 (61%) 30-50 456 (26%) 545 (30%) 560 (34%) Over 50 47 (3%) 65 (3%) 82 (5%) Social Performance : Market Presence and Contribution (GRI 202-2) FY2021 FY2022 FY2023 Number and Proportion of Senior Management Hired from the Local Community By Gender Singapore 6 (100%) 5 (83%) 5 (100%) Malaysia (Penang) 1 (100%) 1 (100%) 1 (100%) China 1 (100%) 1 (100%) 0 (0%) Vietnam 2 (100%) 1(50%) 0 (0%) Indonesia (Batam) 1 (100%) 0 (0%) 0 (0%) North and Central America 2 (100%) 2 (100%) 2 (100%) (U.S.A. and Costa Rica) Finland 1 (100%) 1 (100%) 1 (100%) France 1 (100%) 1 (100%) 1 (100%) Republic of Korea N.A. 2 (100%) 2 (100%) *N.A. as the subsidiaries in these countries have not been acquired or incorporated 40 Sustainability Report 2023 www.",
+    "id": 2281,
+    "label": [
+      {
+        "start": 748,
+        "end": 810,
+        "text": "Proportion of Senior Management Hired from the Local Community",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 834,
+        "end": 837,
+        "text": "100",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2024-11-06T06:34:46.539623Z",
+    "updated_at": "2024-11-06T12:21:19.182544Z",
+    "lead_time": 453.466
+  }
+]
