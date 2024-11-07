@@ -1,0 +1,293 @@
+[
+
+    {
+        "metric": "anti-corruption policy",
+        "value": "six",
+        "unit": null
+    },
+    {
+        "metric": "materiality assessment",
+        "value": "three",
+        "unit": "years"
+    },
+    {
+        "metric": "United Nations Sustainable Development Goals",
+        "value": "17",
+        "unit": null
+    },
+    {
+        "metric": "age range",
+        "value": " 50.",
+        "unit": "years"
+    },
+    {
+        "metric": "women",
+        "value": " 67% ",
+        "unit": null
+    },
+    {
+        "metric": "workforce",
+        "value": "65%",
+        "unit": null
+    },
+    {
+        "metric": "middle management",
+        "value": "45%",
+        "unit": null
+    },
+    {
+        "metric": "women s representation",
+        "value": "40.6%.",
+        "unit": null
+    },
+    {
+        "metric": " parental leave",
+        "value": "1",
+        "unit": " year."
+    },
+    {
+        "metric": "Retention rate",
+        "value": "98%",
+        "unit": null
+    },
+    {
+        "metric": "full-time employees",
+        "value": "1,625",
+        "unit": null
+    },
+    {
+        "metric": "The hours of training for male and female employees ",
+        "value": "2.4",
+        "unit": "hours"
+    },
+    {
+        "metric": "hours attended training",
+        "value": "100%",
+        "unit": null
+    },
+    {
+        "metric": " total hiring rate ",
+        "value": "40%",
+        "unit": null
+    },
+    {
+        "metric": "Women accounted",
+        "value": "67%",
+        "unit": null
+    },
+    {
+        "metric": "age group",
+        "value": "5%",
+        "unit": "years"
+    },
+    {
+        "metric": "TURNOVER",
+        "value": "16%",
+        "unit": null
+    },
+    {
+        "metric": "turnover percentage by gende",
+        "value": "65%",
+        "unit": null
+    },
+    {
+        "metric": "turnover",
+        "value": "11",
+        "unit": "years"
+    },
+    {
+        "metric": "total number of employees leaving the organisation ",
+        "value": "71",
+        "unit": null
+    },
+    {
+        "metric": "attrition rate",
+        "value": "57 ",
+        "unit": null
+    },
+    {
+        "metric": "closer examination",
+        "value": "38",
+        "unit": null
+    },
+    {
+        "metric": "higher turnover",
+        "value": "23 ",
+        "unit": null
+    },
+    {
+        "metric": "Number of Turnover by Age Group",
+        "value": "42",
+        "unit": "years"
+    },
+    {
+        "metric": "manufacturers",
+        "value": "65,715",
+        "unit": "kg "
+    },
+    {
+        "metric": " Paper",
+        "value": "65.0%",
+        "unit": " kg "
+    },
+    {
+        "metric": "plastic",
+        "value": "9,707",
+        "unit": " kg"
+    },
+    {
+        "metric": "metal ",
+        "value": "193",
+        "unit": null
+    },
+    {
+        "metric": "glass ",
+        "value": "0.1%",
+        "unit": "kg"
+    },
+    {
+        "metric": "transport",
+        "value": "9,707",
+        "unit": " kg"
+    },
+    {
+        "metric": "total electricity purchase ",
+        "value": "836,261",
+        "unit": "kWh"
+    },
+    {
+        "metric": " total electricity consumption",
+        "value": "81% ",
+        "unit": null
+    },
+    {
+        "metric": " (Indirect Energy)",
+        "value": "3,010 ",
+        "unit": "Gigajoules (GJ)."
+    },
+    {
+        "metric": "Electricity Consumption By Country",
+        "value": "2,434",
+        "unit": "kWh"
+    },
+    {
+        "metric": "Healthcare",
+        "value": "6-10",
+        "unit": "years"
+    },
+    {
+        "metric": " mid-term",
+        "value": "10 ",
+        "unit": "years"
+    },
+    {
+        "metric": "purchased electricity",
+        "value": "30%",
+        "unit": null
+    },
+    {
+        "metric": "1 emissions",
+        "value": "70% ",
+        "unit": null
+    },
+    {
+        "metric": "carbon dioxide ( CO ) emissions",
+        "value": " 2",
+        "unit": " C "
+    },
+    {
+        "metric": "temperatures",
+        "value": "3.6",
+        "unit": "C"
+    },
+    {
+        "metric": " SSP1-2.6 ",
+        "value": "1.8 ",
+        "unit": "C"
+    },
+    {
+        "metric": "SSP3-7.0 emissions",
+        "value": "2100",
+        "unit": null
+    },
+    {
+        "metric": "Average temperatures",
+        "value": "3.6",
+        "unit": " C"
+    },
+    {
+        "metric": "CO levels",
+        "value": "5-10%",
+        "unit": null
+    },
+    {
+        "metric": "Scope 2 emissions",
+        "value": "398",
+        "unit": " tCO2e"
+    },
+    {
+        "metric": "Mobile combustion",
+        "value": "900.6",
+        "unit": null
+    },
+    {
+        "metric": "Fugitive emissions",
+        "value": "398.0",
+        "unit": null
+    },
+    {
+        "metric": "Total Emissions (tCO2e)",
+        "value": "1,309.3",
+        "unit": "(tCO2e)"
+    },
+    {
+        "metric": "GHG Emissions Intensity (tCO2e)",
+        "value": "7.7",
+        "unit": "(tCO2e)/S$ million revenue"
+    },
+    {
+        "metric": "SCOPE 2 EMISSIONS BY COUNTRY",
+        "value": "7%",
+        "unit": "(tCO2e) (%) "
+    },
+    {
+        "metric": " clinical training ",
+        "value": "34",
+        "unit": "nurses"
+    },
+    {
+        "metric": "GRI 2-2",
+        "value": "28",
+        "unit": null
+    },
+    {
+        "metric": "GENERAL DISCLOSURES",
+        "value": "28",
+        "unit": null
+    },
+    {
+        "metric": "GRI 2-4",
+        "value": "28",
+        "unit": null
+    },
+    {
+        "metric": "GRI 2-5",
+        "value": "28",
+        "unit": null
+    },
+    {
+        "metric": "Employees",
+        "value": "38",
+        "unit": null
+    },
+    {
+        "metric": "Workers who are not employees",
+        "value": "38",
+        "unit": null
+    },
+    {
+        "metric": "highest governance body",
+        "value": "68",
+        "unit": null
+    }
+]
