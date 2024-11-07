@@ -1,0 +1,397 @@
+[
+  {
+    "value": "The SSC is led by the Chief have not sought external assurance on this report but may Executive Officer and Executive Director, and is responsible consider doing so in the future.",
+    "id": 5847,
+    "metrics": [
+      {
+        "start": 44,
+        "end": 62,
+        "text": "external assurance",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "not",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-11-06T18:56:45.247110Z",
+    "updated_at": "2024-11-06T18:56:45.247110Z",
+    "lead_time": 12.429
+  },
+  {
+    "value": "weforum.org\/agenda\/2022\/10\/cop27-how-healthcare-can-reduce-carbon-footprint\/ ANNUAL REPORT 2023 55 SUSTAINABILITY REPORT The breakdown of the energy consumption for OUEH s businesses are as follows: COUNTRY SINGAPORE CHINA OUEH Singapore 12 Clinics Pharmaceutical Business Xi Nan Hospital Corporate Office under O2HG Business Office Surface Area 255.0 592.1 4,000.0 440.0 (sqm) 12-month electricity 7.8 68.6 358.6 13.6 consumption (MWh) 12-month electricity 30.5 115.8 89.6 30.9 intensity (kWh\/m ) In FY2023, OUEH reports an absolute Scope 2 GHG emissions of 244,059.4 kgCO  from its total electricity consumption.",
+    "id": 5977,
+    "metrics": [
+      {
+        "start": 378,
+        "end": 398,
+        "text": "12-month electricity",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 399,
+        "end": 402,
+        "text": "7.8",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 432,
+        "end": 435,
+        "text": "MWh",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 479,
+        "end": 488,
+        "text": "intensity",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 458,
+        "end": 462,
+        "text": "30.5",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 490,
+        "end": 495,
+        "text": "kWh\/m",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 533,
+        "end": 555,
+        "text": " Scope 2 GHG emissions",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 569,
+        "end": 573,
+        "text": "kgCO",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 559,
+        "end": 568,
+        "text": "244,059.4",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2024-11-06T18:09:33.238982Z",
+    "updated_at": "2024-11-06T18:09:33.238982Z",
+    "lead_time": 123.341
+  },
+  {
+    "value": "The breakdown of Scope 2 GHG emissions and intensity for OUEH s businesses are as follows: COUNTRY SINGAPORE CHINA OUEH Singapore 12 Clinics Pharmaceutical Business Xi Nan Hospital Corporate Office under O2HG Business Office Surface Area 255.0 592.1 4,000.0 440.0 (sqm) Absolute Scope 2 GHG 3,238.1 28,584.7 204,483.9 7,752.7 Emissions (kgCO ) 12-month Scope 2 12.7 48.3 51.1 17.6 intensity (kgCO \/m ) 56 OUE HEALTHCARE LIMITED Water Water scarcity is a worldwide concern, and water is OUEH s second most consumed natural resource (with energy being first).",
+    "id": 5980,
+    "metrics": [
+      {
+        "start": 270,
+        "end": 290,
+        "text": "Absolute Scope 2 GHG",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 291,
+        "end": 298,
+        "text": "3,238.1",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 337,
+        "end": 341,
+        "text": "kgCO",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 344,
+        "end": 360,
+        "text": "12-month Scope 2",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 361,
+        "end": 365,
+        "text": "12.7",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 392,
+        "end": 400,
+        "text": "kgCO \/m ",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 225,
+        "end": 237,
+        "text": "Surface Area",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 238,
+        "end": 243,
+        "text": "255.0",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 265,
+        "end": 268,
+        "text": "sqm",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2024-11-06T18:12:12.290692Z",
+    "updated_at": "2024-11-06T18:12:12.290692Z",
+    "lead_time": 135.429
+  },
+  {
+    "value": "In FY2023, OUEH s businesses reported a total water withdrawal of 11,866.2 cubic metres ( m ), which translates to a water intensity of 2.2 m  per square metre ( m \/m ).",
+    "id": 5989,
+    "metrics": [
+      {
+        "start": 46,
+        "end": 62,
+        "text": "water withdrawal",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 74,
+        "text": "11,866.2",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 93,
+        "text": "cubic metres ( m )",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 132,
+        "text": "water intensity",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "text": "2.2",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 168,
+        "text": "m per square metre ( m \/m )",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-11-06T18:14:17.668786Z",
+    "updated_at": "2024-11-06T18:14:17.668786Z",
+    "lead_time": 59.346
+  },
+  {
+    "value": "of employees that took Parental Leave 0 3 3 Total No.",
+    "id": 6024,
+    "metrics": [
+      {
+        "start": 3,
+        "end": 39,
+        "text": "employees entitled to Parental Leave",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "3 ",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-11-06T18:39:07.609651Z",
+    "updated_at": "2024-11-06T18:39:07.609651Z",
+    "lead_time": 22.361
+  },
+  {
+    "value": "of employees that returned to work in the reporting period after parental 0 3 3 leave ended that were still employed 12 months after their return to work (100% retention rate) Total number of new employee hires during FY2023, by age group, gender and region Age Group Gender Region Total 51 Total 51 Total 51 42 29 25 22 14 12 9 < 30 30 50 > 50 Male Female Singapore China Years Old Years Old Years Old Rate of new employee hires during FY2023, by age group, gender and region Age Group Gender Region < 30 Years Old 30 -50 Years Old Male Female Singapore China > 50 Years Old 8% 5.1% 12.5% 14.2% 23.9% 16.5% Total Total Total 6.8% 29% 29% 29% 62 OUE HEALTHCARE LIMITED Total number of employee turnover during FY2023, by age group, gender and region Age Group Gender Region Total 49 Total 49 Total 49 33 32 23 20 16 17 6 < 30 30 50 > 50 Male Female Singapore China Years Old Years Old Years Old Rate of employee turnover during FY2023, by age group, gender and region Age Group Gender Region < 30 Years Old 30 -50 Years Old Male Female Singapore China > 50 Years Old 3.4% 9.1% 9.7% 13.1% 18.8% 18.2% 11.4% Total Total Total 27.8% 27.8% 27.8% ANNUAL REPORT 2023 63 SUSTAINABILITY REPORT Training and Development (GRI 3-3, 404) Average hours of training employees have undertaken It is crucial that our employees continuously uphold their during FY2023 by employee category expertise and knowledge so that they can provide the highest quality healthcare services to meet the ever- Employee Category changing needs of local communities.",
+    "id": 6026,
+    "metrics": [
+      {
+        "start": 3,
+        "end": 73,
+        "text": "employees that returned to work in the reporting period after parental",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "text": "3",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2024-11-06T18:39:41.960450Z",
+    "updated_at": "2024-11-06T18:39:41.960450Z",
+    "lead_time": 13.505
+  },
+  {
+    "value": "Male Female 12.5% Our corporate office in Singapore adopts the same Occupational Health and Safety ( OHS ) Management System and Workplace Safety and Health ( WSH ) Policy implemented by OUE Limited.",
+    "id": 6054,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Male",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "12.5",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2024-11-06T18:43:25.180302Z",
+    "updated_at": "2024-11-06T18:43:25.180302Z",
+    "lead_time": 22.221
+  },
+  {
+    "value": "Man-hours worked 361,454 0 In addition, the hospital management conduct regular safety walkabouts to proactively identify and mitigate risks within Number and Rate of Work-related Incidents the hospital.",
+    "id": 6066,
+    "metrics": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "Man-hours worked",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "361,454",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2024-11-06T18:44:31.314616Z",
+    "updated_at": "2024-11-06T18:44:31.314616Z",
+    "lead_time": 17.728
+  },
+  {
+    "value": "In FY2023, we reported zero high-consequence work-related injuries or fatalities, and there were also zero incidents of Zero incidents of There were zero Zero incidents of work-related ill-health.",
+    "id": 6076,
+    "metrics": [
+      {
+        "start": 107,
+        "end": 116,
+        "text": "incidents",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 124,
+        "text": " Zero",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2024-11-06T18:45:19.001609Z",
+    "updated_at": "2024-11-06T18:45:19.001609Z",
+    "lead_time": 16.245
+  }
+]
