@@ -1,0 +1,963 @@
+[
+  {
+    "text": "At Abbott, we re Chairman and CEO Letter 03 Our Approach to a Healthy Environment 51 strengthening the resilience of our company so we About Abbott 04 Energy and Emissions 53 can continue to shape the future of healthcare   Realizing Our Purpose 05 Protecting Water Resources 56 to help more people live better, healthier lives.",
+    "id": 4196,
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2024-11-07T14:17:42.892864Z",
+    "updated_at": "2024-11-07T14:17:42.892864Z",
+    "lead_time": 6.265
+  },
+  {
+    "text": "The   And we ve provided almost $16 million in aid to pandemic forcefully demonstrated the long-standing people impacted by the war in Ukraine.",
+    "id": 4220,
+    "label": [
+      {
+        "start": 33,
+        "end": 43,
+        "text": "16 million",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 62,
+        "text": "aid to pandemic",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": "$",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2024-11-07T14:25:21.254803Z",
+    "updated_at": "2024-11-07T14:25:21.254803Z",
+    "lead_time": 142.222
+  },
+  {
+    "text": "19 consecutive years in 2022 Fast Company s Most Innovative Companies in Sports in 2022 2022 ABBOTT IN NUMBERS 2022 Prix Galien Golden Jubilee Award Abbott s FreeStyle Libre was named the $43.7B 51 160+ best medical technology in the last 50 years total 2022 revenue years of increasing dividends countries where Abbott is present by the Galien Foundation 8.5% 115,000 $2.9B dividend increase in 2022 employees investment in R&D 04 GLOBAL SUSTAINABILITY REPORT 2022 ABOUT ACCESS AND AFFORDABILITY DATA WORKFORCE ENVIRONMENT QUALITY MANAGEMENT SUPPLY CHAIN GOVERNANCE APPENDIX REALIZING OUR PURPOSE OUR IMPACT IN 2022 Our goal is simple: to help people live their fullest lives >2B through better health.",
+    "id": 4236,
+    "label": [
+      {
+        "start": 401,
+        "end": 410,
+        "text": "employees",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 361,
+        "end": 368,
+        "text": "115,000",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 411,
+        "end": 428,
+        "text": "investment in R&D",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 370,
+        "end": 374,
+        "text": "2.9B",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "text": "$",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 375,
+        "end": 400,
+        "text": "dividend increase in 2022",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 356,
+        "end": 360,
+        "text": "8.5%",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 297,
+        "end": 306,
+        "text": "countries",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 198,
+        "end": 202,
+        "text": "160+",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 259,
+        "end": 296,
+        "text": "revenue years of increasing dividends",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 195,
+        "end": 197,
+        "text": "51",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-11-07T14:30:34.114538Z",
+    "updated_at": "2024-11-07T14:30:34.114538Z",
+    "lead_time": 254.521
+  },
+  {
+    "text": "lives improved due to Abbott products and services1 OUR CORE VALUES $30.6M Four core values guide how we support this purpose every day: in products donated $27.2M donated through the Abbott Fund, Abbott s philanthropic foundation Pioneering Caring We see needs first and deliver game-changing We treat the people who depend on us as if 41% solutions.",
+    "id": 4237,
+    "label": [
+      {
+        "start": 164,
+        "end": 195,
+        "text": "donated through the Abbott Fund",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 158,
+        "end": 163,
+        "text": "27.2M",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "text": "$",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-11-07T14:34:30.184557Z",
+    "updated_at": "2024-11-07T14:34:30.184557Z",
+    "lead_time": 235.57
+  },
+  {
+    "text": "5% absolute reduction in Scope 1 and 2 emissions in 2022 (vs.",
+    "id": 4242,
+    "label": [
+      {
+        "start": 12,
+        "end": 48,
+        "text": "reduction in Scope 1 and 2 emissions",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "5",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 2,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-11-07T14:34:59.645901Z",
+    "updated_at": "2024-11-07T14:34:59.645901Z",
+    "lead_time": 23.063
+  },
+  {
+    "text": "Delivered the Future Well Kids program to more than 2,000 students across five countries.",
+    "id": 4276,
+    "label": [
+      {
+        "start": 14,
+        "end": 38,
+        "text": "Future Well Kids program",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "2,000",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "text": "students",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2024-11-07T14:37:46.514116Z",
+    "updated_at": "2024-11-07T14:37:46.514116Z",
+    "lead_time": 18.439
+  },
+  {
+    "text": "To date, we have helped serve approximately 1.2 million patients in Tanzania.",
+    "id": 4295,
+    "label": [
+      {
+        "start": 56,
+        "end": 76,
+        "text": "patients in Tanzania",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "1.2",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2024-11-07T14:39:57.296962Z",
+    "updated_at": "2024-11-07T19:14:49.501148Z",
+    "lead_time": 108.845
+  },
+  {
+    "text": "Trained 350 RMF coaches in nine countries and reached more than 12,300 children.",
+    "id": 4303,
+    "label": [
+      {
+        "start": 12,
+        "end": 23,
+        "text": "RMF coaches",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "350",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "text": "children",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "text": "12,300",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2024-11-07T14:41:02.434068Z",
+    "updated_at": "2024-11-07T14:41:02.434068Z",
+    "lead_time": 53.254000000000005
+  },
+  {
+    "text": "Supported launch of the National Association of Community Health Centers (NACHC) Innovation Incubator, aiming to improve health equity by creating innovative solutions to health and digital literacy challenges.",
+    "id": 4304,
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2024-11-07T14:41:05.128675Z",
+    "updated_at": "2024-11-07T14:41:05.128675Z",
+    "lead_time": 2.211
+  },
+  {
+    "text": "Continued our partnership with the Rwandan Ministry of Health and the Society for Family Health in Rwanda to increase access to primary care in rural areas for over 387,000 individuals.",
+    "id": 4305,
+    "label": [
+      {
+        "start": 128,
+        "end": 155,
+        "text": "primary care in rural areas",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 172,
+        "text": "387,000",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 173,
+        "end": 184,
+        "text": "individuals",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2024-11-07T14:41:44.563878Z",
+    "updated_at": "2024-11-07T14:41:44.563878Z",
+    "lead_time": 38.957
+  },
+  {
+    "text": "Additionally, over 79,000 routine malaria tests were administered with over 22,000 cases resolved.",
+    "id": 4307,
+    "label": [
+      {
+        "start": 26,
+        "end": 47,
+        "text": "routine malaria tests",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "text": "79,000",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2024-11-07T14:42:08.487990Z",
+    "updated_at": "2024-11-07T14:42:08.487990Z",
+    "lead_time": 20.995
+  },
+  {
+    "text": "2030 GOAL PROGRESS AND NOTES Build the diverse, innovative workforce of tomorrow Provide 1 million development and job opportunities for current and   Created over 346,000 development and job opportunities for current and future employees future employees.",
+    "id": 4311,
+    "label": [
+      {
+        "start": 172,
+        "end": 205,
+        "text": "development and job opportunities",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 171,
+        "text": "346,000",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2024-11-07T14:42:31.656650Z",
+    "updated_at": "2024-11-07T14:42:31.656650Z",
+    "lead_time": 15.753
+  },
+  {
+    "text": "2 Create opportunities in Abbott s STEM programs and internships for more than   Created over 47,000 STEM opportunities for young people, 64% for people from 100,000 young people, including 50% from underrepresented groups.",
+    "id": 4313,
+    "label": [
+      {
+        "start": 101,
+        "end": 136,
+        "text": "STEM opportunities for young people",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "47,000",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2024-11-07T14:42:52.445859Z",
+    "updated_at": "2024-11-07T14:42:52.445859Z",
+    "lead_time": 14.523
+  },
+  {
+    "text": "Continue to drive diversity and inclusion strategies that create a meaningful   We continued to work toward building a more inclusive culture, achieving: employee experience and advance Abbott s culture to:   41% of global management positions filled by women2   Achieve gender balance across our global management team with at least   45% female representation in STEM roles2 45% female representation   35% of leadership roles in the U.S. held by people from underrepresented groups2   Achieve gender balance in STEM roles with at least 45% female representation   Approximately 96% of our people leaders have participated in the Leading With Impact   Ensure one-third of our leadership roles are held by people from underrepresented training program, which helps develop stronger managers who cultivate more inclusive teams.",
+    "id": 4318,
+    "label": [
+      {
+        "start": 216,
+        "end": 259,
+        "text": "global management positions filled by women",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 209,
+        "end": 211,
+        "text": "41",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 496,
+        "end": 524,
+        "text": "gender balance in STEM roles",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 539,
+        "end": 541,
+        "text": "45",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 128,
+    "created_at": "2024-11-07T14:43:57.055292Z",
+    "updated_at": "2024-11-07T14:43:57.055292Z",
+    "lead_time": 57.543
+  },
+  {
+    "text": "30,000 euros (approximately $32,702) in employer contributions have been paid to 20 employee participants since program inception in 2020.",
+    "id": 4336,
+    "label": [
+      {
+        "start": 40,
+        "end": 62,
+        "text": "employer contributions",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "text": "30,000",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 148,
+    "created_at": "2024-11-07T14:45:01.293440Z",
+    "updated_at": "2024-11-07T14:45:01.293440Z",
+    "lead_time": 17.531000000000002
+  },
+  {
+    "text": "74 suppliers engaged for sustainability risk through audits in 2022.",
+    "id": 4350,
+    "label": [
+      {
+        "start": 3,
+        "end": 59,
+        "text": "suppliers engaged for sustainability risk through audits",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "74",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 162,
+    "created_at": "2024-11-07T19:16:59.127942Z",
+    "updated_at": "2024-11-07T19:16:59.127942Z",
+    "lead_time": 39.83
+  },
+  {
+    "text": "Deployed $2.4 million of the $37.5 million pledged in growth capital and small business loans to diverse small businesses through our collaboration with Local Initiatives Support Corporation (LISC) since March 2022.",
+    "id": 4354,
+    "label": [
+      {
+        "start": 54,
+        "end": 93,
+        "text": "growth capital and small business loans",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 21,
+        "text": "2.4 million",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "text": "$",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 166,
+    "created_at": "2024-11-07T19:19:05.770947Z",
+    "updated_at": "2024-11-07T19:19:05.770947Z",
+    "lead_time": 82.731
+  },
+  {
+    "text": "** Implement accredited water stewardship management practices in more than   Abbott s accredited water stewardship management practices were finalized in 2022, 75% of all manufacturing sites operating in water-stressed areas.",
+    "id": 4366,
+    "label": [
+      {
+        "start": 98,
+        "end": 136,
+        "text": "water stewardship management practices",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 161,
+        "end": 164,
+        "text": "75%",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 205,
+        "end": 225,
+        "text": "water-stressed areas",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 178,
+    "created_at": "2024-11-07T19:20:54.557523Z",
+    "updated_at": "2024-11-07T19:20:54.557523Z",
+    "lead_time": 56.456
+  },
+  {
+    "text": "13 GLOBAL SUSTAINABILITY REPORT 2022 ABOUT ACCESS AND AFFORDABILITY DATA WORKFORCE ENVIRONMENT QUALITY MANAGEMENT SUPPLY CHAIN GOVERNANCE APPENDIX SUSTAINABILITY IN EVERYTHING WE DO (CONTINUED) 2030 GOAL PROGRESS AND NOTES Protect a healthy environment (continued) Work with 50 key suppliers in high water-stressed areas to reduce water quality   29 suppliers operating in water-intense industries and sourcing to Abbott from and quantity risks to Abbott and the community.",
+    "id": 4372,
+    "label": [
+      {
+        "start": 350,
+        "end": 397,
+        "text": "suppliers operating in water-intense industries",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 347,
+        "end": 349,
+        "text": "29",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 184,
+    "created_at": "2024-11-07T19:21:54.552595Z",
+    "updated_at": "2024-11-07T19:21:54.552595Z",
+    "lead_time": 52.211
+  },
+  {
+    "text": "This includes:   Employ circularity principles through smart design and material selection   1.4 million pounds of packaging transitioned to more circular options annually   Eliminate and reduce materials   28.2 million pounds of material eliminated or reduced annually   Improve the energy efficiency of Abbott s products   Optimize packaging, pallet, and truckload efficiency Reduce waste impacts using a circular economy approach, to achieve and maintain   90% waste diversion rate.",
+    "id": 4377,
+    "label": [
+      {
+        "start": 464,
+        "end": 484,
+        "text": "waste diversion rate",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 460,
+        "end": 462,
+        "text": "90",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 189,
+    "created_at": "2024-11-07T19:22:49.962971Z",
+    "updated_at": "2024-11-07T19:22:49.963959Z",
+    "lead_time": 26.242
+  },
+  {
+    "text": "In 2022, we awarded over 50 scholarships.",
+    "id": 4401,
+    "label": [
+      {
+        "start": 28,
+        "end": 40,
+        "text": "scholarships",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "50",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 213,
+    "created_at": "2024-11-07T19:24:06.310217Z",
+    "updated_at": "2024-11-07T19:24:06.310217Z",
+    "lead_time": 14.335
+  },
+  {
+    "text": "The team achieved this by:   Consolidating two information sheets into one   Eliminating a high-impact polystyrene tray   Resizing the paperboard carton and corrugated case With more than 497 million BinaxNOW tests manufactured in 2022, these changes eliminated approximately 26.7 million pounds of packaging,* including more than 9.8 million pounds of plastic.",
+    "id": 4430,
+    "label": [
+      {
+        "start": 200,
+        "end": 214,
+        "text": "BinaxNOW tests",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 188,
+        "end": 191,
+        "text": "497",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 199,
+        "text": "million",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 243,
+    "created_at": "2024-11-07T19:25:51.981913Z",
+    "updated_at": "2024-11-07T19:25:51.981913Z",
+    "lead_time": 45.053
+  },
+  {
+    "text": "Abbott and the Abbott Fund are implementing We have also donated almost $11 million in targeted disaster resilience strategies to help medicines, nutritional products, cardiac devices, prevent and mitigate the impact of hurricanes on 2022 SOCIAL INVESTING and diabetes care products through relief partners communities in New Orleans, Dallas, Orlando, and Cash contributions $36.6M and the Ukrainian Ministry of Health.",
+    "id": 4472,
+    "label": [
+      {
+        "start": 87,
+        "end": 126,
+        "text": "targeted disaster resilience strategies",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "text": "11 million",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "text": "$",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 285,
+    "created_at": "2024-11-07T19:29:58.778082Z",
+    "updated_at": "2024-11-07T19:29:58.778082Z",
+    "lead_time": 84.755
+  },
+  {
+    "text": "To make was guided by pulmonary pressure monitoring     Alinity Mpox PCR test14 HIV testing more accessible, Abbott launched including a 34% reduction for hospitalizations, Panbio HIV SELF TEST, an over-the-counter, emergency visits, and death.",
+    "id": 4537,
+    "label": [
+      {
+        "start": 141,
+        "end": 171,
+        "text": "reduction for hospitalizations",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 139,
+        "text": "34",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 350,
+    "created_at": "2024-11-07T19:32:37.156545Z",
+    "updated_at": "2024-11-07T19:32:37.156545Z",
+    "lead_time": 32.125
+  },
+  {
+    "text": "Fast Company s Best Workplaces Learning and Progression Opportunities for Innovators Awards: In 2022, Abbott hired 21,820 new external Standout company for early-career workers employees.",
+    "id": 4751,
+    "label": [
+      {
+        "start": 156,
+        "end": 176,
+        "text": "early-career workers",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 121,
+        "text": "21,820",
+        "labels": [
+          "value"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 564,
+    "created_at": "2024-11-07T19:39:10.694237Z",
+    "updated_at": "2024-11-07T19:39:10.694237Z",
+    "lead_time": 61.342
+  },
+  {
+    "text": "annual energy savings* and approximately 17 projects under LEED standards, including Compliance with our EHS Policy is also 7,000 metric tons of CO2e emissions reduced* 1 platinum, 4 gold, and 6 silver certifications.",
+    "id": 4913,
+    "label": [
+      {
+        "start": 145,
+        "end": 167,
+        "text": "CO2e emissions reduced",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 129,
+        "text": "7,000",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 141,
+        "text": "metric tons",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 728,
+    "created_at": "2024-11-07T19:49:08.439926Z",
+    "updated_at": "2024-11-07T19:49:08.439926Z",
+    "lead_time": 62.434
+  },
+  {
+    "text": "Abbott develops multi-year integration plans to 6,800 MEGALITERS align acquisitions with our EHS management of water saved* practices, standards, and policy.",
+    "id": 4915,
+    "label": [
+      {
+        "start": 111,
+        "end": 122,
+        "text": "water saved",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "6,800",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 64,
+        "text": "MEGALITERS",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 730,
+    "created_at": "2024-11-07T19:50:14.114247Z",
+    "updated_at": "2024-11-07T19:50:14.114247Z",
+    "lead_time": 28.562
+  },
+  {
+    "text": "At a medical devices facility in the U.S., we implemented renewables.",
+    "id": 4957,
+    "annotator": 1,
+    "annotation_id": 665,
+    "created_at": "2024-11-07T19:45:42.931187Z",
+    "updated_at": "2024-11-07T19:45:42.931187Z",
+    "lead_time": 12.234
+  },
+  {
+    "text": "Reduce: Continuously work to improve 0.3% <0.1% water-use efficiency in our operations.",
+    "id": 4974,
+    "label": [
+      {
+        "start": 48,
+        "end": 68,
+        "text": "water-use efficiency",
+        "labels": [
+          "metric"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "0.3",
+        "labels": [
+          "value"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "text": "%",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 664,
+    "created_at": "2024-11-07T19:44:46.151972Z",
+    "updated_at": "2024-11-07T19:44:46.151972Z",
+    "lead_time": 26.804
+  }
+]
