@@ -1,0 +1,38 @@
+ESG categories,Issue,Metric,Frequency,Percentage (%)
+Environment,Biodiversity & Land Use,Protected or restored habitats,18,1.34128
+Environment,Carbon Emissions,Absolute emissions,62,4.61997
+Environment,Carbon Emissions,Emission intensities,43,3.20417
+Environment,Energy,Total energy consumption,60,4.47094
+Environment,Energy,Energy consumption intensity,40,2.98063
+Environment,Waste,Waste generated,44,3.27869
+Environment,Financing Environmental Impact,Green financing projects,43,3.20417
+Environment,Opportunities in Green Building,Green certified buildings,78,5.81222
+Environment,Water Stress,water intensity,20,1.49031
+Environment,Water Stress,water consumption,42,3.12966
+Governance,Board,Women in the management team,51,3.8003
+Governance,Board,Women on the board,1,0.07452
+Governance,Board,Board independence,10,0.74516
+Governance,Business Ethics,List of relevant certifications,81,6.03577
+Governance,Business Ethics,Assurance of sustainability report,81,6.03577
+Governance,Business Ethics,Anti-corruption disclosures,31,2.30999
+Governance,Business Ethics,Anti-corruption training,11,0.81967
+Governance,Accounting and Audit,External audit conducted,10,0.74516
+Social,Access to Health Care,Percentage of employees covered by health insurance,22,1.63934
+Social,Access to Health Care,Availability of Healthcare Resources,26,1.93741
+Social,Access to Health Care,Community Health Program,26,1.93741
+Social,Human Capital Development,Average training hours per employee,46,3.42772
+Social,Labor Management,Current employees by gender,69,5.14158
+Social,Labor Management,New hires by gender/by age,45,3.3532
+Social,Labor Management,Turnover by gender/by age,57,4.24739
+Social,Labor Management,Total turnover,57,4.24739
+Social,Labor Management,Current employees by age groups,59,4.39642
+Social,Labor Management,Total number of employees,10,0.74516
+Social,Labor Management,Employee satisfaction rate,25,1.86289
+Social,Customer Financial Protection,Consumer rights protection,22,1.63934
+Social,Opportunities in Nutrition & Health,Community nutrition programs,3,0.22355
+Social,Community Relations,Philanthropic initiatives,7,0.52161
+Social,Community Relations,Company donated,4,0.29806
+Social,Controversial Sourcing,Controversial Sourcing,7,0.52161
+Social,Occupational Health & Safety,Fatalities,46,3.42772
+Social,Occupational Health & Safety,High-consequence injuries,30,2.23547
+Social,Occupational Health & Safety,Work-related injuries,55,4.09836
