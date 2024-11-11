@@ -1,0 +1,50 @@
+﻿raw_metric,value,unit,key_word,standard_metric,similarity
+direct ownership,33.1,%,Access Control,Customer Data Protection Measures,0.9014668464660645
+stake in its manager,40,%,Board independence,Board independence,0.9010635614395142
+total headcount,148,employees,Total Workforce Count,Total number of employees,0.9179794788360596
+annual gross revenue,119796000,S$,Total water consumption,Total water consumption,0.9071843028068542
+annual gross profit,101609000,S$,Turnover Rate,Total turnover,0.9203444719314575
+Total number of employees by employee contract and gender,65,Male,Total Workforce Count,Total number of employees,0.8827276229858398
+Total number of employees by employee contract and gender,83,Female,Total Workforce Count,Total number of employees,0.8827276229858398
+Total number of employees by employee contract and gender,148,Total,Total Workforce Count,Total number of employees,0.8827276229858398
+Total number of employees by employee contract and gender - Singapore,25,Total,Total Workforce Count,Total number of employees,0.8483616709709167
+Total number of employees by employee contract and gender - China,120,Total,Training Hours by Gender,Average training hours per employee by gender,0.8410485982894897
+Total number of employees by employee contract and gender - Japan,3,Total,Training Hours by Gender,Average training hours per employee by gender,0.8635263442993164
+Total number of employees by employee type and gender - Male,65,Total,Total Workforce Count,Total number of employees,0.8822935223579407
+Total number of employees by employee type and gender - Female,83,Total,Total Workforce Count,Total number of employees,0.8800537586212158
+Total number of employees by employee type and region - Singapore,25,Total,Total Workforce Count,Total number of employees,0.8709081411361694
+Total number of employees by employee type and region - China,120,Total,Total Workforce Count,Total number of employees,0.8679379820823669
+Total number of employees by employee type and region - Japan,3,Total,Training Hours by Gender,Average training hours per employee by gender,0.878741979598999
+training per employee,45.9,hours,Employee Training Hours,Average training hours per employee,0.911379337310791
+Average hours of training employees have undertaken during FY2022 by gender and employee category,45.9,hours,Training Hours by Gender,Average training hours per employee by gender,0.8808876276016235
+Average hours of training employees have undertaken during FY2022 by gender and employee category,45.8,hours,Training Hours by Gender,Average training hours per employee by gender,0.8808876276016235
+Average hours of training employees have undertaken during FY2022 by gender and employee category,24.1,hours,Training Hours by Gender,Average training hours per employee by gender,0.8808876276016235
+Average hours of training employees have undertaken during FY2022 by gender and employee category,38.8,hours,Training Hours by Gender,Average training hours per employee by gender,0.8808876276016235
+Average hours of training employees have undertaken during FY2022 by gender and employee category,50.1,hours,Training Hours by Gender,Average training hours per employee by gender,0.8808876276016235
+"Rate of employee turnover during FY2022 by age group, gender and region",4,%,Employee Turnover by Age Group,New hires and turnover by age groups,0.894702672958374
+"Rate of employee turnover during FY2022 by age group, gender and region",14,%,Employee Turnover by Age Group,New hires and turnover by age groups,0.894702672958374
+"Rate of employee turnover during FY2022 by age group, gender and region",5,%,Employee Turnover by Age Group,New hires and turnover by age groups,0.894702672958374
+"Rate of employee turnover during FY2022 by age group, gender and region",6,%,Employee Turnover by Age Group,New hires and turnover by age groups,0.894702672958374
+"Rate of employee turnover during FY2022 by age group, gender and region",5,%,Employee Turnover by Age Group,New hires and turnover by age groups,0.894702672958374
+Total,19,%,LEED,Green certified buildings,0.93800288438797
+Total,19,%,LEED,Green certified buildings,0.93800288438797
+Total,19,%,LEED,Green certified buildings,0.93800288438797
+Conduct,100,%,Compliance,Compliance Audit,0.910742998123169
+We conducted,100,%,water discharged,water discharged,0.9367697238922119
+Number of injuries,4,,Total Workforce Count,Total number of employees,0.8992944955825806
+Number of injuries,0,,Total Workforce Count,Total number of employees,0.8992944955825806
+Number of injuries,0,,Total Workforce Count,Total number of employees,0.8992944955825806
+community service events,2,,Community Health Initiatives,Community Health Program Count,0.9319181442260742
+Number of illness,5,,Energy consumption intensity,Energy consumption intensity,0.8750227689743042
+Illness rate,0,per million,Turnover Rate,Total turnover,0.9194635152816772
+Man-hours worked,301880,,water discharged,water discharged,0.8796660900115967
+404-1 Average hours of training per year per employee,Employee Engagement > Training and Development,page 61,Total Workforce Count,Total number of employees,0.8281673192977905
+404-2 Programs for upgrading employee skills and transition assistance programs,Employee Engagement > Training and Development,pages 60-61,Health and Wellness Programs,Community nutrition programs,0.8451277017593384
+404-3 Percentage of employees receiving regular performance and career development reviews,Employee Engagement > Training and Development,page 61,Gender-based Turnover Rate,Current employees by gender,0.7550979852676392
+401-1 New employee hires and employee turnover,Employee Engagement > Fair Employment Practices,page 59-60,Country-by-Country Tax Reporting,Tax payments disclosed,0.8380329012870789
+401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees,Employee Engagement > Fair Employment Practices,page 56,Healthcare Coverage for Employees,Availability of Healthcare Resources,0.829334020614624
+405-1 Diversity of governance bodies and employees,"Diversity, Inclusion and Non-discrimination",page 61,GRI 418-1,Number of Data Breaches,0.8260616660118103
+406-1 Incidents of discrimination and corrective actions taken,"Diversity, Inclusion and Non-discrimination",page 62,Total Tax Contributions,Tax payments disclosed,0.743829607963562
+"413-1 Operations with local community engagement, impact assessments, and development programs",Local Communities,page 63,GRI 404-1,Average training hours per employee,0.8581804633140564
+416-2 Incidents of non-compliance concerning the health and safety impacts of products and services,Health & Safety,page 63,Customer Privacy and Data Protection,Consumer rights protection,0.8234811425209045
+418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data,Customer Privacy,page 65,Customer Privacy and Data Protection,Consumer rights protection,0.8367405533790588
