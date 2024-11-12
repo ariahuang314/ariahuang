@@ -15,7 +15,7 @@ For a comprehensive overview, please visit the [team wiki](https://github.com/ar
 ### Trend Analysis
 The trend analysis module examines and compares ESG metrics across specific industries. The included code generates industry-average ESG scores and tracks changes in trends to support long-term planning and strategic adjustments for companies. The relevant code can be found at: TBC
 
-For a comprehensive overview, please visit the [team wiki](https://github.com/ariahuang314/groupproject/wiki/ESG-trends).
+For a comprehensive overview, please visit the [wiki page：ESG trends](https://github.com/ariahuang314/groupproject/wiki/ESG-trends).
 
 ### Frontend Design and Visualization
 The frontend module includes data visualization and a user interface for interaction. We use the Flask framework to present the scoring model and analysis results on the frontend, allowing users to view company ESG performance and industry trends. The relevant frontend code is located at: TBC
