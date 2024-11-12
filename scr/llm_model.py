@@ -133,7 +133,8 @@ def process_esg_data(txt_file: str, results_file: str, api_key: str, model: str 
     llm = create_open_llm(model=model)
 
     prompt = """
-    (Only provide JSON output, with no extra text!) Extract any ESG-related 'metric' (indicator), 'value', 'unit', and 'confidence' (a numeric confidence score represented as a decimal with high precision, such as 0.987654, that reflects how certain the model is about the accuracy of this extraction) from the semi-structured data below.
+    (Only provide JSON output, with no extra text!) Extract any ESG-related 'metric' (indicator), 'value', 'unit', and 'confidence' (a decimal confidence score from 0 to 1, 
+    with the actual precision level produced by the model, indicating how certain the model is about the accuracy of this extraction) from the semi-structured data below.
     Include metrics related to Environmental, Social, and Governance factors. Here are examples:
 
     - **Environmental**: Total GHG Emissions, Renewable Energy Usage, Water Consumption, Waste Generated, Air Quality, and other related indicators
