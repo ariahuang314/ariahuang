@@ -1,0 +1,703 @@
+Contents About this report ..........................................................
+2 Introduction to Oatly and the stuff all companies are required to say in every report.
+..............................................................
+3 Oatly s value chain   everything starts with farmers .....................
+5 CEO/CSO statement ..........................................................
+7 High (and low) lights ......................................................
+7 Oatly s Sustainability Plan ................................................
+9 Our contribution to the UN Sustainable Development Goals (SDG) ..........
+11 2022 results ..............................................................
+11 Drive a food system shift .................................................
+14 Packaging ...............................................................
+15 Ingredients .............................................................
+16 Future company   planet ...................................................
+19 Energy ..................................................................
+20 Energy intensity ........................................................
+21 Renewable energy ........................................................
+22 Transportation ..........................................................
+23 Water withdrawal ........................................................
+26 Our waste and byproducts ................................................
+27 Future company   people ...................................................
+28 Diversity, equity and inclusion (DEI) ...................................
+29 Health and safety .......................................................
+31 Empower a plant-based revolution ..........................................
+33 Sustainability governance .................................................
+39 Doing business at Oatly .................................................
+40 Risks and risk management ...............................................
+41 Reporting Principles ......................................................
+43 Data boundaries .........................................................
+44 Statement from the auditor ................................................
+45 Appendix ..................................................................
+48 Stakeholders and stakeholder dialogues ..................................
+48 SDG Table ...............................................................
+49 General reporting notes .................................................
+51 PBR conversion note .....................................................
+53 1 About this report This report was conducted by Oatly Group AB, 559081-1989 for the financial year of 2022.
+The purpose of this annual report is to provide both details regarding Oatly s sustainability efforts and a deeper understanding of and reflection on 2022 performance with respect to environmental, social and governance factors.
+This constitutes Oatly Group AB s statutory sustainability report for the financial year 2022 in accordance with the Swedish Annual Accounts Act.
+Our external auditors, EY, have provided an opinion on the statutory sustainability report and conducted a limited review of Oatly s Scope 1 and Scope 2 emissions.
+Please see the auditor s opinion on page 45 and the limited assurance report on page 46.
+note regArding forwArd-looking stAtements This Sustainability Report contains forward-looking statements regarding our future business expectations and objectives and our environmental, social and governance goals, which involve risks and uncertainties.
+Actual results may differ materially from the results anticipated, depending on a variety of important factors, including (without limitation) the risks detailed in Oatly Group AB filings with the US Securities and Exchange Commission.
+In relation to this Sustainability Report, we are (wholly or in part) reliant on public sources of information and information provided by our own suppliers and business partners.
+Also, oAtly CAn t prediCt the future (but we re pretty sure it will be plAnt-bAsed).
+2 introduCtion to oAtly And the stuff All CompAnies Are required to sAy in every report.
+who we Are todAy We are the world s original and largest oat drink company.
+For over 25 years, we have focused on developing expertise around oats: a global power crop with inherent properties suited for sustainability and human health.
+Our commitment to oats has resulted in core technical advancements that have enabled us to unlock the breadth of the dairy portfolio, including milks, ice cream, yogurt, cooking creams, spreads and on-the-go drinks.
+We are seeking to drive the global food system toward more plant-based production and consumption, replacing one dairy product at a time by making it easy for people to eat better without recklessly taxing the planet s resources.
+This focus on sustainability is a mindset that permeates our company and helps us navigate business decisions.
+how we got here Back in the early 1990s, at Lund University in the south of Sweden, scientists explored the mechanisms behind lactose intolerance and its effects on people.
+They set out to find a nutritious and sustainable dairy alternative with a taste that would make people consider switching from traditional dairy.
+They found the solution in the base crop of oats, which are generally globally plentiful and familiar across cuisines, and require low-input resources relative to livestock and contain healthy fibers.
+The scientists refined a process to use natural enzymes to break down fiber-rich oats into liquid food.
+Fast-forward more than 25 years through a lot of hard work and growth, and in May 2021, Oatly Group AB completed our initial public offering (IPO) and began trading on the Nasdaq Global Select Market under the ticker symbol  OTLY.
+Subsequent to the IPO, our largest shareholders continue to be Nativus Company Limited, jointly owned by China Resources and Verlinvest, and Blackstone Funds, with the remaining ownership becoming decentralized toward institutional investors in the market.
+where to find us Visit our headquarters at Gjuteriet,  ngf rjekajen 8, 211 19 Malm , Sweden.
+We also lease regional offices in other locations, including London, Berlin, Helsinki, Amsterdam, Philadelphia, Shanghai, Singapore and Hong Kong.
+3 We lease a product development center in Philadelphia, Pennsylvania, US, and a research and development facility in Lund, Sweden.
+Globally, as of December 31, 2022, we have six Oatly factories in operation and three additional factories planned or under construction.
+Our six Oatly factories are located in Landskrona, Sweden; Vlissingen, Netherlands; Ogden, Utah, US; Millville, New Jersey, US; Singapore; and Ma anshan, China.
+In 2022, 30 percent of our production was through our Oatly-operated end- to-end factories, 43 percent was made through a hybrid model, where an Oatly-operated oatbase factory teams up with a nearby or co-located production partner that finishes and packages our products, and 27 percent was made by outsourcing through different production partners, most of which create finished product from oatbase received from an Oatly factory.
+A small number of production partners are also manufacturing oat base.
+In late 2022, we announced a more asset-light strategy, focusing our approach on Oatly's proprietary oatbase technology and capacity and actively linking with production partners to create a more hybrid production network across select geographies.
+why we exist Traditional food production is one of the biggest drivers of environmental impact; studies indicate that agriculture uses about half of all habitable land on Earth, requires large amounts of resources, is a significant driver of global greenhouse gases (GHGs) and can harm biodiversity.
+1,2 Unhealthy diets are one of the leading causes of poor health globally, and can contribute to non-communicable diseases such as cardiovascular disease, certain cancers and type 2 1 Ritchie, H. and Roser, M. (2020).
+"Environmental Impacts of Food Production.
+Published online at OurWorldInData.org.
+Retrieved from: https://ourworldindata.org/environmental-impacts-of-food.
+2 Intergovernmental Panel on Climate Change (IPCC).
+Mbow, C et al.
+2019.
+Special Report: Climate Change and Land.
+https://www.
+ipcc.
+ch/site/assets/uploads/sites/4/2019/11/08_Chapter-5.
+pdf.
+4 diabetes   as well as undernourishment, micronutrient deficiencies and obesity.
+3 We want to be a positive driving force behind changing this outdated food system.
+Studies indicate that, on average, plant-based drink products consumed in place of cow s milk products result in lower land use, energy use, water use and climate impact.
+4,5 As a company, we look to work with farmers, suppliers, scientists and other partners to develop our products in a way that we believe is beneficial, to both our customers and the planet.
+oAtly s vAlue ChAin   everything stArts with fArmers All our strategic decisions, such as where we make our products and with whom we partner, are underpinned by sustainability and stakeholder considerations.
+But we would not be Oatly without farmers cultivating the oats and other key ingredients we need for our products.
+We also rely on hundreds of other partners   from material suppliers to warehouses to logistics partners to co-manufacturers   throughout our value chain to support us in making Oatly products.
+We have a commercial presence in 20 markets across Europe, the Middle East and Africa (EMEA), North America and Asia.
+Our products are sold through a variety of channels, from independent coffee shops to continent-wide partnerships, from major international food retailers to premium natural grocers and corner stores, as well as through e-commerce channels.
+We are enthusiastic about our proprietary production process, where we convert oats to a liquid oat base, add various ingredients and heat-treat to create our final Oatly products   which are made with both the health of our planet and the people living on it in mind.
+For more information on the Oatly process, please visit our website.
+3 World Health Organization.
+(2021).
+Malnutrition.
+Retrieved from https://www.
+who.
+int/news- room/fact-sheets/detail/malnutrition.
+4 Poore, J. and Nemecek, T. (2018).
+Reducing food s environmental impacts through producers and consumers.
+Science, 360(6392), 987 992 (with additional calculations for the BBC s food calculator provided by J. Poore on oat drink, almond drink and rice drink.
+) https://doi.org/10.1126/science.
+aaq0216.
+5 Carlsson Kanyama, A.; Hedin, B.; and Katzeff, C.  Differences in Environmental Impact between Plant-Based Alternatives to Dairy and Dairy Products: A Systematic Literature Review.
+Sustainability 2021, 13, 12599.
+https://doi.org/10.3390/su132212599.
+5 6 Ceo stAtement  Climate change is still as critical to solve as ever before   the urgency is only growing.
+As a company, growing fast within a turbulent global environment has demanded a lot of work and sacrifice.
+But knowing we're moving forward and making progress with clear ambitions for sustainability gives me a positive outlook and a renewed sense of purpose.
+I am encouraged as I see both our established and newer factories pick up speed to meet the continued demand for our oat- based products and do so in an increasingly local and more efficient way.
+This positive progress is what is required to bring down our climate footprint per produced liter.
+And I m especially enthusiastic to see that we are beginning to both bend the curve toward a per-liter climate footprint reduction and decouple our business growth from emissions growth.
+What s more, as we complete new life cycle assessments that show how the impacts of our specific products compare to average cow s dairy products   and for the first time report an indication of our avoided emissions impact from replacing cow s dairy products in key markets   we begin to unlock a new understanding of the broader impact we can have on society by disrupting traditional sectors.
+For me, that's what this report is about.
+Behind the technical details required to meet global reporting standards lies the compass that helps us navigate this plant-based company in the right direction with continued transparency toward the transformation that is required in order to meet the worlds  biggest challenges, such as climate change.
+It also causes me to recognize the significant work we still need to do to drive down our own sustainability impact by increasing resource efficiency, maximizing capacity, optimizing transportation, and unlocking sustainable farming practices in our supply chain.
+Looking forward, it is important that we build on the progress we have made   for example, to expand our focus on social sustainability, including building a more diverse and inclusive business.
+We must work to ensure human rights are followed in our extended supply chain and investigate how to best address related risks.
+Yes, we still have a lot of work to do at an increasing pace and urgency without losing focus on our own improvement   both as a company and as humans.
+But the promising progress in this report shows how that's what we're here for.
+Toni Petersson high (And low) lights In 2022, we made promising positive progress in many sustainability areas, such as farmer collaboration, climate change, transportation and renewable electricity; and we measured and analyzed more data and metrics than ever before to better capture our full sustainability impact.
+At the same time, our results from 2022 helped us further identify where we have the biggest hurdles to overcome, such as heat energy, ground transportation and sustainable ingredient sourcing.
+7 Our corporate climate footprint decreased from 0.629 kg CO2e/L in 2021 to 0.582 kg CO2e/L, and we continue to strive toward decreasing our footprint to 70 percent below our 2020 baseline of 0.533 kg CO2e/L.
+6 We focused on continuing to bring our three newest factories into operation, celebrating sustainability successes and pinpointing new challenges to solve moving forward.
+We sourced 100 percent renewable electricity for all Oatly factories.
+Sourcing renewable heat energy for our factories remains a challenge, and we continue to work with our production partners on their renewable energy sourcing.
+Oatly s three newest factories in Ogden, Singapore, and Ma anshan made important progress in ramping up production and increasing efficiency, which helped us improve our energy intensity performance slightly compared with 2021.
+But we remained above our 2019 energy intensity baseline, in part due to construction and the start-up of new lines and equipment at our factories in Landskrona and Millville.
+Perhaps our biggest success of the year was in transportation.
+As production in Singapore and Ma anshan increased, we shipped fewer final products via ocean freight to Asia from our factories in Europe, thereby reducing our carbon footprint from transportation compared with 2021 and bringing it to a similar level as in 2020.
+Also in 2022, approximately 21 percent of our products and materials were transported by sustainable ground transportation (defined on page 24), which will continue to grow in importance as we ramp up local production and reduce ocean freight.
+In terms of supply chain,we developed guidance that we call the Future Agriculture Renovation Movement (FARM), which outlines our vision for a more restorative and regenerative future food system and will guide our partnerships with oat suppliers and oat farmers moving forward.
+We continued to tick up the proportion of renewable and recycled packaging we source for our products to 89 percent.
+We also saw an increase in our ingredient emissions in 2022, driven in part by sourcing a higher proportion of our growing oat demand from countries with relatively higher oat GHG emissions, such as Finland.
+Of course, sustainability is about both the planet and people.
+We expanded our diversity, equity and inclusion (DEI) measurement and efforts in 2022, tracking more data and establishing new policies and training resources.
+In 2022, Oatly employed approximately 48 percent women and 52 percent men, while in the executive management team, we had 23 percent women and 77 percent men.
+We see opportunities to improve gender and diversity balance among leadership at Oatly and develop new initiatives to make change.
+6 This baseline has been amended from the one previously reported (see pages 13 & 14 for details).
+8 We continued our efforts to grow the plant-based movement by engaging more people and new partners in efforts to level the policy playing field for plant-based products in our key markets, supporting caf  partners and baristas, lobbying for mandatory climate declarations on products and publishing climate footprints for our products in new markets, including the US (more details about these efforts and accomplishments are included throughout the report).
+oAtly s sustAinAbility plAn Our sustainability ambitions and goals are key to our business strategy and operations.
+This work is led by leaders throughout our company, and managed by our chief sustainability officer, whose role is to work with the board and CEO to develop our sustainability strategy and advise other leaders to integrate that strategy into their business strategies and actions.
+This work is focused around three pillars of action that guide our sustainability endeavors.
+To track our progress toward our 2029 ambitions, we have what we refer to as  to-do list items  for which we have developed qualitative and quantitative metrics.
+These  to-do list items  are represented in tables in our report, with an indicator of how we are progressing toward achieving these important ambitions.
+On track  means the work is underway and we see positive momentum in the right direction.
+Work in progress  (WIP) means we are determining the right approach or roadmap to achieve our goal, which we need in order to assess our progress.
+Finally, a quantitative measure of performance is provided, where available.
+7 7 The To-Do List Tables in subsequent sections represent truncated lists of Oatly s Sustainability Plan  To Do s.  For the full lists, see https://www.
+oatly.com/en-us/oatly-who/sustainability- plan.
+9 8 8 See Ashley s To-Do List to learn more.
+10 our Contribution to the united nAtions sustAinAble development goAls (sdg) Since 2017, Oatly has worked toward eight SDGs that most directly relate to our value chain and business, and for which we believe we have the highest potential for impact.
+We have included an overview in the Appendix of this report outlining the relevant SDG targets and our key impacts and contributions toward them.
+2022 results Ambition: By 2029, we will reduce our climate footprint per liter of   Oatly produced by 70 percent,9 and align that goal with a 1.5C climate pathway.
+As part of our global Sustainability Plan, we have set an intensity-based GHG emissions target to reduce our climate footprint per liter of Oatly produced by 70 percent by 2029 across our full value chain (scope 1-3 GHG   emissions) and align our goal with a 1.5 C climate pathway.
+In 2022, we partnered with EcoAct to assess Oatly s GHG emissions targets, which   determined that our targets are consistent with a near-term 1.5 C science-aligned pathway.
+We continue to explore how emerging and expanding GHG target-setting guidelines and approaches might be relevant for Oatly.
+In 2022, our total corporate GHG emissions were 301,537 T CO2e.
+10 Our 2022 per-liter corporate climate footprint represents the share of GHG emissions per liter by source, which decreased from 0.629 kg CO2e/L in 2021 to 0.582 kg CO2e/L   and we continue to strive toward decreasing our per-liter footprint to 70 percent below our 2020 baseline of 0.533 kg CO2e/L.
+The two main drivers of our corporate climate footprint are ingredients (i.e., direct materials) and transportation.
+Read more about each category in the following sections, including Ingredients (page 16) and Transportation (page 23).
+11 9 From a 2020 adjusted baseline of 0.533 kg CO2e/L.
+10 Includes scopes 1, 2 and 3 GHG emissions (see details in the Appendix).
+11 Note that energy consumption in the pie chart on the next page includes energy used at production sites (including both Oatly s and those of our production partners) and offices, equating to approximately 0.093 kg CO2e per produced liter.
+These energy categories are included in scopes 1, 2 and 3 in the Greenhouse Gas Emissions Table.
+11 The following chart breaks down our corporate climate footprint by GHG emissions scope, as defined by the GHG Protocol.
+12 12 Biogenic emissions 2022 Scope 1: 4989 T CO2e Scope 2: 1804 T CO2e 12 Our Scope 1 GHG emissions per liter, which made up about 6 percent of our total per-liter footprint, increased from our 2021 and 2020 baselines, driven mostly by increased energy use for expanded production in Oatly s newest factories that became operational in 2021.
+Our Scope 2 and Scope 3 emissions, which respectively made up <1 percent and 93 percent of our total per-liter footprint, decreased from 2021 as we expanded our sourcing of renewable electricity and decreased the amount of final product shipped to the Asia region primarily from Europe, among other reasons, but remained higher than the 2020 baseline.
+(Additional details on the emission drivers and changes within each category can be found in the sections that follow.
+) In 2022, after conducting a review of our data calculation methodologies and data sources over the last few years of sustainability reporting, we updated our baseline for our 2029 climate target (Ambition 2).
+As part of this process, as mentioned in our 2021 Sustainability Report, we reviewed the context and impact of a number of updated third-party GHG emission factors included in our corporate climate footprint calculation.
+Based on our findings, we updated our baseline in the following ways:   Oats The agricultural model for calculating the emission factor for oats was improved, which resulted in updated emission factors for oats from specific countries, with some higher and some lower than previous data.
+Proxies A proxy emission factor was used for the small number ingredients with unknown emission factors (e.g., vitamins).
+To be more conservative, for the items that require a proxy emission factor, we changed the previous proxy of 1.0 kg CO2e/kg to 5.0 kg CO2e/kg.
+Packaging We updated emission factors for paperboard and corrugated board for consistency in the methodological principles.
+The emission factors applied in the previously reported 2020 corporate climate footprint were derived from a more varied set of sources and years.
+Transport We updated the transportation emission factors to reflect more accurate data on the types of ocean freight used to ship Oatly products, adjusting to a lower emission factor associated with large ocean freight.
+When multiplied by the distance (tonkm) finished product was transported, this results in a lower 2020 baseline.
+As a result of this review and the improved data we now have access to, our 2020 baseline has now been revised in accordance with the recommendations of leading standards (including the GHG Protocol), 13 which encourage companies to update their baselines as they get access to better information.
+We have now determined our baseline as 0.533 kgCO2e/L in 2020 (which was the first year of our updated GHG accounting methodology, aligned with the GHG Protocol, and the first year we included a more comprehensive set of GHG categories), compared with the previously reported 2020 corporate climate footprint of 0.558 kgCO2e/L.
+This means we have revised our baseline down by 0.025 kgCO2e/L.
+stAkeholder interACtion Transparent and proactive communication with our stakeholders is essential for building trust, fostering collaboration, and creating shared value for all.
+By engaging with them, we gain valuable insights into their concerns, expectations and priorities, which allows us to better understand and manage the social, environmental and economic impacts of our operations.
+In 2022, we conducted targeted stakeholder engagement that built on our extensive stakeholder survey in 2019, which covered a wide range of topics related to our impact on the supply chain.
+The following are examples of stakeholder engagement in 2022:   We gathered insights about our sustainability communications through a survey of customers, co-workers, suppliers, investors and partner associations on our sustainability communications and how to make them more impactful, engaging and relevant.
+We created internal materials for Oatly teams and held workshops with co-workers to further embed sustainability in their everyday activities and highlight their contribution to our Sustainability Plan.
+drive A food system shift As a core pillar of our sustainability strategy, Oatly is working to transform the food system.
+Our work with farmers, suppliers, scientists and other partners is key to achieving a shift in our food system.
+Team members across the company conducted groundbreaking work in 2022 to make sure we are another step closer to realizing this ambition.
+Ambition: By 2029, Oatly s food system will give back to nature and the communities where we source by restoring carbon, improving biodiversity and boosting farmers  income.
+14 sustAinAble sourCing As we look to 2029, it is our ambition to source all our strategic direct materials sustainably.
+In 2022, we defined our strategic direct materials, which are the materials most significant for making Oatly products   whether because we source a high volume or because the materials have well-established sustainability risks, such as deforestation, forced labor and worker rights.
+We conducted a materiality analysis and identified the following strategic direct materials in our supply chain: oats, rapeseed oil, packaging material, vanilla, coffee, cocoa, coconut oil, palm oil and cane sugar.
+Our intention is to establish sustainable sourcing policies for each of the strategic direct materials to source these products in a way that improves sustainability performance and addresses key sustainability risks.
+As a specific example of addressing sustainability risk in our supply chain, we developed a policy for sourcing palm oil sustainably.
+pACkAging Our packaging volume continued to increase as our business grew during 2022.
+The share of packaging we and our production partners sourced that was made of renewable or recycled materials increased from 87 percent to 89 percent.
+13 More specifically, 21 percent were made from recycled material.
+13 The 89% recycled or renewable packaging shown in the pie chart includes packaging that is recycled or renewable, or a mix of both e.g., recycled certified paperboard.
+15 One opportunity for further improving the impact of our packaging materials is through secondary packaging (i.e., what the finished products are packed in for shipping).
+For example, in 2022, our North America supply chain utilized heavier secondary packaging materials than used in Europe to hold up over the longer transportation distances, and our supply chain in Asia utilized more virgin materials for secondary packaging.
+We are exploring options to improve secondary packaging in the future.
+Packaging materials made up 9 percent of our corporate climate footprint, or approximately 0.054 kg CO2e per produced liter, a decrease of 14 percent over the 2020 baseline (0.063 kgCO2e/L).
+This decrease is due to the limited specifications we had for packaging weight in North America in 2020, which resulted in the need for us to make conservative estimations.
+In 2022, we had more-specific data for North America packaging weight and an increased share of packaging volume in North America, which resulted in a decrease of the climate impact.
+In 2023, we will continue our work toward sourcing 100 percent renewable or recycled material for our packaging and exploring what is needed to increase recyclability of our packaging.
+ingredients Our ingredients accounted for about 42 percent of our corporate climate footprint in 2022, or 0.245 kg CO2e per produced liter, which is a 9 percent increase per produced liter compared with our 2020 baseline.
+Oats consistently make up 84 percent of our total purchase volume and are therefore the ingredient with the most significant impact on Oatly s climate footprint.
+The increase in our overall ingredient footprint in 2022 was due, in part, to an increase in the proportion of oats sourced 16 from Finland, as our overall demand for oats grew.
+Given that Finnish oats are higher in emissions than oats sourced from other countries, such as Sweden, this caused our overall footprint per liter to increase.
+supplier stAndArds As Oatly continues to evolve, the complexity of our supply chain does too.
+To manage these complexities, we are creating a more consistent and transparent system to monitor suppliers  sustainability performance and mitigate risks.
+In 2022, we continued to develop our supplier assessment process, anchored in the basic sustainability requirements that we set for suppliers.
+Part of that assessment is requesting that our suppliers register with Ecovadis.
+Since 2021, we have introduced 77 suppliers into our network.
+Of those, we have 58 with a confirmed rating within the platform across four categories: environment, ethics, labor & human rights and sustainable procurement.
+Over the next year, we aim to both expand the Ecovadis program to other suppliers and work with select partners on actions to improve their individual scores.
+Our Code of Conduct continues to reflect our company values and expectations on key issues such as human rights, working conditions and anti-corruption.
+We require that all our suppliers and production partners either commit to complying with our Code of Conduct or present their own.
+We seek to uphold human rights and mitigate corruption-related risks.
+Based on our supplier performance evaluations, we see a low risk of corruption   but we interpret the results with caution and continue to monitor this issue.
+Our Modern Slavery Statement includes further 17 descriptions of how we look to identify and mitigate risks in our supply chain.
+fArm Building on our research and farmer projects from previous years, we formalized our global framework to describe our vision for the future food system.
+We call it the Future Agriculture Renovation Movement (or FARM).
+We aim to:   Reduce net GHG emissions by reducing on-farm emissions and sequestering carbon in soil and perennials   Improve ecosystem functionality by increasing biodiversity, improving water quality, improving soil health and reducing synthetic inputs   Build farm viability and resilience by supporting farmers and farm families Here is a global tour of some of our programs and the amazing collaborators we worked with in 2022 using the FARM framework as our guide:   China We partnered with the nongovernmental organization (NGO) Yunnan Specialty Coffee Communication and supported 10 coffee farms to provide more data and information for sustainable farming.
+Sweden We collaborated with Swedish oat supplier Berte Qvarn and performance management consultancy Improvin  to map supply-chain- specific GHG emissions, providing data from field to mill in one system that s accessible to growers, the miller and Oatly.
+United Kingdom We developed a regenerative sourcing framework to incentivize more sustainable practices on UK oat farms and recruited 14 farmers to take part in the pilot project in 2023.
+Finland We partnered with Wageningen University & Research, University of Helsinki and 10 farmers to explore future-proof food production and inform a radical redesign of farms.
+Unites States We grew the Midwest US pilot project to 17 farmers, who each started a three-year growing cycle: oats and a cover crop, corn, then soy.
+Farmers are testing ways to lower their GHG footprint in other parts of their rotations, such as by reducing fertilizer.
+Canada In Canada, we established a strong foundation for our regenerative supply chain.
+We worked with industry partners to select the best agronomic practices and test GHG measurement platforms and monitoring frameworks to help farmers optimize on-farm practices.
+18 future CompAny   plAnet Ambition: By 2029, all the facilities that produce our products will meet  Future Factory  criteria, which we will define in line with the principles of sustainable, efficient, safe and inclusive   and we will support our production partners along the journey.
+The UN has called on businesses to accelerate the transformation to a sustainable future that addresses climate change, inequality, health and well-being.
+To us, this means putting people and the planet first.
+At Oatly, we strive to be a  future company,  which means using resources responsibly and providing a welcoming and safe place for coworkers to grow personally and professionally   or in other words, be a great place to work.
+In 2022, we further defined Oatly s Future Factory criteria, including the following critical building blocks, which are discussed in more detail in subsequent sections of this report: 1.
+Be T-Oatly safe, including care for people and planet 2.
+Be diverse and inclusive 3.
+Source 100% renewable energy 4.
+Be energy and water efficient 5.
+Send zero waste to landfill 6.
+Use 100% sustainable ground transportation 19 Our co-manufacturers are key production partners, and we re committed to bringing them along on our sustainability journey.
+In some impact areas, such as climate footprint, energy and transportation, our targets include both Oatly-operated and production-partner facilities, so we include production partners  sustainability data with the data from Oatly- operated factories.
+In other impact areas, such as waste and water, we determined to set targets specific to Oatly-operated facilities; partner data is therefore not included.
+environmentAl stewArdship We have an Environmental Policy that serves as a global guideline for our teams and co-workers to help protect our planet.
+By including environmental aspects in decision-making processes, we can introduce better solutions in the areas where they exist   or develop new ones where they don t. 2022 results:   We simplified our reporting system and improved our ability to report and classify environmental incidents.
+There were no major environmental incidents reported at Oatly-operated factories during 2022.
+All global Oatly-operated factories migrated their legal registers from manual systems to a digital platform to simplify regulatory management and evaluate proposed changes in safety, health and environmental regulations.
+In September 2022, after the New Jersey Water Environment Association inspected the Millville factory s wastewater treatment, it passed with a perfect score of 100%!
+energy Energy used at production sites and offices accounts for about 16 percent of our corporate climate footprint, or approximately 0.093 kg CO2e per produced liter, an increase of 19 percent over 2020.
+In 2022, production sites (including both Oatly s and those of our production partners) used approximately 337 million kWh of energy   more than twice our total energy used in 2020.
+That s a big increase!
+But keep in mind that we ve been growing rapidly and doubled our number of Oatly- operated factories from three in 2020 to six in 2021.
+Today, we continue to operate these six factories to produce more delicious Oatly products every year.
+The two drivers of energy-related climate impact are energy intensity (amount of energy used per liter) and type of energy sourced (renewable or non-renewable).
+20 energy intensity Energy intensity is based on energy consumed at all production sites (Oatly and our production partners) divided by the total liters produced at a corporate level.
+Our energy intensity in 2022 was 0.65 kWh per produced liter, a decrease of approximately 1.3 percent over 2021 and an approximately 12 percent increase from the 2019 baseline for energy.
+As referenced in our Sustainability Report last year, production sites constructed in 2021 in Singapore, Ma anshan and Ogden were expected to achieve greater energy efficiency as they reach full production capacity over time   and they ve made a good start, each reducing energy use per liter by more than 19 percent in 2022 compared to 2021.
+In 2022, we expanded capacity at our factories in Landskrona, and Millville, doubling capacity at Millville.
+New lines and equipment commonly use more energy per liter during construction and start-up, which caused their energy use per liter to increase in 2022, so we anticipate that these facilities will achieve greater energy efficiency as they reach full production capacity over time.
+21 renewAble energy In 2022, we sourced 100 percent renewable electricity for all Oatly- operated factories!
+Overall, we sourced approximately 85 percent renewable electricity for all production sites (Oatly-operated and our production partners).
+During the same period, we sourced 21 percent renewable heat energy for all production sites (Oatly-operated and our production partners).
+Combined, our total proportion of renewable energy was 38 percent in 2022, up from 36 percent in 2021 but down from 63 percent in our base year, when we had fewer factories.
+Now for a few factory specifics.
+We continued to source 100 percent renewable electricity for our factories in Landskrona, Vlissingen, Millville and Ogden   and for the first time, our two factories in Asia sourced 100 percent renewable electricity.
+In September, we joined a renewable power exchange pilot program in the Anhui province, where our Ma anshan factory is located.
+Oatly purchased 1.7 million kWh from a solar project in Qingyang, Anhui, and purchased renewable energy certificates (RECs) from an onshore wind park in China to reach the equivalent amount of electricity required to power the entire Ma anshan production site.
+At our Singapore facility, we purchased RECs from a solar project in Vietnam equivalent to the amount of electricity needed to run the oat base process.
+In recognition of our renewable electricity sourcing in the US, Oatly was named one of the Environmental Protection Agency's Green Power Partners.
+Check out our partner profile on epa.gov/greenpower/meet-our-partners to view our green power use.
+22 The remaining 4 percent non-renewable electricity is used by our production partners.
+We are exploring ways to support these partners in their journey toward our ambition of 100 percent renewable energy by 2029.
+In 2022, we continued to source 100 percent renewable biomethane as a heat source for our factory in Landskronausing energy attribute certificates.
+In addition, a few of our production partners are located where some of the thermal energy is created from renewable sources.
+Combined, this renewable heat energy accounts for 16 percent of the total energy at all production sites (Oatly-operated and our production partners).
+Also in 2022, we joined the Renewable Thermal Collaborative, a multi-company initiative to identify solutions to renewable heat energy.
+Sourcing renewable heat energy for other factories around the globe remains a challenge and will be a key strategy to help Oatly achieve 100 percent renewable energy by 2029.
+trAnsportAtion Transportation accounted for about 25 percent of our corporate climate footprint in 2022, or approximately 0.147 kg CO2e per produced liter.
+That s a comparable transportation-related footprint to our 2020 baseline.
+In 2021, we built new production facilities in Singapore and Ma anshan to better serve our customers in the Asia Pacific region.
+As these two sites continue to produce more Oatly products, we transport fewer finished Oatly products to Asia, usually via ocean freight, from factories in Europe.
+23 Distribution of finished products remains the largest contributor to transportation emissions.
+The share of emissions from the distribution of finished products to and within Asia decreased, while the share of emissions from the distribution of finished products within the Americas and EMEA both increased.
+These two regions transport finished product primarily via ground transportation, highlighting the need for sustainable ground transportation, especially in the diesel truck category.
+This highlights the importance of our ambition to achieve 100 percent sustainable ground transportation for our products and materials.
+Switching transportation modes and fuels will deliver meaningful reductions in our GHG emissions.
+We define sustainable ground transportation to include electric vehicles, rail and vehicles using renewable fuels.
+We engaged external experts on sustainable transportation to review this approach and confirm that it is aligned with logistics decarbonization strategies being deployed by peer companies in the consumer goods sector.
+In 2022, approximately 21 percent of our products and materials were transported by sustainable ground transportation.
+This is the first time we ve measured and reported this metric.
+Also in 2022, we defined and developed a global strategy for sustainable ground transportation: our Global Sustainable Logistics Strategy (the Strategy).
+The Strategy includes three main pillars.
+1.
+Reduce the distances travelled.
+This the most important step in our strategy because it reduces GHG emissions 100 percent for the 24 kilometers not travelled.
+The most sustainable vehicle is the one you never use!
+2.
+Implement lowest possible impact transport across all lanes.
+a. No air freight.
+To minimize the oversized air freight impact from one-off priority shipments, in 2021, our Global Logistics Team strengthened our process to require approval by upper management to ship products by airplane.
+b. Switch to a lower-impact mode of transportation (e.g., switching from a diesel truck to rail can deliver an approximately 55 percent reduction in CO2e).
+c. Switch to a lower-impact fuel within the same mode (e.g., switching from a diesel truck to one powered with 100 percent renewable electricity can reduce CO2e emissions by approximately 95 percent!
+).
+3.
+Choose more-sustainable warehousing.
+This includes energy- efficient warehouses and those that use renewable energy.
+The figure above represents our sustainable transportation approach.
+In the Strategy, we consider both the transportation mode and the fuel used.
+Over half of the electricity in the world is generated using fossil fuel sources.
+This means transporting our products and materials in an electric vehicle that is charged by grid electricity could result in more GHG emissions.
+That s why we aim to source renewable electricity for the electric trucks we use.
+There s an important distinction between renewable fuels, such as renewable electricity, renewable diesel (often called HVO), and biodiesel and more sustainable modes of transportation.
+For example, although most rail uses diesel fuel, trains can transport relatively more goods per liter of fuel than a diesel truck can.
+Also, while the emission factor (g CO2e per tonkm) for ocean freight is generally lower than for diesel trucks and comparable to rail, shipping products by ocean often means transporting them a long distance (the mode  sea  is used for shorter distances, usually regional, via a ship).
+Since 25 we ve been focused on building new production facilities closer to our customers, especially in the Asia Pacific region, we re working to prioritize more local transportation options instead of ocean transport.
+We re really proud of the Strategy, and we also want to highlight some of the great actions we took in 2022:   In October 2022, we celebrated the first run of our Einride electric truck fleet in the United States from our Ogden factory.
+Also in the US, we began moving some of our finished goods via intermodal rail transportation instead of only diesel truck.
+Our warehouse partner in Singapore installed nearly 8,000 solar panels on its rooftop, which generate over 3,400 megawatt hours of green electricity annually.
+The building is BCA Green Mark Platinum and US Green Building Council LEED Platinum certified.
+wAter withdrAwAl In 2022, our total water withdrawn by Oatly-operated factories was approximately 1.65 billion liters.
+The combined water withdrawal for all Oatly-owned production facilities in 2022 was 3.5 liters per liter of Oatly (L/L) finished goods equivalent (FGE), approximately 20 percent lower than our baseline of 4.3 L/L but an increase from 2021.
+After investigating multiple methods for reporting a consolidated water withdrawal metric, this is the first time we are reporting this figure.
+Because we have some end-to end factories (Landskrona, Ma anshan and Ogden) that produce oat base (the foundational ingredient for all our products) and finished Oatly products, and some oat base-only factories (Millville, Singapore and Vlissingen), it was a bit tricky to decide on a combined water metric.
+So, to report a combined water withdrawal for all Oatly-owned production facilities, we are dividing the total production- related water use14 at all factories by the total liters of Oatly produced, as FGE, which converts oat base liters into equivalent finished goods liters.
+Our factories continued to work to lower water withdrawal by:   Improving production planning and efficiency in Millville, which resulted in less water needed for cleaning   Installing new production capacity, with a continuous operating production process system (in contrast to a batch system) to use less water, in Vlissingen   And in Ogden and Singapore, we were able to reduce our water use per liter of FGE by 33 percent and 22 percent, respectively, in 2022 over 2021 thanks to increased production volumes and efficiency, as these factories have ramped up production capacity.
+14 Note that we are excluding water used in onsite dormitories (specifically the dormitory and associated cafeteria at our Ma anshan location), as this water use is not directly related to production.
+Water used in test production runs, as we develop new and delicious products, is included in this metric.
+26 The increase in 2022 from 2020 and 2021 is related to ongoing change in our business model, as we built and operated more end-to-end factories, which use more water per liter of product because they are finishing products onsite.
+As our business model continues to change, we will continue to evaluate opportunities to decrease our water withdrawal.
+15 our wAste And byproduCts Oatbase, which is the base ingredient in all Oatly products, is designed to maintain as much of the oats  nutritional value as we can.
+While it s not possible to use every part of the raw oat in the final product, we create value out of the oat fiber residues by following a food waste hierarchy, which provides guidance on the most sustainable ways to repurpose food waste.
+In 2022, only about 0.9 percent of the total production waste generated by our global Oatly-operated factories was sent to landfill.
+Oat fiber residue, our largest and most material byproduct category, made up approximately 90 percent of our total production waste and byproducts in 2022.
+All global Oatly-operated production sites combined generated about 84,000 tonnes of oat fiber residue, 100 percent of which was repurposed!
+More than half our oat fiber residue was used to feed animals, which, according to food waste models in the US and EU is among the most 15 We will continue to assess this metric as our business model changes to ensure it remains the most relevant way to report our water withdrawal.
+27 sustainable alternatives after edible products for humans.
+16 However, our oat fiber residue is not used to feed cows, but rather to create energy such as biomethane or electricity or as a soil improver.
+(This category sometimes includes scrapped product from our production facilities.
+) We also strive to keep the small proportion of our waste that is not oat fiber residue out of landfills by instead sending it to partners for recycling or incineration, with energy recovery.
+future CompAny   people 16 Hierarchy for prioritization of food surplus, by-products and food waste prevention strategies, (pg.
+8 in the link) https://shorturl.
+at/ABH16 and  Food Recovery Hierarchy.
+https://www.
+epa.gov/sustainable-management-food/food-recovery-hierarchy.
+28 sustAinAbility As our Core vAlue We are convinced that to get to where we want to be, we need everyone in Oatly to be committed to sustainability, have clarity in their contribution and feel supported in what they do.
+This year, we decided to dive into that and understand how our colleagues feel they are being supported, so we can do even better and accelerate our work with sustainability.
+We focused on three outcomes we want to accomplish to support our co- workers around sustainability: Co-workers know how they contribute toward Oatly s Sustainability Plan   76 percent of co-workers say they have team-specific goals contributing to Oatly s Sustainability Plan (e.g., Ashley s To-Do List mentioned on page 10) and know how to contribute to them   a great base from which to embed sustainability even more in the organization.
+Leaders are motivating their team members to contribute to sustainability   64 percent of co-workers feel that their manager motivated them to incorporate sustainability into the work they have done this year to some or a large extent.
+This is a good start, but we can do more to support Oatly leaders to strengthen sustainability in their teams.
+Co-workers perceive a strong sustainability purpose and commitment in Oatly   74 percent of co-workers think that sustainability was among the top priorities for Oatly in the past year.
+We look forward to finding more ways to demonstrate that Oatly is a company with sustainability at its heart.
+trAining Oatly co-workers learn about a range of issues related to sustainability through trainings offered by the Sustainability Team throughout the year.
+This includes  Lunch & Learn  discussions with external experts in the sustainability field and the second year of our In the Weeds series, a monthly learning series in North America that provides deep dives into a range of sustainability-related topics, from science basics to global policy priorities.
+diversity, equity And inClusion (dei) We believe Oatly should feel like home to everyone who works here, regardless of spiritual beliefs, birth country, race, gender or sexual orientation.
+Being committed to real change means we actively show up and listen, openly admit when we fail and prioritize concrete actions around our shortcomings.
+We commit to learning and growing together, to become a truly inclusive company that is organically diverse.
+In 2022, we expanded our commitment to DEI through the following actions.
+29   The United Kingdom and North America (NA) created Total Inclusiveness, Diversity and Equity (TIDE) Councils made up of employees who volunteer time to support Oatly s DEI efforts.
+TIDE s mission is to create and maintain a workplace culture that intentionally prioritizes equitable systems, inclusive processes and feelings of belonging across diverse backgrounds.
+Oatly NA created a DEI department with the mission to create and maintain equitable ways of working and building relationships that help people of diverse backgrounds to thrive.
+It also developed a new strategy, launched a DEI Learning Series, explored environmental and climate justice learning opportunities and held a dedicated session on environmental racism.
+Oatly NA Launched a book club for Oatly staff to engage and discuss media centered on climate justice, equitable access to resources and models of equitable change-making.
+Our global communities, created to provide a welcoming and safe space for discussion, ran for a third year.
+Among them, our Oatly Cares community ran sessions to both support colleagues in times of world crisis and uncertainties and focus on the importance of rest and restoration during vacation times.
+At Oatly, we want the diversity of our team members to reflect the diversity found in every market in which we operate.
+In an ideal world, we would measure the same data across each market, but due to legislation, every country differs in the way it collects data.
+The tables below show the distribution of race and ethnicity in North America and the United Kingdom.
+17,18 17 Census.
+Quick Facts.
+https://www.
+census.gov/quickfacts/fact/table/US/PST045222.
+18 Source for UK population data found here: https://www.
+ethnicity-facts- figures.
+service.gov.
+uk/uk-population-by-ethnicity/national-and-regional-populations/population- of-england-and-wales/latest.
+30 reCruitment We continuously work to develop our recruitment practices to ensure they are inclusive and that we remain an attractive and approachable company to a diverse candidate pool.
+Some of the steps we ve taken include training for our recruitment team and hiring managers in competence-based recruitment, which includes how to be aware of the most common biases and how to avoid them in the recruitment process.
+gender distribution We are committed to achieving balanced gender representation across our company, and this continues to be an area we focus on improving.
+totAl employee heAdCount Total Employees: 2,009 Total female: 969 Total male: 1,040 heAlth And sAfety At Oatly, in accordance with our T-Oatly Health and Safety policy, we seek to create a culture of safety in which everyone performs at their 31 best and goes home without harm every day.
+During 2022, we continued to develop our Global Safety, Health and Environmental Management System in alignment with the International Organization for Standardization (ISO) framework.
+For our incredible Oatly factory employees who work every day to create delicious Oatly products, we are continuously looking to improve our safety programs with preventative measures and transparent reporting systems.
+We use the Oatly guiding principle  Welcome Failure  to underpin our open reporting culture.
+We want to know when things don t go as planned.
+This reporting culture helps us protect each other and keep accidents and incident rates low.
+Also, at our Ma anshan location, all company employees are expected to follow the requirements of the social responsibility policy which establishes that our systems and operations should comply with provisions of the national government regulations and relevant international agreements.
+This policy applies at both the factory and the dormitories in place for some of the Oatly factory employees.
+The policy includes language pursuant to which all employees are required to adhere to relevant standards regarding forced labor, child labor, and discrimination against employees on the basis of ethnicity, race, gender, religious beliefs, trade union membership or political affiliation.
+Our Lost Time Incident Rate (LTIR), Total Recordable Incident Rate (TRIR) and accidents were all lowered in 2022 as a result of our continued focus on maintaining a reporting and safety leadership culture in order to keep our factory employees safe.
+We investigated all events and shared significant events through our Incident Insights process, which factories and regions used to prevent recurrences.
+We have continued to increase the amount of time we invest in our co-workers with dedicated training, including STAR personal responsibility workshops, T-OATLY Safe Leadership training, and topic-specific training such as ladder and fire safety.
+32 empower A plAnt-bAsed revolution The science is clear: If we want to combat climate change, it is time for humans to shift away from resource-intensive animal-based diets.
+19 Studies show that a shift to more plant-based diets could help reduce GHG emissions.
+20,21,22,23,24 We work every day to provide innovative oat-based products, making it easier for people to choose plant-based products over animal-based ones.
+Included in this section are some examples of how we used our voice in 2022.
+19 Clark, M. A. et al.
+(2020).
+Global food system emissions could preclude achieving the 1.5  and   2 C climate change targets.
+Science, 370(6517), 705 708.
+https://www.
+science.org/doi/10.1126/science.
+aba7357.
+20 Steiner, A. et al.
+(2020).
+Actions to transform food systems under climate change (No.
+138- 2021-1490).
+https://ccafs.
+cgiar.org/resources/publications/actions-transform-food-systems-under- climate-change.
+21 Searchinger, T. et al.
+(2019).
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050.
+https://agritrop.
+cirad.
+fr/593176/1/WRR_Food_Full_Report_0.
+pdf.
+22 Willett, W. et al.
+(2019).
+Food in the Anthropocene: the EAT Lancet Commission on healthy diets from sustainable food systems.
+The Lancet, 393(10170), 447 492.
+23 Poore, J. and Nemecek, T. (2018).
+Reducing food s environmental impacts through producers and consumers.
+Science, 360(6392), 987 992.
+https://doi.org/10.1126/science.
+aaq0216.
+24 R s, E. et al.
+(2017).
+Greedy or needy?
+Land use and climate impacts of food in 2050 under different livestock futures.
+Global Environmental Change, 47, 1 12.
+https://doi.org/10.1016/j.
+gloenvcha.
+2017.09.001.
+33 Ambition: By 2029, mainstream plant-based diets by leading a shift from dairy, with a milestone to shift 2.9 billion liters from dairy to Oatly between 2019 and 2025, saving up to 2.5 million tonnes of CO2e.
+We love a challenge, so we had to figure out a way to measure an indicator of our contribution to the plant-based revolution by calculating the number of liters converted from cow s milk to Oatly and the amount of CO2e saved.
+As with any company, our operations have a climate footprint, which is analyzed in detail in the previous sections of this report.
+However, Oatly also has a positive  handprint  in the world, as we provide oat- based products as alternatives to cow s dairy, which is one of the most significant things we can do to support more sustainable diets.
+In 2022, we made three significant advancements:   We commissioned a life cycle assessment (the 2022 LCA), which estimates the difference in climate impact, among other findings, between Oatly Barista and comparable cow s milk in six of our bigger markets: Germany, Sweden, Finland, the Netherlands, UK, and US.
+According to the 2022 LCA, Oatly Barista has a lower climate 34 impact than does comparable cow s milk for all production facilities and markets analyzed.
+25   We partnered with Quantis, a leading environmental sustainability consultancy, to develop a rigorous, externally verified methodology for calculating avoided emissions from choosing Oatly products instead of cow s milk products.
+Read more about the detailed methodology on Quantis s web site.
+We commissioned a consumer survey in some of our biggest markets   the US, UK, Sweden, Germany and China   to estimate the rate of conversion from cow s milk to Oatly among Oatly customers.
+We used the outputs of these three efforts and Oatly s annual sales figures to estimate the number of liters of Oatly milk people have purchased instead of cow s milk and, as a result, the corresponding estimate of CO2e emissions saved, or our  climate handprint  (sometimes known as Scope 4 avoided emissions).
+We applied the methodology developed with Quantis for the years 2019 through 2022 for (i) Oatly sales in Europe and North America markets only and (ii) Oatly drinks only (i.e., not Oatgurt and other similar products).
+It is important to emphasize that Oatly sales from Asia markets are excluded from the calculation at this stage, as additional data is needed.
+Further details on the calculation methodology and limitations to our findings can be found in the  General reporting notes  section at the end of this report.
+We plan to update, develop and refine our calculations in future years as we obtain that additional data.
+25 Derived from Blonk Consultants (2022), LCA of Oatly Barista, and comparison with cow's milk.
+Gouda, the Netherlands.
+Stages include raw material to the point of sale and packaging waste management for average L produced and sold in the US, Sweden, and the Netherlands, and sold in Germany, Finland, and the UK.
+Findings are subject to assumptions, limitations, conclusions, and critical review statements.
+35 36 empower Consumers to mAke sustAinAble food ChoiCes Climate footprint declaration We expanded our efforts to publicly declare climate footprints on more of our products around the world, which included North America this year.
+By the end of 2022, 146 of our products carried a climate footprint declaration.
+In EMEA, we have 130 products with climate footprint declarations, which account for 98 percent of our sales volume in that region.
+26 In North America, we have 16 products with climate declarations, which accounts for 47 percent of the sales volume there.
+Spoiler Alert: In 2022, we started calculating climate footprint declarations in Australia, the results of which we will roll out in 2023.
+For more information visit, climate footprint.
+Carbon labeling Remember when we petitioned the Bundestag in Germany to make a law requiring that climate footprint information be printed on food packaging?
+Exciting update: We received a response from the Petitions Committee, and they recommend that the petition be submitted to the parliament.
+Meanwhile the companies, scientists and experts of the 26 Excluding private label.
+37 initiative Together for Carbon Labeling are working intensively on developing a common standard for the calculation of CO2e emissions.
+using our voiCe to tAke A stAnd At Oatly, we love to remind people of the impact the food system has on GHG emissions.
+And in 2022, we continued to use our voice and raise these issues in key public forums around the world.
+Oatly partnered with other companies and NGOs at the UN Climate Change Conference (COP 27) in a first-ever  food pavilion  to discuss the food system s role in climate change.
+Oatly spoke about the importance of reducing agricultural methane emissions and the food system s contribution to climate change during Climate Week NYC.
+As part of the UK Plant Based Food Alliance, Oatly advocated for the crucial role plant-based foods play in meeting the UK's sustainability and nutrition objectives at the first-ever historic round table in UK parliament.
+As members of the US Plant Based Food Alliance, we participated in congressional briefings and a White House conference on food and nutrition.
+mobilize And inspire A movement China In 2022, our Silent Barista Program in China, initiated in 2020, trained more than 200 deaf baristas representing 10 cities across China.
+Germany We launched Oatdrink Barista Edition in Deutsche Bahn trains as the first and exclusive plant-based milk alternative.
+United States The Big Idea Grant for Coffee, Oatly s annual grant program for small coffee businesses received more than 150 applications and awarded 7 winners that will receive funding for their projects in 2023.
+More about this exciting initiative can be found here.
+Oatly also supported caf  partners across the US to move to more sustainable business models and shift from dairy as the default milk option, providing creative support, hosting promotional events and helping caf s connect.
+One example of this partner-led effort is Stumptown removing the upcharge for plant-based milks.
+As a result, Stumptown has reported then they look at their Oatly sales compared to other milks  sales that close to 70 percent of drinks in the US are now made with plant-based milk   and 85 percent of that volume is Oatly!
+United Kingdom, Germany, Sweden and The Netherlands THE NEW NORM&AL SHOW and campaign kicked off conversations in the UK, Germany, Sweden and the Netherlands about how eating a plant-based diet is a totally normal choice these days, all through the medium of Oatly 38 carton puppets.
+Through the power of puppetry, bad singing and even worse dancing, each episode of the mini-series offers an awkward but often familiar look into the plant-based world of Norm, the wiser, and Al, who always tries to do the right thing.
+develop produCts thAt help people mAke the shift to plAnt-bAsed food Asia Oatly s innovation team leaned into Asia s love for tea and designed oat drink that pares well with tea.
+The resulting product is our new TeaMaster line designed for tea shops in Asia.
+ChAllenge outdAted rules And regulAtory bArriers Europe When the European Commission opened a public consultation on the EU School Scheme in 2022, we worked with partners to encourage people to sign a petition to add plant-based drink alternatives.
+Every year, 160 million liters of subsidized cow s milk is served in schools all over Europe.
+The petition garnered more than 74,000 signatures and we are now waiting for the revision of the school scheme, which is expected at the end of 2023.
+The Netherlands In another effort to level the playing field for plant-based alternatives in the market, Oatly joined partners to push the Dutch government to exempt all plant-based alternatives to cow s milk (including oat drink) from the proposed consumption tax.
+We joined partners in penning letters to the Dutch finance committee and educated policymakers.
+Right now, there is a one-year delay on the decision, which buys us more time to advocate!
+sustAinAbility governAnCe Our governance and ethics programs are grounded in our mission and core values of health and sustainability.
+We are committed to conducting our business with integrity and in an ethical and socially responsible way through sustainable business practices and various programs committed to sustainability, human rights and compliance   which we regard as essential to maximizing stakeholder value while enhancing community quality and environmental stewardship and furthering the plant-based movement around the world.
+Implementation of our sustainability initiatives, including publishing this sustainability report, requires commitment and investment across the company.
+We consider it essential to achieve our mission.
+Our sustainability program is developed and managed through considered interaction between our chief sustainability officer, other department heads, global president and CEO and overseen by our board of directors.
+In conjunction with our CEO and other business leaders, our chief sustainability officer develops our sustainability programs, practices 39 and goals that form the basis of our approach to sustainability at our company and are overseen and monitored by the Nominating and Governance Committee of our board of directors   which, in turn, is required to report to the wider board on matters of sustainability and corporate responsibility performance.
+At the end of 2022, our company board was composed of 12 directors, out of which 8 identify as male and 4 as female.
+There are no directors under age 30, three are between 30 and 50 years old and nine are over 50 years old.
+Within the board of directors, five identify as Asian, six identify as white and one identifies as both Asian and white.
+doing business At oAtly At Oatly, we take ethics and our relationship with stakeholders seriously and see it as critical that all employees and governance body members respect and act in accordance with our steering documents.
+In 2022, we had no reported cases of incidents of corruption, no confirmed incidents in which employees were dismissed or disciplined for corruption and no confirmed incidents of contracts with business partners being terminated or not renewed due to violations related to corruption.
+Additionally, we had no public legal cases regarding corruption brought against Oatly or its employees during the reporting period.
+All new employees, line consultants and directors on the board received communication about the following policies.
+Today, new hires receive these e-learnings during the onboarding process throughout the rest of the year.
+Business Conduct and Ethics Guidelines apply to all the company s officers, directors and employees and are intended to provide guidance in the event of a concern regarding business conduct or ethical standards.
+The guidelines cover issues such as conflicts of interest; competition and fair dealing; gifts and entertainment; and compliance with laws and regulations (including interactions with government officials).
+But the guidelines also note that not every situation can be addressed, and directors, officers and employees should make a report whenever they feel uncomfortable about a situation.
+The guidelines make it clear that directors, officers and employees are expected to report any known or suspected breaches of these guidelines, and the company maintains an anonymous whistleblower hotline.
+Anti-Bribery and Corruption applies to all the company s officers, directors, employees (whether full-time, part-time, fixed term or temporary), consultants, agents, joint-venture partners and other intermediaries or third parties acting on behalf of Oatly.
+This policy is applicable to all of Oatly s operations worldwide and states the key definitions of  bribe  and  corruption  in countries 40 where Oatly has a role, the responsibility of Oatly and its affiliates, employees, etc.
+and the penalties, disciplinary actions and reporting duties that may follow.
+Further, there is a specific section pertaining to the Foreign Corrupt Practices Act and the UK Bribery Act which prohibits the company and the employees/directors/agents from offering, giving or promising money or any other item of value, directly or indirectly, to win or retain business or to influence any act or decision of any government official, political party, candidate for political office or official of a public international organization.
+Whistleblower Policy is intended to help promote a culture that encourages our employees, contractors and other third parties to come forward if they have concerns or suspicions about illegal practices or serious violations of policies adopted by the organization.
+It also specifies that the organization will protect from retaliation any person making a good-faith report and identifies different channels through which such information can be reported.
+Whenever a report is made, the case investigation is managed by legal and People & Transformation, and critical concerns are communicated to the executive management team.
+(For more information, visit whistleblower.
+oatly.com.
+)   Sanctions Policy is intended to keep us (and those working on our behalf) from violating sanctions or laws and describes the controls we need to follow to stay in compliance.
+Code of Conduct sets out our company values and requirements on key issues such as human rights, working conditions and anti- corruption.
+It is based on the principles of the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, the International Labour Organization s eight Fundamental Conventions and the UN SDGs.
+(For more information, see Oatly Code of Conduct.
+)   Environmental Policy outlines our aim to have an overall positive impact on the planet and to work toward minimizing our negative impacts through the efficient use of sustainable raw materials and energy.
+The policy is available for employees to view on our internal intranet.
+risks And risk mAnAgement The following table represents a sample of selected sustainability risks Oatly has identified through our enterprise risk management process, along with examples of mitigating activities: 41 Risk Sustainability-related Mitigating activity category risks examples Environmen Physical climate change We are working with t/Climate impact to raw material farmers, suppliers and Change supply: Physical climate agronomists in key markets change impacts may on partnerships and pilot negatively affect projects to research agricultural production of regenerative practices for oats or decrease growing oats.
+These availability of water and practices have the other inputs necessary for potential to increase the our products.
+This could availability and resilience lead to less-favorable of our oat supply.
+We are pricing or otherwise also working on water- adversely impact our efficiency measures in our manufacturing and factories to reduce water distribution operations.
+use.
+Environmen Policies and regulations We continue to improve on t/Climate in the transition to a our sustainability Change lower-carbon economy: New reporting, including GHG policies and regulations in emissions reporting.
+We markets where Oatly have set a full value chain operates could pose GHG emission-reduction additional legal or target that covers scopes regulatory requirements 1, 2 and 3 GHG emissions, related to GHG emissions and are working to develop reporting, carbon pricing, GHG emission-reduction mandatory emission limits strategies.
+or reduction targets, presenting additional business costs.
+Environmen New international We developed our t/Climate guidelines and reporting sustainable sourcing Change frameworks related to guidelines to identify and supply chains: New mitigate risk in the supply international reporting chain.
+We use the Ecovadis frameworks and disclosure tool to work with our standards in markets where suppliers to achieve our Oatly operates could pose sustainable sourcing goals additional legal or and use third-party regulatory compliance certification for high-risk related to the mitigation ingredients.
+of risks in supply chains such as ecosystem collapse, biodiversity loss and human rights risks.
+Human Non-compliance with laws Our new hires undergo Rights and and regulations or Oatly training on Business Code of Conduct: If Oatly Conduct and Ethics 42 Anti- staff, suppliers or co- Guidelines, and we corruption manufacturers fail to regularly communicate our comply with ethics, food related policies to staff.
+safety, environmental, Additionally, we expect human rights or other laws that our suppliers and and regulations, or face production partners either allegations of non- commit to comply with our compliance, our operations Code of Conduct or present may be disrupted.
+their own, with a standard that is at least equal to ours.
+Social Brand image and reputation We have updated our harmed by not meeting internal website with investor, customer or guidance and resources for consumer expectations: Our our employees and developed business faces increasing internal trainings for scrutiny related to staff on how to accurately environmental, social and communicate on governance issues.
+The sustainability issues.
+We standards by which continue to improve our sustainability matters are sustainability reporting to evaluated are developing build awareness of and evolving.
+If we fail to sustainability issues and meet applicable standards relevant Oatly impacts.
+or expectations, our reputation and brand image could be harmed.
+Employees Cultural change: As we We have implemented guiding grow, it may become more principles throughout the difficult to preserve our company and established culture and core values or leadership training, DEI focus on our mission, which training and trainings could negatively affect our covering sustainability ability to both retain and topics to reinforce our recruit personnel and values and understanding of effectively focus on and agile ways of working.
+pursue our corporate objectives.
+reporting prinCiples The Oatly sustainability reporting process focuses on the most important sustainability areas for Oatly and the impact Oatly has on people and the planet, together with the impact sustainability has on Oatly.
+Oatly regularly reviews stakeholder expectations and presents relevant information aligned with three sustainability pillars of action (see page 10).
+Our report follows the requirements of the Swedish Annual Accounts Act.
+Oatly is a listed company in the US but not in the EU market and is therefore not required to report on the new EU Taxonomy regulation for 43 2022.
+Oatly s GHG emissions are reported in accordance with the Greenhouse Gas Protocol.
+dAtA boundAries Unless otherwise stated, the consolidated figures expressed in this report relate to Oatly Group AB.
+The scopes 1 and 2 energy figures include our production factories and offices, and Scope 3 includes our production partners.
+(For more details, see page 12.
+) Most of the data is collected and consolidated via the application Worldfavor.
+The reporting units are responsible for reporting correct information.
+We follow the GHG Protocol principles for managing environmental and energy reporting related to acquisitions, divestments and closures, if any.
+This means that, when necessary, figures for historical performance are recalculated based on our baseline figures.
+All closed units are included in the environmental and energy targets and calculation baselines, as per internationally accepted rules.
+The number of full-time and part-time employees was reported as of December 31, 2022, and excludes all consultants.
+The health and safety figures include only Oatly employees at our factories, not Oatly office employees or consultants.
+Our financial figures are retrieved from the company's financial reporting, as applicable.
+44 The auditor s report on the statutory sustainability report To Oatly Group AB, corp id 559081-1989 Engagement and responsibility The Board of Directors is responsible for that the statutory sustainability report as defined on page 1 has been prepared in accordance with the Annual Accounts Act.
+The scope of the audit Our examination of the statutory sustainability report has been conducted in accordance with FAR s auditing standard RevR 12 The auditor s report on the statutory sustainability report.
+This means that our examination of the statutory sustainability report is different and substantially less in scope than an audit conducted in accordance with International Standards on Auditing and generally accepted auditing standards in Sweden.
+We believe that the examination has provided us with sufficient basis for our opinions.
+Opinion A statutory sustainability report has been prepared.
+Stockholm, May 3, 2023 Ernst & Young AB Erik Sandstr m Authorized Public Accountant U7EDF-A0YK6-JQAZU-PLXYC-E4YFD-QLOQU :lekcyntnemukod oenneP Signaturerna i detta dokument  r juridiskt bindande.
+Dokumentet  r signerat genom Penneo  f r s ker digital signering.
+Tecknarnas identitet har lagrats, och visas nedan.
+"Med min signatur bekr ftar jag inneh llet och alla datum i detta dokumentet".
+John Erik Sandstr m Authorized Public Accountant Serienummer: 19750711xxxx IP: 185.224.
+xxx.
+xxx 2023-05-03 12:13:37 UTC Detta dokument  r digitalt signerat genom Penneo.com.
+Den digitala dokumentet i Adobe Reader b r du se att dokumentet  r certifierat med Penneo e- signeringsdatan i dokumentet  r s krad och validerad genom det datorgenererade signature service <penneo@penneo.com> Detta garanterar att dokumentets hashv rdet hos det originella dokumentet.
+Dokumentet  r l st och tidsst mplat inneh ll inte har  ndrats.
+med ett certifikat fr n en betrodd tredje part.
+All kryptografisk information  r innesluten i denna PDF, f r framtida validering om s  kr vs.
+Du kan verifiera den kryptografiska informationen i dokumentet genom att anv nda Penneos validator, som finns p  https://penneo.com/validator Hur man verifierar originaliteten hos dokumentet Detta dokument  r skyddat genom ett Adobe CDS certifikat.
+N r du  ppnar U7EDF-A0YK6-JQAZU-PLXYC-E4YFD-QLOQU :lekcyntnemukod oenneP Auditor s Limited Assurance Report on Oatly Group AB s Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions To Oatly Group AB, corp id 559081-1989 Scope We have undertaken a limited review engagement of Oatly Group AB s Scope 1 emissions (T CO e) and 2 Scope 2 emissions (T CO e), limited to production factories and offices, for the year ended 31 2 December 2022, as presented on page 12 in this document.
+Management s responsibility Oatly Group AB s management is responsible for the preparation of the disclosed information on Scope 1 and Scope 2 emissions in accordance with applicable criteria.
+The criteria consist of the Greenhouse Gas Protocol, published by the World Resources Institute and the World Business Council for Sustainable Development, as described on page 44.
+This responsibility includes establishing and maintaining internal controls, maintaining adequate records and making estimates that are relevant to the preparation of the information on Scope 1 emissions (T CO2e) and Scope 2 emissions (T CO2e), such that it is free from material misstatement, whether due to fraud or error.
+Responsibilities of the Auditor Our responsibility is to express a conclusion on the Scope 1 emissions (T CO2e) and Scope 2 emissions (T CO2e) based on the limited assurance procedures we have performed.
+Our engagement is limited to historical information presented in this document and does therefore not include future oriented information.
+We have conducted our limited review engagement in accordance with ISAE 3410 Assurance Engagements on Greenhouse Gas Statements.
+This standard requires that we plan and perform our engagement to obtain limited assurance about whether Oatly Group AB s Scope 1 and Scope 2 emissions are, in all material respects, presented in accordance with the criteria defined by Management, and to issue a report.
+The nature, timing, and extent of the procedures selected depend on our judgment, including an assessment of the risk of material misstatement, whether due to fraud or error.
+We believe that the evidence obtained is sufficient and appropriate to provide a basis for our limited review conclusion.
+Auditor s Independence and Quality Control We have maintained our independence of Oatly Group AB in accordance with professional ethics for accountants in Sweden and confirm that we have complied with the requirements of the Code of Ethics for Professional Accountants issued by the International Ethics Standards Board for Accountants and have the required competencies and experience to conduct this limited review engagement.
+Ernst & Young AB applies ISQM 1, Quality Management for Firms that Perform Audits or Reviews of Financial Statements, or Other Assurance or Related Services Engagements, and accordingly maintains a comprehensive system of quality control including documented policies and procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory requirements.
+Description of procedures performed ZVISV-VD4EZ-OSNBZ-WP8KX-DGLNH-UCLIK :lekcyntnemukod oenneP Procedures performed in a limited review engagement vary in nature and timing from and are less in extent than for a reasonable assurance engagement.
+Consequently, the level of assurance obtained in a limited review engagement is substantially less than the assurance that would have been obtained had a reasonable assurance engagement been performed.
+Our procedures were designed to obtain a limited level of assurance on which to base our conclusion and do not provide all the evidence that would be required to provide a reasonable level of assurance.
+Although we considered the effectiveness of management s internal controls when determining the nature and extent of our procedures, our assurance engagement was not designed to provide assurance on internal controls.
+Our procedures did not include testing controls or performing procedures relating to checking aggregation or calculation of data within IT systems.
+The greenhouse gas (GHG) quantification process is subject to scientific uncertainty, which arises because of incomplete scientific knowledge about the measurement of GHGs.
+Additionally, GHG procedures are subject to estimation (or measurement) uncertainty resulting from the measurement and calculation processes used to quantify emissions within the bounds of existing scientific knowledge.
+Our limited review engagement consisted of making enquiries, primarily of persons responsible for preparing the GHG reporting and related information and applying analytical and other relevant procedures.
+Our procedures included:   Conducting interviews with Oatly Group AB personnel on the business and reporting process   Conducting interviews with Oatly Group AB personnel on the process for collecting, collating and reporting the GHG data during the reporting period   Assessing whether the criteria defined by management has been applied   Undertaking analytical review procedures to assess the reasonableness of the data We also performed other such procedures as we considered necessary in the circumstances.
+Conclusion Based on the limited assurance procedures we have performed and the evidence we have obtained, nothing has come to our attention that causes us to believe that the Scope 1 emissions (T CO e) and 2 Scope 2 emissions (T CO e) data, including production facilities and offices, disclosed in this report have 2 not been prepared, in all material respects, in accordance with the criteria defined by Management.
+Stockholm, 3 May 2023 Ernst & Young AB Erik Sandstr m Outi Alestalo Authorized Public Accountant Specialist member in FAR ZVISV-VD4EZ-OSNBZ-WP8KX-DGLNH-UCLIK :lekcyntnemukod oenneP Signaturerna i detta dokument  r juridiskt bindande.
+Dokumentet  r signerat genom Penneo  f r s ker digital signering.
+Tecknarnas identitet har lagrats, och visas nedan.
+"Med min signatur bekr ftar jag inneh llet och alla datum i detta dokumentet".
+John Erik Sandstr m OUTI ELINA ALESTALO Authorized Public Accountant Specialist member in FAR Serienummer: 19750711xxxx Serienummer: 19771216xxxx IP: 185.224.
+xxx.
+xxx IP: 188.149.
+xxx.
+xxx 2023-05-03 11:32:53 UTC 2023-05-03 12:08:22 UTC Detta dokument  r digitalt signerat genom Penneo.com.
+Den digitala dokumentet i Adobe Reader b r du se att dokumentet  r certifierat med Penneo e- signeringsdatan i dokumentet  r s krad och validerad genom det datorgenererade signature service <penneo@penneo.com> Detta garanterar att dokumentets hashv rdet hos det originella dokumentet.
+Dokumentet  r l st och tidsst mplat inneh ll inte har  ndrats.
+med ett certifikat fr n en betrodd tredje part.
+All kryptografisk information  r innesluten i denna PDF, f r framtida validering om s  kr vs.
+Du kan verifiera den kryptografiska informationen i dokumentet genom att anv nda Penneos validator, som finns p  https://penneo.com/validator Hur man verifierar originaliteten hos dokumentet Detta dokument  r skyddat genom ett Adobe CDS certifikat.
+N r du  ppnar ZVISV-VD4EZ-OSNBZ-WP8KX-DGLNH-UCLIK :lekcyntnemukod oenneP Appendix stAkeholders And stAkeholder diAlogues Our Sustainability Plan outlines the actions we aim to take and the impact we want to create toward our vision for a food system that is better for people and the planet.
+The interactions we have with stakeholders are an important part of how we have built the plan, and our sustainability activities are guided in part by engaging them as described below: Type of stakeholder Main purpose of How Oatly engages engagement with stakeholder Suppliers (e.g., Collaborate to drive Projects with farmers production partners, food shift, mitigate to drive agricultural oat suppliers, third- supply-chain-related innovation and party partners) sustainability risks resource efficiency, due diligence of suppliers (e.g., through self- assessments), survey to gather inputs and insights Customer (e.g., retail, Drive partnership Sales team wholesale and coffee improvement, ensure interactions, survey shops) customer satisfaction on improving sustainability communications NGOs Raise awareness, Project input of technical collaborations, sustainability risks partnerships, ad-hoc and opportunities; dialogues and ensure social license meetings, survey on to operate improving sustainability communications Academia (e.g., Drive farming and Funding of, or researchers/scientists) product innovations, collaboration in, inform sustainability research and ambition scientific projects, interpretation of research findings Consumers Raise awareness of Consumer relations consumer trends and team on social media, shifting preferences, etc.
+ensure consumer satisfaction Co-workers Ensure healthy and Employee surveys, safe working regular engagements, educational sessions 48 conditions, drive from academics to employee satisfaction share research and incentivize healthy discussions Investors Communicate Investor relations operational and (reports, meetings, financial status, ESG etc.
+) initiatives Policymakers Engage on relevant Education and legislation or advocacy policies to level the playing field for plant-based products sdg tAble SDG SDG-relevant Oatly impact and key contribution in 2021 target 2.
+Zero 2.4 Farmers and agricultural production are hunger Sustainable central to our business.
+This year, we food formalized our global framework for production regenerative farming practices (see the FARM and resilient section).
+farming We continued our efforts to support farmers practices with restorative and regenerative agricultural practices.
+One example includes our work in Canada, where we established the strongest foundation to date for our regenerative supply chain partnership.
+3.
+Good 3.4 Reduce Diet is a major driver of non-communicable health and the number of diseases, and nutritional health is at the well-being deaths caused core of who we are and what we stand for as by non- a company.
+In 2022, we continued our health communicable professional newsletter to reach diseases and professionals and people outside our promote company.
+We also collaborated with health mental health care professionals in the UK and and well- organizations such as Plant Based Health being Professionals at events to advocate, share and learn about sustainable, plant-based eating and nutrition.
+5.
+Gender 5.1 Eradicate As a company, we have great potential to equality discriminatio influence and create conditions that foster n against equality.
+In 2022, we continued our Oatly women and communities and Oatly Women+, which provided girls opportunities for people to connect and share experiences unique to them and to 5.5 Ensure facilitate gender equity within the the full organization.
+participation of women in We also supported our women leaders at Oatly leadership as they spoke at major global conferences 49 and decision- including COP 27 and the Global Female making Leaders conference in Berlin.
+We continue our efforts to ensure our recruitment process is inclusive.
+See the Future company   people section.
+6.
+Clean 6.4 We re actively working to use water more water and Streamline efficiently at our Oatly factories.
+Combined sanitation water use and water withdrawal for all Oatly-owned safe water production facilities in 2022 was 3.5 L/L, supplies approximately 20 percent lower than our baseline of 4.3 L/L.
+We also work to ensure our water discharge meets or exceeds local standards.
+In September 2022, after the New Jersey Water Environment Association inspected the Millville factory s wastewater treatment, it passed with a perfect score of 100%!
+7.
+7.2 Increase We re aiming to use 100 percent renewable Affordable the global energy for our production by 2029 as we and clean proportion of continue working to ensure we use energy energy renewable efficiently.
+In 2022, all Oatly-operated energy production sites sourced 100 percent renewable electricity.
+8.
+Decent 8.5 Full As employers and purchasers, we want to work and employment create a safe workplace where people thrive, economic and decent and push for a value chain where human growth working rights are respected.
+conditions with equal In 2022, we updated our Modern Slavery pay for all Statement to uphold our efforts to identify and mitigate risk within our supply chain.
+8.8 Protect workers  Internally, we continued to emphasize rights and workplace safety through the use of our foster a safe Oatly guiding principle  Welcome Failure  to and secure underpin our open reporting culture.
+We want working to build a culture in which employees are environment comfortable reporting when things don t go for all as planned.
+See more in the Health and safety section.
+This year, we ve added new suppliers to our Ecovadis tool and expanded our effort to build a more consistent and transparent system to monitor suppliers  sustainability performance.
+12.
+12.5 In 2022, we repurposed or recycled 100 Responsible Substantially percent of the largest waste/byproduct production reduce waste stream at our factories: oat fiber residue.
+and generation consumption through 50 prevention, We know it is essential to use our voice to reduction, advocate for change.
+In 2022, Oatly recycling and participated in major public forums reuse globally, including the Stockholm 50+, Bonn Climate Change Conference, the UNFCCC COP27 12.8 Increase and Climate Week NYC.
+public awareness of We launched new campaigns to increase sustainable awareness of the sustainability impacts of lifestyles eating habits and advocate for climate transparency and climate footprint declarations for food.
+13.
+Climate 13.3 Increase We are in the midst of a global climate action knowledge and emergency.
+We help to empower consumers to capacity to make sustainable food choices and understand cope with the climate impacts of plant-based and climate animal-based foods through our campaigns and change calculations for individual product climate footprints.
+In 2022, we published the product climate footprint for 130 Oatly products in Europe and expanded our climate footprint declarations to 16 products in the Unites States.
+generAl reporting notes Emission factors Sources for the majority of the emission factors come from CarbonCloud, primarily for Scope 3, or the DEFRA (Department for Environment, Food and Rural Affairs) catalogue for emission factors, primarily for Scope 1.
+The sources for the residual electricity mixes (Scope 2, market-based) are based on multiple providers, depending on the geography.
+For Europe, they come from the Association of Issuing Bodies (AIB); North America s values are based on Green-e; and values for Asia are based on the International Energy Agency (IEA).
+When emission factors were not available in our primary sources, additional external databases, such as ecoinvent, were used.
+Production partner sites Since not only Oatly products are being produced in the production partner sites, consumption data from these sites corresponds to the percentage of Oatly share of production within the respective production site.
+Oat fiber residue Oat fiber residue is a byproduct of Oatly s production process.
+Oatly s policy is to transfer the oat fiber residue to external markets, including for animal feed and renewable energy.
+The residue is therefore not disposed of as waste.
+As a result, we assume the oat fiber residue is exiting Oatly s system boundaries as a byproduct and entering the boundary of another system.
+Therefore, emissions associated with the further utilization of the oat fiber residue is out of scope for Oatly s GHG inventory.
+Scope 1 Energy Includes energy from Oatly production sites.
+Company vehicles (those that are controlled by Oatly through leases) are reported as part of business travel in 51 Scope 3 (due to difficulties in accessing data) and split it out in different scopes.
+Refrigerants Only refills of leakages are reported under this scope.
+No refills reported during 2022 from Oatly production sites.
+Scope 2 Electricity Includes electricity from Oatly production sites and offices.
+Market-based emissions are presented in the report.
+In addition, location-based emission factors have been used to calculate the location-based emissions for this electricity as well.
+The location-based emissions equals 18,297 T CO2e.
+We assume that the proportion of renewable and non- renewable electricity represented in the grid is applicable for our electricity consumption in markets where we have not independently sourced or contracted renewable electricity.
+Oatly offices with fewer than 10 employees are excluded since most of them are in co-working office locations with limited possibilities to get correct data.
+Impact is considered to be insignificant.
+UK and Finland offices are estimated due to lack of data.
+For the UK office, the data is estimated to be the same as last year, and for the office in Finland, the consumption is estimated based on Oatly s share of the total building area.
+Steam, heating and Includes steam, district heating and cooling from Oatly cooling production sites.
+Scope 3 1.
+Purchased goods Emissions from production partners (energy, refrigerants, and services electricity, steam, district heating and cooling) including well to tank, ingredients and packaging materials are included in this category.
+A minor part of this data is estimated.
+Estimations of volumes of ingredients and packaging material are based on what type of products have been produced, the produced volume and the material specification from a similar product.
+Estimations for production partners are based on data from previous years and production volumes from 2022.
+We assume that the proportion of renewable and non- renewable electricity represented in the grid is applicable for the electricity consumption in markets where the electricity is not independently sourced or contracted as renewable electricity.
+1.
+Purchased goods Includes primary, secondary and tertiary packaging and services - materials.
+packaging material 3.
+Fuel and Includes well-to-tank emissions from Oatly production sites energy-related and offices.
+activities 5.
+Waste generated Includes waste from Oatly production sites and offices, from operations production partners and warehouses.
+Some waste data is estimated.
+52 4.
+Upstream Includes upstream and downstream transportation and transportation and warehouse electricity.
+A minor portion of the data is estimated.
+The estimations are done through the locations distribution of the origin country, manufacturing country and production site delivered.
+Through those locations, the average route is estimated and calculated.
+6.
+Business Travel Includes data for business travel for all Oatly employees.
+pbr Conversion note Ambition 4 In 2021, Oatly contracted sustainability consultant (Conversion) Quantis to help develop a methodology for estimating converted liters and avoided emissions associated with calculation Plant-Based Revolution Ambition 4 in Oatly s Sustainability Plan (i.e., the number of liters of Oatly people have chosen instead of cow s milk and the corresponding CO2e emissions saved (see the article by Quantis here).
+In this report, we applied this methodology for the years 2019 through 2022 for Europe and North America27.
+To do so we analyzed the following data: 1) sales data per product and country (provided by Oatly Finance); 2) Estimation of the share of Oatly consumers that converted from cow s milk obtained via consumer insight surveys at a country level (conducted by McKinsey for 2019 2021 data and IPSOS for 2022 data), with survey questions and an equation to estimate the rate of cow s milk to Oatly conversion proposed by Quantis; 3) an ISO 14040/44-compliant and peer- reviewed Life Cycle Assessment study that defined the CO2e saved from switching from cow s milk to Oatly products (conducted by Blonk Sustainability for selected products and Oatly markets).
+28 Assumptions: For the part of the sales volume for which data was unavailable, the conversion and corresponding CO2e savings were either approximated from available data in a conservative manner or excluded (zero contribution to the ambition).
+For example, (i) for those European markets that were not covered by the 2022 LCA, Oatly has used the closest proxies (e.g. using the weighted average data from UK, DE, and SE to French sales in a conservative manner) or (ii) for those Oatly drink products that were not covered by the LCA (i.e., our Oatly drink products other than Oatly Barista but not including non-drink products such as Oatgurt), we have used the data from the LCA as our internal analysis comparing the products supports the conclusion that CO2e savings for such other products are very similar.
+Quantis has reviewed the accuracy, completeness and existence of errors or omissions of the calculated results in accordance with its suggested methodology and provided a verification letter that can be found on Oatly s website.
+27 Results from the Asia-Pacific region were excluded from these results due to the absence of ISO-compliant LCA results for products in that region, but may be added retroactively in future years based on availability of the required data.
+28 Blonk Consultants (2022), LCA of Oatly Barista and comparison with cow's milk.
+Gouda, the Netherlands.
+53 Limitations: The result of the Ambition 4 indicator is subject to the inherent limitations of a survey (e.g., representativeness of the entire population compared with survey respondents, respondent objectivity/truthfulness, length of the questionnaire, survey mode, geography, etc.
+) as well as annual variations due to the natural progression of the plant-based movement.
+The avoided CO2e emissions are subject to the assumptions, limitations, conclusions and critical review statement in the 2022 LCA study by Blonk Sustainability.
+We plan to update, develop and refine our calculations in relation to Ambition 4 in future years as we obtain further data (e.g., addressing those markets and products for which we currently use proxies or other approaches for estimates) and as the methodologies relating to avoided emissions continues to develop.
+For example, the World Business Council for Sustainable Development has recently released guidance on calculating avoided emissions, and while that guidance was produced too late to be considered in this report, we will reflect on such guidance (and any other relevant guidance produced) to the extent appropriate and relevant to our reporting.
+54
