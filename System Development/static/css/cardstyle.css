@@ -1,0 +1,32 @@
+/* 卡片通用样式 */
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 第一行的大卡片，占2列 */
+.card-container > .card:nth-child(1) {
+    grid-column: span 2; /* 占2列 */
+}
+
+/* 第一行的小卡片，占1列 */
+.card-container > .card:nth-child(2),
+.card-container > .card:nth-child(3),
+.card-container > .card:nth-child(4) {
+    grid-column: span 1;
+}
+
+/* 第二行的大卡片，占3列 */
+.card-container > .card:nth-child(5) {
+    grid-column: span 3; /* 占3列 */
+}
+
+/* 第二行的小卡片，占1列 */
+.card-container > .card:nth-child(6) {
+    grid-column: span 1; /* 占1列 */
+}
