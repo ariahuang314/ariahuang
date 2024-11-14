@@ -1,0 +1,79 @@
+{
+    "Emission_intensities": [
+        "Emission intensities",
+        "GRI 305-4"
+    ],
+    "Energy_consumption_intensity": [
+        "Energy consumption intensity",
+        "GRI 302-3"
+    ],
+    "Waste_generated": [
+        "Electronic waste generated",
+        "GRI 306-1",
+        "E-Waste",
+        "GRI 306"
+    ],
+    "Percentage_of_employees_covered_by_health_insurance": [
+        "Employee Health Insurance Coverage",
+        "GRI 403-3"
+    ],
+    "Average_training_hours_per_employee": [
+        "Employee Training Hours",
+        "GRI 404-1"
+    ],
+    "Current_employees_by_gender": [
+        "Employee Gender Distribution",
+        "Gender-based Turnover Rate"
+    ],
+    "New_hires_by_gender": [
+        "New Hires by Gender"
+    ],
+    "Turnover_by_gender": [
+        "Turnover by Gender"
+    ],
+    "Current_employees_by_age_groups": [
+        "Employee Age Distribution",
+        "Age Diversity"
+    ],
+    "Turnover_by_age_groups": [
+        "Employee Turnover by Age Group"
+    ],
+    "New_hires_by_age_groups": [
+        "New hires by age groups"
+    ],
+    "Total_turnover": [
+        "Turnover Rate",
+        "GRI 401-1"
+    ],
+    "Total_number_of_employees": [
+        "Total Workforce Count",
+        "GRI 102-8"
+    ],
+    "Employee_satisfaction_rate": [
+        "Work-life Balance Satisfaction",
+        "GRI 401-3"
+    ],
+    "Company_donated": [
+        "Corporate Donations",
+        "Company donated",
+        "Charitable Contributions"
+    ],
+    "Women_in_the_management_team": [
+        "Women in Leadership",
+        "Gender Balance in Executive Roles",
+        "Gender Diversity in Management",
+        "Women in Management",
+        "GRI 405-1"
+    ],
+    "Women_on_the_board": [
+        "Female Representation in Governance Bodies",
+        "Women’s Representation on the Board",
+        "Gender Diversity on the Board",
+        "Female Representation in Governance Bodies",
+        "Gender Diversity on the Board"
+    ],
+    "Board_independence": [
+        "Frequency of Independent Board",
+        "Board independence"
+    ]
+}

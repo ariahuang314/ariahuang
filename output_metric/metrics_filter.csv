@@ -1,0 +1,19 @@
+﻿company_name,standard_metric,value,unit,similarity,confidence
+ABR,Absolute_emissions,1.0,tonnes CO2e,0.9428368806838989,0.9
+ABR,Anti_corruption_disclosures,1.0,,0.764081597328186,0.8
+ABR,Assurance_of_sustainability_report,1.0,,0.9170913696289062,0.977049708366394
+ABR,Average_training_hours_per_employee,6435.0,hours,0.9359481930732727,0.95
+ABR,Community_nutrition_programs,1.0,,0.8554794788360596,0.8
+ABR,Consumer_rights_protection,1.0,,0.8752025365829468,0.8
+ABR,Current_employees_by_age_groups,68.0,number,0.9356844425201416,0.85
+ABR,Current_employees_by_gender,0.52,percentage,0.8798240423202515,0.9
+ABR,Employee_satisfaction_rate,0.38,percentage,0.8909991979598999,0.9
+ABR,Energy_consumption_intensity,0.44,percentage,0.9316601157188416,0.9
+ABR,Green_financing_projects,1.0,,0.9045014381408691,0.8
+ABR,List_of_relevant_certifications,1.0,,0.8988015651702881,0.977049708366394
+ABR,New_hires_by_gender,653.0,number,0.9086300134658813,0.9
+ABR,Protected_or_restored_habitats,1.0,,0.9605140686035156,0.8
+ABR,Total_energy_consumption,1.0,Cu M,0.9809125065803528,0.95
+ABR,Total_number_of_employees,1605.0,hours,0.9099475741386414,0.95
+ABR,Water_consumption,234491.0,litre,0.9526817202568054,0.95
+ABR,Water_intensity,1.18,Cu M/revenue S$ 000,1.0,0.95
