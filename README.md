@@ -15,3 +15,24 @@ Follow the steps below to install and run the project:
    ```bash
    cd groupproject
    ```
+## Repository Structure
+
+### main
+
+### config
+
+### dash_app
+
+### dictionary
+
+### other
+
+### output_metric
+
+### pdf_processing
+
+### scr
+
+### static
+
+### templates
