@@ -39,4 +39,4 @@ Follow the steps below to install and run the project:
 ### templates
 
 ## Notes
-As a team, we have merged all the programs into the `main` branch to ensure all components function seamlessly as a whole. If you wish to explore the detailed processes of each sub-team, you can check the `[GroupA](https://github.com/ariahuang314/groupproject/tree/GroupA_Data_Extraction)` and `[GroupB](https://github.com/ariahuang314/groupproject/tree/GroupB-ESG-estimate)` branches.
+As a team, we have merged all the programs into the `main` branch to ensure all components function seamlessly as a whole. If you wish to explore the detailed processes of each sub-team, you can check the [`GroupA`](https://github.com/ariahuang314/groupproject/tree/GroupA_Data_Extraction) and [`GroupB`](https://github.com/ariahuang314/groupproject/tree/GroupB-ESG-estimate) branches.
