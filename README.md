@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a suite of Python scripts designed to automate the extraction of Environmental, Social, and Governance (ESG) metrics from PDF reports. The workflow includes data extraction, cleaning, and similarity matching to standardize the extracted metrics.
+This branch provides a suite of Python scripts designed to automate the extraction of Environmental, Social, and Governance (ESG) metrics from PDF reports. The workflow includes data extraction, cleaning, and similarity matching to standardize the extracted metrics.
 
 ## Repository Structure
 
