@@ -11,7 +11,19 @@ This project provides a suite of Python scripts designed to automate the extract
 
    ```bash
    git clone https://github.com/ariahuang314/groupproject.git
+  ```
+## Main Folder Contents
+### dictionary
+- dictionary_new.xlsx is a foundational input file that drives the categorization and keyword mapping logic of the script. It ensures that metrics and their attributes are correctly read, categorized, and exported for downstream processes.
+- 
 
+### scr
+
+### upload
+
+### txt
+
+### output_metric
 ---------------------------------------------------------------------
 # groupproject  
 目前剩下的任务：  
