@@ -26,7 +26,7 @@ This branch provides a suite of Python scripts designed to automate the extracti
   
 - `merge_similarity.py`: In this code file, we merge the quantitative and qualitative metrics from separate files and process these metrics with a BERT model to identify semantic similarities to the target labels. The outcomes are saved based on the similarity thresholds.
   
-- `save_to_db`: In this file, we upload the processed data to the MySQL database. We align column names with the database schema and uses `SQLAlchemy` to insert the data into a specified table, enabling efficient data management and querying.
+- `save_to_db.py`: In this file, we upload the processed data to the MySQL database. We align column names with the database schema and uses `SQLAlchemy` to insert the data into a specified table, enabling efficient data management and querying.
 
 - `scoring_code.py`: We calculate the ESG scores and ratings for target companies. This file retrieves the latest company data from a database, compares it with industry averages and applies scoring rules to generate individual scores for Environment (E), Social (S), Governance (G) and an overall score. The results, including detailed metrics and ratings, are then stored back in the database for further analysis. 
 
