@@ -37,3 +37,6 @@ Follow the steps below to install and run the project:
 ### static
 
 ### templates
+
+## Notes
+As a team, we have merged all the programs into the `main` branch to ensure all components function seamlessly as a whole. If you wish to explore the detailed processes of each sub-team, you can check the `[GroupA]` and `[GroupB]` branches.
