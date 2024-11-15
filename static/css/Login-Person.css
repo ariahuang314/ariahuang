@@ -1,0 +1,146 @@
+ .u-section-1 {
+  min-height: 823px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 457px;
+  background-image: linear-gradient(#e3f9e5, #a3d9a5);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 500px;
+  box-shadow: 0px -2px 26px 0 rgba(0,0,0,0.25);
+  height: auto;
+  margin: -313px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 50px 30px 47px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  height: 293px;
+  width: 570px;
+  margin: 26px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-label-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-2 {
+  background-image: none;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 10px 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -46px auto 0;
+  padding: 10px 30px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  align-self: center;
+  font-weight: 700;
+  margin: 11px 85px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  margin: -27px auto 0 85px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 5px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 5px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}

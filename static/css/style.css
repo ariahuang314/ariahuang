@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  }
+.container {
+  background: white;
+  width: 80%;
+  margin-left:110px;
+  margin-bottom:10px;
+  height: 10vh;
+  align-items: center;
+  justify-content: center;
+}
+nav {
+  background: #fff;
+  border-radius: 50px;
+  padding: 10px;
+  box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.4);
+}
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px 50px 10px 50px;
+  margin-right: -60px;
+  margin-left: 300px;
+  margin-bottom: -10px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #777;
+  cursor: pointer;
+  position: relative;
+  z-index: 2;
+  transition: color 0.2s;
+}
+nav ul li::after {
+  content: '';
+  background: #fad181;
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+  position: absolute;
+  margin-top:-20px;
+  margin-left:-90px;
+  top: 100%;
+  left: 50%;
+  z-index: -1;
+  opacity: 0;
+  transition: top 0.5s,opacity 0.5s;
+}
+nav ul li:hover{
+  color: #fff;
+}
+nav ul li:hover::after{
+  top: 50%;
+  opacity: 1;
+}
+.people_box {
+  margin-top: 20px;
+  margin-left: 320px;
+  margin-right:300px;
+  margin-bottom:20px;
+  border: 3px solid #446A37;
+  border-top-width: 30px;
+  border-radius: 10px;
+  }
+.people_box .people_form {
+  width: 1280px;
+  height: 100%;
+  position: relative;
+  margin-left: 100px;
+  margin-top:25px;
+}
+.people_box .people_form .form_info {
+  align-items: center;
+  margin-bottom: 30px;
+}
+.people_box .people_form .form_info label {
+  width: 80px;
+  color: #343434;
+}
+.people_box .people_form .form_info input {
+  padding: 15px;
+  min-height: 10px;
+  background: #fff;
+  border: 1px solid #d4d4d4;
+  border-radius: 6px;
+  outline: none;
+  min-width: 128px;
+  color: #343434;
+}
+.people_box .people_form .form_info select {
+  padding: 5px;
+  min-height: 128px;
+  background: #fff;
+  border: 1px solid #d4d4d4;
+  border-radius: 6px;
+  outline: none;
+  color: #343434;
+  min-width: 180px;
+}
+.submit_box {
+  color: #ffffff;
+  letter-spacing: 0.12px;
+  text-align: center;
+  line-height: 100px;
+  font-weight: 500;
+  width: 200px;
+  height: 100px;
+  margin-top: 50px;
+  margin-bottom:20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
