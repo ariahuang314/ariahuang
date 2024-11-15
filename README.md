@@ -20,7 +20,7 @@ This project provides a suite of Python scripts designed to automate the extract
 
 ### scr ([detailed explanation](https://github.com/ariahuang314/groupproject/wiki/3-Automated-ESG-Metric-Extraction-and-Processing-Workflow))
 - `main.py`:
-- `pdf_to_txt.py`:
+- `pdf_to_txt.py`: We convert the ESG reports to texts by using regularization and provide a pipeline to convert PDF files into clean, structured text files, particularly useful for processing documents for further text analysis.
 - `divide_quantity_qualitative.py`:
 - `llm_model.py`:
 - `supplement_model.py`:
