@@ -44,6 +44,14 @@ This project provides a suite of Python scripts designed to automate the extract
 - The TXT files converted by pdf_to_txt.py will be saved here and later read and processed by llm_model.py.
 
 ### output_metric
+- `Quantity_metrics.csv`: Stores data extracted from quantitative metrics. This typically includes numerical information, such as amounts or ratios, for further processing and merging.
+
+- `Qualitative_metrics_filter.csv`: Contains filtered qualitative metrics data.This file includes metrics matched with target labels, facilitating subsequent analysis and standardization.
+
+- `metrics.csv`: Holds the combined data of quantitative and qualitative metrics. This output file integrates all metrics and serves as the data source for similarity calculations.
+
+- `metrics_filter.csv`: Contains high-quality metrics filtered from the merged data. After BERT embedding and similarity calculations, the data is refined and cleaned for further usage and analysis.
+
 ---------------------------------------------------------------------
 # groupproject  
 目前剩下的任务：  
