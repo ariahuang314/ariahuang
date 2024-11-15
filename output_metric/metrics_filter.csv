@@ -1,0 +1,18 @@
+﻿company_name,standard_metric,value,unit,similarity,confidence
+ABR,Absolute_emissions,1.0,%,0.9438800811767578,0.9
+ABR,Anti_corruption_disclosures,1.0,incidents,0.8960081338882446,0.95
+ABR,Assurance_of_sustainability_report,1.0,,0.9170913696289062,0.9837750792503356
+ABR,Average_training_hours_per_employee,480.0,hours,0.9359481930732727,0.9
+ABR,Board_independence,0.4,ratio,0.9519248604774475,0.95
+ABR,Consumer_rights_protection,1.0,,0.924370288848877,0.0
+ABR,Current_employees_by_age_groups,80.0,%,0.9503265619277954,0.9
+ABR,Energy_consumption_intensity,29.0,%,0.9316601157188416,0.85
+ABR,Green_financing_projects,1.0,tonnes CO2e / revenue S$ 000,0.8757284879684448,0.95
+ABR,Protected_or_restored_habitats,1.0,%,0.8859908580780029,0.85
+ABR,Total_energy_consumption,1.0,,0.9220815896987915,0.9927035570144652
+ABR,Total_number_of_employees,376.0,hours,0.9099475741386414,0.9
+ABR,Total_turnover,13.7,%,0.9999997615814209,0.95
+ABR,Turnover_by_age,66.0,%,0.944748044013977,0.9
+ABR,Water_consumption,830232.0,kWh,0.9416145086288452,0.95
+ABR,Water_intensity,0.044,kWh / revenue S$ 000,0.9843239188194275,0.95
+ABR,Work_related_injuries,0.0,incidents,0.8875176906585693,0.95

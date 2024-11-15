@@ -1,0 +1,107 @@
+{
+    "Protected_or_restored_habitats": [
+        "Natural resources",
+        "Biodiversity",
+        "Ecosystem Services",
+        "Restoration Projects",
+        "GRI 304"
+    ],
+    "Absolute_emissions": [
+        "Absolute emissions",
+        "GRI 305-1",
+        "GRI 305-2",
+        "GRI 305-3"
+    ],
+    "Total_energy_consumption": [
+        "energy consumption",
+        "GRI 302-1"
+    ],
+    "Green_financing_projects": [
+        "Sustainable Investment",
+        "Climate-related Financing",
+        "Green Bonds Issued",
+        "Environmental Impact of Financed Projects",
+        "GRI 201-1"
+    ],
+    "Green_certified_buildings": [
+        "LEED",
+        "BREEAM",
+        "WELL",
+        "GRI 413-1"
+    ],
+    "Availability_of_Healthcare_Resources": [
+        "Healthcare Coverage for Employees",
+        "GRI 403-6"
+    ],
+    "Community_Health_Program_Count": [
+        "Community Health Initiatives",
+        "GRI 413-1"
+    ],
+    "Consumer_rights_protection": [
+        "Customer Privacy and Data Protection",
+        "Consumer rights",
+        "Product Health",
+        "Customer Feedback",
+        "GRI 102-17"
+    ],
+    "Community_nutrition_programs": [
+        "Nutrition and Health Initiatives",
+        "Health and Wellness Programs",
+        "Balanced Diets",
+        "Nutrition Organizations",
+        "Food Banks"
+    ],
+    "Philanthropic_initiatives": [
+        "Charitable Contributions",
+        "Philanthropy",
+        "Employee Volunteering",
+        "Disaster Relief",
+        "Corporate Donations"
+    ],
+    "Controversial_Sourcing": [
+        "Controversial Sourcing",
+        "GRI 308-2"
+    ],
+    "List_of_relevant_certifications": [
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 37001",
+        "ISO 9001",
+        "LEED",
+        "Energy Star",
+        "FSC",
+        "SA8000",
+        "Fair Trade Certification",
+        "B Corp Certification",
+        "OHSAS 18001",
+        "AA1000",
+        "SMETA",
+        "CarbonNeutral Certification",
+        "CDP",
+        "Green Seal Certification",
+        "GRI"
+    ],
+    "Assurance_of_sustainability_report": [
+        "PwC",
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "SGS",
+        "Bureau Veritas",
+        "DNV GL"
+    ],
+    "Anti_corruption_disclosures": [
+        "Anti-corruption Policies",
+        "Corruption Risk Assessments",
+        "Anti-corruption Training for Employees",
+        "Anti-corruption Procedures"
+    ],
+    "External_audit_conducted": [
+        "External Financial Audit",
+        "GRI 102-56"
+    ],
+    "Executive_compensation_disclosure": [
+        "Executive Compensation Structure",
+        "GRI 102-35"
+    ]
+}
