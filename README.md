@@ -41,6 +41,7 @@ This project provides a suite of Python scripts designed to automate the extract
 - Upload ESG reports to this folder and the `pdf_to_txt.py` file will read their contents, converting the PDFs into text files stored in the `txt` folder for subsequent analysis.
 
 ### txt
+- The TXT files converted by pdf_to_txt.py will be saved here and later read and processed by llm_model.py.
 
 ### output_metric
 ---------------------------------------------------------------------
