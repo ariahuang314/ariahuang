@@ -1,3 +1,18 @@
+# ESG Metrics Extraction and Standardization
+
+## Overview
+
+This project provides a suite of Python scripts designed to automate the extraction of Environmental, Social, and Governance (ESG) metrics from PDF reports. The workflow includes data extraction, cleaning, and similarity matching to standardize the extracted metrics.
+
+## Repository Structure
+
+## Installation
+
+
+   ```bash
+   git clone https://github.com/ariahuang314/groupproject.git
+
+---------------------------------------------------------------------
 # groupproject  
 目前剩下的任务：  
 1. 利用模型将txt文件转换为grouped_data.json格式的内容，可以在我的基础上调，换模型也行  
