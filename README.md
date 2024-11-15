@@ -21,10 +21,10 @@ This project provides a suite of Python scripts designed to automate the extract
 ### scr ([detailed explanation](https://github.com/ariahuang314/groupproject/wiki/3-Automated-ESG-Metric-Extraction-and-Processing-Workflow))
 - `main.py`:
 - `pdf_to_txt.py`: We convert the ESG reports to texts by using regularization and provide a pipeline to convert PDF files into clean, structured text files, particularly useful for processing documents for further text analysis.
-- `divide_quantity_qualitative.py`:
-- `llm_model.py`:
-- `supplement_model.py`:
-- `merge_similarity`:
+- `divide_quantity_qualitative.py`: From the dictionary created, we divide metrics into qualitative and quantitative categories and save them to `.json` files.
+- `llm_model.py`: We define a pipeline for extracting ESG-related metrics from semi-structured text using OpenAI's language model, specifically configured for environmental, social, and governance data. It provides utilities to retrieve ESG indicators, values, units, and confidence scores from raw text and then saves the results in CSV format.
+- `supplement_model.py`: We load a sentiment analysis model to process qualitative metrics based on a JSON file of metric keywords. The function searches for keyword matches within the text file and splits matched sentences into shorter sub-sentences for analysis. Using it, we evaluate each sub-sentence to obtian sentiment and confidence score. For each detected metric, we assign a value of 1, store it in a new DataFrame alongside its confidence score and drop duplicates.
+- `merge_similarity.py`: In this code file, we merge the quantitative and qualitative metrics from separate files and process these metrics with a BERT model to identify semantic similarities to the target labels. The outcomes are saved based on the similarity thresholds.
 - `save_to_db`:
 ### upload
 
