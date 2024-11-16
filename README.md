@@ -60,5 +60,11 @@ Follow the steps below to install and run the project:
 
 ### templates
 
+- Overview: Mainly used to store HTML templates for the project. The templates inside define the structure and layout of the web pages, ensuring consistency in the user interface across the application.
+
+- Function:
+  - Interface Management: By separating HTML templates from application logic,  `templates` achieves a clear separation of concerns, making the project easier to maintain and update.
+  - Unified Design: Provides a consistent layout and style for the project's user interface, enhancing the user experience.
+
 ## Notes
 As a team, we have merged all the programs into the `main` branch to ensure all components function seamlessly as a whole. If you wish to explore the detailed processes of each sub-team, you can check the [`GroupA`](https://github.com/ariahuang314/groupproject/tree/GroupA_Data_Extraction) and [`GroupB`](https://github.com/ariahuang314/groupproject/tree/GroupB-ESG-estimate) branches.
