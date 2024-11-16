@@ -21,6 +21,9 @@ Follow the steps below to install and run the project:
    ```bash
    pip install -r requirements.txt
    ```
+4. **OpenAI Keys**:
+
+   Log in and obtain an OpenAI API key from [OpenAI API Keys](https://platform.openai.com/settings/organization/api-keys) when using the `llm_model.py` for metrics extraction and standardization. [Click to get specific instructions]().
    
 ## Repository Structure
 
