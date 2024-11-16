@@ -12,7 +12,7 @@ import pandas as pd
 from langchain.schema.messages import HumanMessage
 from typing import List, Optional
 
-api_key = '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' 
+api_key = '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' 
 results_file = '../output_metric/Quantity_metrics.csv'
 
 class OpenLLMAPI(LLM):
