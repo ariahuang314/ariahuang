@@ -38,6 +38,13 @@ Follow the steps below to install and run the project:
 
 ### output_metric
 
+- Overview: Stores the results of data processing, focusing on organizing and preserving the analyzed and integrated metrics data. It's an output node in the data processing workflow, providing data for subsequent analysis and applications.
+
+- Function:
+  -Data Integration and Classification: Stores processed quantitative and qualitative metrics, categorizing them to lay the foundation for analysis and calculations.
+  - Data Filtering and Optimization: Contains filtered and optimized metrics, ensuring relevance and reliability to support further analysis, modeling and standardization processes.
+
+
 ### pdf_processing
 
 - Overview: This folder is a specialized modular toolkit designed for handling and managing PDF documents. It integrates functions for text extraction, cleaning, segmentation, and database interactions, providing technical support for efficient and systematic PDF processing.
