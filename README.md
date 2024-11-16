@@ -16,6 +16,12 @@ Follow the steps below to install and run the project:
    ```bash
    cd groupproject
    ```
+3. **Install the required dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
 ## Repository Structure
 
 ### config
