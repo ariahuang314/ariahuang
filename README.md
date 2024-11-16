@@ -30,6 +30,10 @@ Follow the steps below to install and run the project:
 
 ### dictionary
 
+- Overview: The `dictionary` folder serves as a core resource hub for the script, containing classification rules and mappings between metrics and keywords.
+- 
+- Function: Facilitates metric categorization and keyword mapping, ensures data accuracy, and provides a foundation for downstream processes.-
+
 ### other
 
 ### output_metric
