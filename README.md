@@ -47,12 +47,14 @@ Follow the steps below to install and run the project:
   - File Management and Storage: Supports the uploading, storage, and organization of PDF files, generating corresponding text files for further use.
   - Database Interaction: Facilitates the storage of PDFs and their metadata in a structured database, ensuring reliable document management and retrieval.
 
-
-
-
-
-
 ### scr
+
+- Overview: A comprehensive data processing and analysis module set, which is designed to extract, classify, and analyze Environmental, Social and Governance (ESG) metrics from documents. Codes in this folder integrate database management and scoring systems to enable the effective utilization of extracted data.
+
+- Function:
+  - ESG Data Extraction and Processing: Extracts the key ESG metrics from semi-structured text. Analyzes semantic and sentiment information using various models and generates both qualitative and quantitative data.
+  - Data Integration and Analysis: Merges and processes qualitative and quantitative metrics and calculates semantic similarity. Also provides a basis for metric classification and analysis.
+  - Scoring and Storage: Calculates ESG scores and ratings based on scoring rules, stores the results in a database and supports further data querying and industry benchmarking.
 
 ### static
 
