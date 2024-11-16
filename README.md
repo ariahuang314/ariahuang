@@ -18,8 +18,6 @@ Follow the steps below to install and run the project:
    ```
 ## Repository Structure
 
-### main
-
 ### config
 
 ### dash_app(1.0)
@@ -72,6 +70,15 @@ Follow the steps below to install and run the project:
 - Function:
   - Interface Management: By separating HTML templates from application logic,  `templates` achieves a clear separation of concerns, making the project easier to maintain and update.
   - Unified Design: Provides a consistent layout and style for the project's user interface, enhancing the user experience.
+
+### main
+- Overview: Responsible for managing the user interface, integrating data processing and coordinating backend logic. By combining multiple modules, it facilitates a complete workflow from data input to analytical output and provides users with an intuitive interaction experience.
+
+- Function:
+  - User Interaction and Routing Management: Offers functionalities such as multi-role login, data upload and result viewing. It also processes user requests through routing logic to ensure tailored services for different user types.  
+  - Modular Function Invocation: Integrates various data processing modules, including PDF file processing, map visualization, model execution and data analysis.  
+  - Data Management and Presentation: Enables data storage, querying, and updating through database integration. It presents analysis results and visualizations via frontend templates to support deeper insights and informed decision-making.
+  - Security and Session Management: Implements session control for user authentication, information protection and role-based access management, ensuring system security and stability.
 
 ## Notes
 As a team, we have merged all the programs into the `main` branch to ensure all components function seamlessly as a whole. If you wish to explore the detailed processes of each sub-team, you can check the [`GroupA`](https://github.com/ariahuang314/groupproject/tree/GroupA_Data_Extraction) and [`GroupB`](https://github.com/ariahuang314/groupproject/tree/GroupB-ESG-estimate) branches.
