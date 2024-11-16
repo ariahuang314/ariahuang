@@ -11,8 +11,16 @@ import re
 import pandas as pd
 from langchain.schema.messages import HumanMessage
 from typing import List, Optional
+from dotenv import load_dotenv
 
-api_key = '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'
+load_dotenv()
+
+# 从环境变量中获取 API 密钥
+api_key = os.getenv("OPENAI_API_KEY")
+
+if not api_key:
+    raise ValueError("OPENAI_API_KEY is not set in the environment!")
+
 results_file = '../output_metric/Quantity_metrics.csv'
 
 class OpenLLMAPI(LLM):
