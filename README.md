@@ -22,7 +22,16 @@ Follow the steps below to install and run the project:
 
 ### config
 
-### dash_app
+### dash_app(1.0)
+
+Introduction
+
+This project uses the Dash framework to build an interactive data visualization application. The app reads data from a local Excel file and dynamically updates visualizations based on user selection.
+
+Access the Application
+
+After running the code cell that launches the Dash application, a local address (e.g., http://127.0.0.1:8050) will appear in the output. Click on this address or copy and paste it into the browser to access the app.
+
 
 ### dictionary
 
