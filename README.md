@@ -43,9 +43,9 @@ Follow the steps below to install and run the project:
 - Overview: This folder is a specialized modular toolkit designed for handling and managing PDF documents. It integrates functions for text extraction, cleaning, segmentation, and database interactions, providing technical support for efficient and systematic PDF processing.
 
 - Function:
-- - Text Processing and Extraction: Enables efficient extraction, cleaning, and segmentation of PDF content, laying the foundation for subsequent data analysis.
-- - File Management and Storage: Supports the uploading, storage, and organization of PDF files, generating corresponding text files for further use.
-- - Database Interaction: Facilitates the storage of PDFs and their metadata in a structured database, ensuring reliable document management and retrieval.
+  - Text Processing and Extraction: Enables efficient extraction, cleaning and segmentation of PDF content.
+  - File Management and Storage: Supports the uploading, storage, and organization of PDF files, generating corresponding text files for further use.
+  - Database Interaction: Facilitates the storage of PDFs and their metadata in a structured database, ensuring reliable document management and retrieval.
 
 
 
