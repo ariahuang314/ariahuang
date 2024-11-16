@@ -34,7 +34,7 @@ This branch provides a suite of Python scripts designed to automate the extracti
 - Upload ESG reports to this folder and the `pdf_to_txt.py` file will read their contents, converting the PDFs into text files stored in the `txt` folder for subsequent analysis.
 
 ### 4. txt
-- The TXT files converted by `pdf_to_txt.py` will be saved here and later read and processed by llm_model.py.
+- The TXT files converted by `pdf_to_txt.py` will be saved here and later read and processed by `llm_model.py`.
 
 ### 5. output_metric
 - `Quantity_metrics.csv`: Stores data extracted using quantitative metrics, which includes numerical information, such as amounts or ratios, for further processing and merging.
