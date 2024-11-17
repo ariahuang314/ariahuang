@@ -1,4 +1,4 @@
-# ESGjoy
+# Team eightA: ESGjoy Website
 
 ## 🧑‍🎓Team Member(in alphabetic order)
 Group A: Huang Shurui, Jiao Zijun, Liu Chengyan, Wan Xinyun
