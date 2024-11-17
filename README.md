@@ -39,7 +39,7 @@ The objective of the dash app is to present data pertaining to a company's ___ES
 
   - Real-time Data Visualization: Upon uploading a report, the application automatically presents the visualization charts.
 
-  - Segmentation by ESG Metrics: The application supports segmentation of data across different ESG metrics, including environmental, social, and governance aspects. This functionality allows users to gain detailed insights into the specific performance of each metric, providing a nuanced understanding of the company's ___ESG___ performance.
+  - Segmentation by ESG Metrics: The application supports segmentation of data across different ESG metrics, including environmental, social, and governance aspects, which allows users to gain detailed insights into the specific performance of each metric.
 
 ### dictionary
 
