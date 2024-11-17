@@ -3,9 +3,6 @@
 ## Introduction
 Welcome to the Subgroup B collaboration repository. This repository encompasses the entire process of ESG (Environmental, Social, and Governance) performance evaluation, including the scoring system setup, industry trend analysis, frontend design, and visualization. Here, you will find all the data, code, and documentation needed for team collaboration and research.
 
-## Directory Structure
-TBC
-
 ## Functional Modules
 
 ### Scoring System
