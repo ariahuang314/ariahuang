@@ -15,7 +15,7 @@ Group B: Jiang Xinfu, Shu Wenxuan, Sun Xinyi, Wang Hongsheng, Zou Yiyan
 No installation is required! You can directly access the system deployed on the cloud using the link below:  
 [Welcome to ESGjoy Website!](http://43.156.233.50:5001/)
 
-<img width="1245" alt="截屏2024-11-17 12 44 46" src="https://github.com/user-attachments/assets/0d9114b7-5f88-4734-98a6-8c0dcce7217c">
+<img width="900" alt="截屏2024-11-17 12 44 46" src="https://github.com/user-attachments/assets/0d9114b7-5f88-4734-98a6-8c0dcce7217c">
 
 ### Local Setup and Run
 
