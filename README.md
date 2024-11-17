@@ -50,6 +50,23 @@ The core features of this project include:
 - **User Authentication and Role Management**: Support user login/registration with role-based access for individuals, companies, and regulators.
 - **Cloud-Based File Upload and Processing**: Enable secure file uploads and seamless data handling in the cloud environment.
 
+## 🛠️GitHub Branch Structure
+
+The repository is organized into multiple branches, each serving a specific purpose:
+
+- **`main`**:  
+  The primary branch containing runnable code and the stable version of the project. Use this branch to deploy the application.
+
+- **`GroupA`**:  
+  This branch includes all contributions and code developed by Team A, focusing on ESG  data extraction.
+
+- **`GroupB`**:  
+  This branch contains contributions and code developed by Team B, focusing on scoring system, visualization and system construction.
+
+- **`data`**:  
+  A dedicated branch for storing raw data, such as training reports, datasets, and related files used for machine learning or analysis. Note: This branch does not contain runnable code.
+
+
 ## 🤖Tech Stack
 
 The technologies used in this project include:
