@@ -1,11 +1,11 @@
 # ESGjoy
 
-## Team Member(in alphabetic order)
+## 🧑‍🎓Team Member(in alphabetic order)
 Group A: Huang Shurui, Jiao Zijun, Liu Chengyan, Wan Xinyun
 
 Group B: Jiang Xinfu, Shu Wenxuan, Sun Xinyi, Wang Hongsheng, Zou Yiyan
 
-## Project Overview
+## 🌍Project Overview
   This project develops an innovative system to automate ESG information extraction from unstructured reports and analyze ESG performance in specific industries. Using large language models and a scoring framework, paired with detailed visualizations, the system streamlines data extraction, improves data quality, and delivers actionable insights for enhancing sustainability efforts.
   
 ## 💻Installation and Run
@@ -40,7 +40,7 @@ If you prefer running the project locally, follow these steps:
 
    Log in and obtain an OpenAI API key from [OpenAI API Keys](https://platform.openai.com/settings/organization/api-keys) when using the `llm_model.py` for metric extraction and standardization. [Click to get more specific instructions.](https://github.com/ariahuang314/groupproject/wiki/8-API-Keys)
 
-## Features
+## 📊Features
 
 The core features of this project include:
 
@@ -50,7 +50,7 @@ The core features of this project include:
 - **User Authentication and Role Management**: Support user login/registration with role-based access for individuals, companies, and regulators.
 - **Cloud-Based File Upload and Processing**: Enable secure file uploads and seamless data handling in the cloud environment.
 
-## Tech Stack
+## 🤖Tech Stack
 
 The technologies used in this project include:
 
