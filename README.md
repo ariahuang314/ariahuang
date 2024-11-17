@@ -33,13 +33,13 @@ Follow the steps below to install and run the project:
 
 - Overview:
 
-The objective of the dash app is to present data pertaining to a company's ___ESG___ performance. After uploading a company's ESG report through the front-end interface, the users will be presented with the company's ESG performance metrics, facilitating a comprehensive analysis of the company's sustainability performance.
+The objective of the dash app is to present data pertaining to a company's ___ESG___ performance. After uploading a company's ESG report through the front-end interface, the users will be presented with the company's ___ESG___ metrics, facilitating a comprehensive analysis of the company's sustainability performance.
 
 - Function:
 
- - Real-time Data Visualization: Upon uploading a report, the application automatically presents the visualization charts.
+  - Real-time Data Visualization: Upon uploading a report, the application automatically presents the visualization charts.
 
- - Segmentation by ESG Metrics: The application supports segmentation of data across different ESG metrics, including environmental, social, and governance aspects. This functionality allows users to gain detailed insights into the specific performance of each metric, providing a nuanced understanding of the company's ___ESG___ performance.
+  - Segmentation by ESG Metrics: The application supports segmentation of data across different ESG metrics, including environmental, social, and governance aspects. This functionality allows users to gain detailed insights into the specific performance of each metric, providing a nuanced understanding of the company's ___ESG___ performance.
 
 ### dictionary
 
