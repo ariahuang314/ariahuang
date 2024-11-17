@@ -6,7 +6,10 @@ Group A: Huang Shurui, Jiao Zijun, Liu Chengyan, Wan Xinyun
 Group B: Jiang Xinfu, Shu Wenxuan, Sun Xinyi, Wang Hongsheng, Zou Yiyan
 
 ## 🌍Project Overview
-  This project develops an innovative system to automate ESG information extraction from unstructured reports and analyze ESG performance in specific industries. Using large language models and a scoring framework, paired with detailed visualizations, the system streamlines data extraction, improves data quality, and delivers actionable insights for enhancing sustainability efforts.
+  This project develops an innovative system to automate ESG information extraction from unstructured reports and analyze ESG performance in specific industries. Using large language models and a scoring framework, paired with detailed visualizations, the system streamlines data extraction, improves data quality, and delivers actionable insights for enhancing sustainability efforts.  
+
+🎥 [Watch the Video Explanation](https://youtu.be/eJ5Dv__ui3Q)
+
   
 ## 💻Installation and Run
 
