@@ -2,6 +2,7 @@
 
 ## Team Member(in alphabetic order)
 Group A: Huang Shurui, Jiao Zijun, Liu Chengyan, Wan Xinyun
+
 Group B: Jiang Xinfu, Shu Wenxuan, Sun Xinyi, Wang Hongsheng, Zou Yiyan
 
 ## Project Overview
