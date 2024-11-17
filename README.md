@@ -1,4 +1,9 @@
 # ESGJOY
+
+## Team Member(in alphabetic order)
+Group A: Huang Shurui, Jiao Zijun, Liu Chengyan, Wan Xinyun
+Group B: Jiang Xinfu, Shu Wenxuan, Sun Xinyi, Wang Hongsheng, Zou Yiyan
+
 ## Project Overview
   This project aims to develop an innovative system for automatically extracting ESG information from unstructured reports and conducting a comprehensive analysis of ESG performance in selected industries. By leveraging large language models and a scoring framework, combined with detailed front-end visualizations, the system not only simplifies the ESG data extraction process and enhances data quality but also provides valuable insights for companies to improve their sustainability efforts.
   
